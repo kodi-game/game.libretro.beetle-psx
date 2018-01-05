@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <buttonmap version="2">
-	<controller id="game.controller.ps" model="ps1pad" type="RETRO_DEVICE_JOYPAD" subclass="0">
+	<controller id="game.controller.ps.gamepad" type="RETRO_DEVICE_JOYPAD" subclass="0">
 		<feature name="cross" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
 		<feature name="circle" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
 		<feature name="square" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
@@ -20,7 +20,7 @@
 		<feature name="strongmotor" mapto="RETRO_RUMBLE_STRONG"/>
 		<feature name="weakmotor" mapto="RETRO_RUMBLE_WEAK"/>
 	</controller>
-	<controller id="game.controller.ps" model="dualanalog" type="RETRO_DEVICE_ANALOG" subclass="0">
+	<controller id="game.controller.ps.dualanalog" type="RETRO_DEVICE_ANALOG" subclass="0">
 		<feature name="cross" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
 		<feature name="circle" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
 		<feature name="square" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
@@ -40,7 +40,7 @@
 		<feature name="strongmotor" mapto="RETRO_RUMBLE_STRONG"/>
 		<feature name="weakmotor" mapto="RETRO_RUMBLE_WEAK"/>
 	</controller>
-	<controller id="game.controller.ps" model="dualshock" type="RETRO_DEVICE_ANALOG" subclass="1">
+	<controller id="game.controller.ps.dualshock" type="RETRO_DEVICE_ANALOG" subclass="1">
 		<feature name="cross" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
 		<feature name="circle" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
 		<feature name="square" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
@@ -61,7 +61,7 @@
 		<feature name="weakmotor" mapto="RETRO_RUMBLE_WEAK"/>
 	</controller>
 	<!-- TODO
-	<controller id="game.controller.ps" model name="analogjoy" type="RETRO_DEVICE_ANALOG" subclass="2">
+	<controller id="game.controller.ps.analogjoy" type="RETRO_DEVICE_ANALOG" subclass="2">
 		<feature name="cross" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
 		<feature name="circle" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
 		<feature name="square" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
@@ -91,7 +91,7 @@
 		<feature name="reload" mapto="RETRO_DEVICE_ID_LIGHTGUN_RELOAD"/>
 		<feature name="crosshair" mapto="RETRO_DEVICE_LIGHTGUN"/>
 	</controller>
-	<controller id="game.controller.konami.justifier" model="green" type="RETRO_DEVICE_LIGHTGUN" subclass="0">
+	<controller id="game.controller.konami.justifier.green" type="RETRO_DEVICE_LIGHTGUN" subclass="0">
 		<feature name="trigger" mapto="RETRO_DEVICE_ID_LIGHTGUN_TRIGGER"/>
 		<feature name="start" mapto="RETRO_DEVICE_ID_LIGHTGUN_START"/>
 		<!-- TODO: Is aux a valid button? Beetle PSX seems to think so -->
