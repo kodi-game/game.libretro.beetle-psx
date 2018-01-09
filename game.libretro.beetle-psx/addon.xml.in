@@ -7,7 +7,7 @@
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.ps" version="1.0.0"/>
 		<import addon="game.controller.ps.guncon" version="1.0.0"/>
-		<import addon="game.controller.konami.justifier.green" version="1.0.0"/>
+		<import addon="game.controller.konami.justifier.ps" version="1.0.0"/>
 		<import addon="game.controller.ps.mouse" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
