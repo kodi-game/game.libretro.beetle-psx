@@ -69,137 +69,145 @@ msgid "Gun Cursor"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Mouse Sensitivity"
+msgid "Port 1: Gun Crosshair Color"
 msgstr ""
 
 msgctxt "#30012"
-msgid "NegCon Twist Response"
+msgid "Port 2: Gun Crosshair Color"
 msgstr ""
 
 msgctxt "#30013"
-msgid "NegCon Twist Deadzone"
+msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Memory Card 0 Method (Restart)"
+msgid "neGcon Twist Response"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Enable Memory Card 1 (Restart)"
+msgid "neGcon Twist Deadzone"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Shared Memory Cards (Restart)"
+msgid "Memory Card 0 Method (Restart Required)"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Memory Card Left Index"
+msgid "Enable Memory Card 1 (Restart Required)"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Memory Card Right Index"
+msgid "Shared Memory Cards (Restart Required)"
 msgstr ""
 
 msgctxt "#30019"
-msgid "PGXP Operation Mode"
+msgid "Memory Card Left Index"
 msgstr ""
 
 msgctxt "#30020"
-msgid "PGXP 2D Geometry Tolerance"
+msgid "Memory Card Right Index"
 msgstr ""
 
 msgctxt "#30021"
-msgid "PGXP Primitive Culling"
+msgid "PGXP Operation Mode"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Line-to-Quad Hack"
+msgid "PGXP 2D Geometry Tolerance"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Widescreen Mode Hack"
+msgid "PGXP Primitive Culling"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Widescreen Mode Hack Aspect Ratio"
+msgid "Line-to-Quad Hack"
 msgstr ""
 
 msgctxt "#30025"
-msgid "CPU Frequency Scaling (Overclock)"
+msgid "Widescreen Mode Hack"
 msgstr ""
 
 msgctxt "#30026"
-msgid "GTE Overclock"
+msgid "Widescreen Mode Hack Aspect Ratio"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Skip BIOS"
+msgid "CPU Frequency Scaling (Overclock)"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Override BIOS (Restart)"
+msgid "GTE Overclock"
 msgstr ""
 
 msgctxt "#30029"
-msgid "CPU Dynarec"
+msgid "Skip BIOS"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Dynarec Code Invalidation"
+msgid "Override BIOS (Restart Required)"
 msgstr ""
 
 msgctxt "#30031"
-msgid "Dynarec DMA/GPU Event Cycles"
+msgid "CPU Dynarec"
 msgstr ""
 
 msgctxt "#30032"
-msgid "Core-Reported FPS Timing"
+msgid "Dynarec Code Invalidation"
 msgstr ""
 
 msgctxt "#30033"
-msgid "PAL (European) Video Timing Override"
+msgid "Dynarec DMA/GPU Event Cycles"
 msgstr ""
 
 msgctxt "#30034"
-msgid "Crop Overscan"
+msgid "Core-Reported FPS Timing"
 msgstr ""
 
 msgctxt "#30035"
-msgid "Additional Cropping"
+msgid "PAL (European) Video Timing Override"
 msgstr ""
 
 msgctxt "#30036"
-msgid "Offset Cropped Image"
+msgid "Crop Overscan"
 msgstr ""
 
 msgctxt "#30037"
-msgid "GPU Rasterizer Overclock"
+msgid "Additional Cropping"
 msgstr ""
 
 msgctxt "#30038"
-msgid "Core Aspect Ratio"
+msgid "Offset Cropped Image"
 msgstr ""
 
 msgctxt "#30039"
-msgid "Initial Scanline - NTSC"
+msgid "GPU Rasterizer Overclock"
 msgstr ""
 
 msgctxt "#30040"
-msgid "Last Scanline - NTSC"
+msgid "Core Aspect Ratio"
 msgstr ""
 
 msgctxt "#30041"
-msgid "Initial Scanline - PAL"
+msgid "Initial Scan Line - NTSC"
 msgstr ""
 
 msgctxt "#30042"
-msgid "Last Scanline - PAL"
+msgid "Last Scan Line - NTSC"
 msgstr ""
 
 msgctxt "#30043"
-msgid "CD Access Method (Restart)"
+msgid "Initial Scan Line - PAL"
 msgstr ""
 
 msgctxt "#30044"
+msgid "Last Scan Line - PAL"
+msgstr ""
+
+msgctxt "#30045"
+msgid "CD Access Method (Restart Required)"
+msgstr ""
+
+msgctxt "#30046"
 msgid "CD Loading Speed"
 msgstr ""
