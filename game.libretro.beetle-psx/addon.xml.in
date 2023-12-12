@@ -40,6 +40,7 @@
 		<description lang="es_ES">Beetle PSX es el módulo para PlayStation de Beetle, una adaptación de Mednafen.</description>
 		<description lang="fi_FI">Beetle PSX on Mednafenin Beetlestä kehittämän PlayStation-moduulin käännösversio.</description>
 		<description lang="id_ID">Beetle PSX adalah modul PlayStation dari Beetle, port dari Madnafen.</description>
+		<description lang="it_IT">Beetle PSX è il modulo PlayStation di Beetle, un port di Madnafen.</description>
 		<description lang="ru_RU">Beetle PSX — это модуль Playstation для Kodi | Форк PSX модуля Beetle для эмулятора Mednafen.</description>
 		<description lang="zh_CN">Beetle PSX 是 PlayStation 的 Beetle 模块，是 Madnafen 的移植。</description>
 	</extension>
