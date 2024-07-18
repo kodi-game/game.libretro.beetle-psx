@@ -49,10 +49,6 @@ msgctxt "#30005"
 msgid "Analog Self-Calibration"
 msgstr "模拟自校准"
 
-msgctxt "#30006"
-msgid "Enable DualShock Analog Mode Toggle"
-msgstr "启用 DualShock 模拟模式切换"
-
 msgctxt "#30007"
 msgid "DualShock Analog Mode Combo"
 msgstr "DualShock 模拟模式组合"
@@ -224,6 +220,14 @@ msgstr "CD 访问方法（需要重新启动）"
 msgctxt "#30049"
 msgid "CD Loading Speed"
 msgstr "CD 读取速度"
+
+msgctxt "#30050"
+msgid "DualShock Analog Mode Toggle"
+msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Enable DualShock Analog Mode Toggle"
+#~ msgstr "启用 DualShock 模拟模式切换"
 
 #~ msgctxt "#30007"
 #~ msgid "Port 1: Multitap Enable"
