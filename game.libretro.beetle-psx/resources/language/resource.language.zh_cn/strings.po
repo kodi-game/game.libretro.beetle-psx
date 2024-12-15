@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Beetle PSX is the PlayStation module of Beetle, a port of Madnafen."
 msgstr "Beetle PSX 是 PlayStation 的 Beetle 模块，是 Madnafen 的移植。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Internal GPU Resolution"
 msgstr "内部 GPU 分辨率"
@@ -224,6 +220,14 @@ msgstr "CD 读取速度"
 msgctxt "#30050"
 msgid "DualShock Analog Mode Toggle"
 msgstr ""
+
+msgctxt "#30051"
+msgid "Display OSD Messages"
+msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "#30006"
 #~ msgid "Enable DualShock Analog Mode Toggle"
