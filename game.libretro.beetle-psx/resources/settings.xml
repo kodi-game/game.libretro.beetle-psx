@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="beetle_psx_internal_resolution" values="1x(native)|2x|4x|8x|16x" default="1x(native)"/>
 		<setting label="30002" type="select" id="beetle_psx_dither_mode" values="1x(native)|internal resolution|disabled" default="1x(native)"/>
 		<setting label="30003" type="select" id="beetle_psx_frame_duping" values="disabled|enabled" default="disabled"/>
 		<setting label="30004" type="select" id="beetle_psx_display_internal_fps" values="disabled|enabled" default="disabled"/>
+		<setting label="30051" type="select" id="beetle_psx_display_osd" values="enabled|disabled" default="enabled"/>
 		<setting label="30005" type="select" id="beetle_psx_analog_calibration" values="disabled|enabled" default="disabled"/>
 		<setting label="30050" type="select" id="beetle_psx_analog_toggle" values="disabled|enabled|enabled-analog" default="disabled"/>
 		<setting label="30007" type="select" id="beetle_psx_analog_toggle_combo" values="l1+r1+select|l1+l2+r1+r2+start+select|l1+r1+start|l1+r1+l3|l1+r1+r3|l2+r2+select|l2+r2+start|l2+r2+l3|l2+r2+r3|l3+r3" default="l1+r1+select"/>
