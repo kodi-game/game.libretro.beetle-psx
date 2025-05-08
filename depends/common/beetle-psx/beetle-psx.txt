@@ -1,1 +1,1 @@
-beetle-psx https://github.com/libretro/beetle-psx-libretro/archive/5d2137e5f15db3b52583e8246bcf2669cebb147b.tar.gz
+beetle-psx https://github.com/libretro/beetle-psx-libretro/archive/4e0cb4ddf0c52ef802cd4f7f2b7d3a187ab9962d.tar.gz
