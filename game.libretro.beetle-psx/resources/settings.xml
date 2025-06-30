@@ -39,7 +39,7 @@
 		<setting label="30034" type="select" id="beetle_psx_dynarec_invalidate" values="full|dma" default="full"/>
 		<setting label="30035" type="select" id="beetle_psx_dynarec_eventcycles" values="128|256|384|512|640|768|896|1024|1152|1280|1408|1536|1664|1792|1920|2048" default="128"/>
 		<setting label="30036" type="select" id="beetle_psx_dynarec_spu_samples" values="1|4|16" default="1"/>
-		<setting label="30037" type="select" id="beetle_psx_core_timing_fps" values="force_progressive|force_interlaced|auto_toggle" default="force_progressive"/>
+		<setting label="30037" type="select" id="beetle_psx_core_timing_fps" values="auto_toggle|force_progressive|force_interlaced" default="auto_toggle"/>
 		<setting label="30038" type="select" id="beetle_psx_pal_video_timing_override" values="disabled|enabled" default="disabled"/>
 		<setting label="30043" type="select" id="beetle_psx_aspect_ratio" values="corrected|uncorrected|4:3|ntsc" default="corrected"/>
 		<setting label="30039" type="select" id="beetle_psx_crop_overscan" values="smart|disabled|static" default="smart"/>
