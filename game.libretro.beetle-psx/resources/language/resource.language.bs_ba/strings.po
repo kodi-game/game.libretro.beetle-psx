@@ -33,10 +33,6 @@ msgctxt "#30002"
 msgid "Dithering Pattern"
 msgstr "Uzorak treperenja"
 
-msgctxt "#30003"
-msgid "Frame Duping (Speedup)"
-msgstr "Kopiranje kadrova (ubrzanje)"
-
 msgctxt "#30004"
 msgid "Display Internal FPS"
 msgstr "Prikaz internog FPS-a"
@@ -53,14 +49,6 @@ msgctxt "#30008"
 msgid "DualShock Analog Mode Combo Hold Delay"
 msgstr "DualShock analogni način rada Combo Hold Delay"
 
-msgctxt "#30009"
-msgid "Port 1: Multitap Enable"
-msgstr "Port 1: Omogući višestruki prihvat"
-
-msgctxt "#30010"
-msgid "Port 2: Multitap Enable"
-msgstr "Port 2: Omogući višestruki prihvat"
-
 msgctxt "#30011"
 msgid "Gun Input Mode"
 msgstr "Način unosa pištolja"
@@ -68,14 +56,6 @@ msgstr "Način unosa pištolja"
 msgctxt "#30012"
 msgid "Gun Cursor"
 msgstr "Kursor pištolja"
-
-msgctxt "#30013"
-msgid "Port 1: Gun Crosshair Color"
-msgstr "Port 1: Boja nišana pištolja"
-
-msgctxt "#30014"
-msgid "Port 2: Gun Crosshair Color"
-msgstr "Port 2: Boja nišana pištolja"
 
 msgctxt "#30015"
 msgid "Mouse Sensitivity"
@@ -88,26 +68,6 @@ msgstr "neGconov odgovor na okretanje"
 msgctxt "#30017"
 msgid "neGcon Twist Deadzone"
 msgstr "neGcon Twist mrtva zona"
-
-msgctxt "#30018"
-msgid "Memory Card 0 Method (Restart Required)"
-msgstr "Metoda memorijske kartice 0 (potrebno ponovno pokretanje)"
-
-msgctxt "#30019"
-msgid "Enable Memory Card 1 (Restart Required)"
-msgstr "Omogući memorijsku karticu 1 (potrebno ponovno pokretanje)"
-
-msgctxt "#30020"
-msgid "Shared Memory Cards (Restart Required)"
-msgstr "Dijeljene memorijske kartice (potrebno ponovno pokretanje)"
-
-msgctxt "#30021"
-msgid "Memory Card Left Index"
-msgstr "Lijevi indeks memorijske kartice"
-
-msgctxt "#30022"
-msgid "Memory Card Right Index"
-msgstr "Desni indeks memorijske kartice"
 
 msgctxt "#30023"
 msgid "PGXP Operation Mode"
@@ -145,10 +105,6 @@ msgctxt "#30031"
 msgid "Skip BIOS"
 msgstr "Preskoči BIOS"
 
-msgctxt "#30032"
-msgid "Override BIOS (Restart Required)"
-msgstr "Nadjačavanje BIOS-a (potrebno ponovno pokretanje)"
-
 msgctxt "#30033"
 msgid "CPU Dynarec"
 msgstr "CPU Dynarec"
@@ -168,10 +124,6 @@ msgstr "Dynarec SPU uzorci"
 msgctxt "#30037"
 msgid "Core-Reported FPS Timing"
 msgstr "Vrijeme FPS-a prijavljeno od strane jezgra"
-
-msgctxt "#30038"
-msgid "PAL (European) Video Timing Override"
-msgstr "PAL (evropski) video tajming poništavanje"
 
 msgctxt "#30039"
 msgid "Crop Overscan"
@@ -209,10 +161,6 @@ msgctxt "#30047"
 msgid "Last Scan Line - PAL"
 msgstr "Posljednja linija skeniranja - PAL"
 
-msgctxt "#30048"
-msgid "CD Access Method (Restart Required)"
-msgstr "Metod pristupa CD-u (potrebno ponovno pokretanje)"
-
 msgctxt "#30049"
 msgid "CD Loading Speed"
 msgstr "Brzina učitavanja CD-a"
@@ -228,3 +176,107 @@ msgstr "Prikaz OSD poruka"
 msgctxt "#30052"
 msgid "Deinterlace Method"
 msgstr "Metoda deinterlaciranja"
+
+msgctxt "#30053"
+msgid "CD Access Method"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Override BIOS"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Multitap on Port 1"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Multitap on Port 2"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Gun Crosshair Color: Port 1"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Gun Crosshair Color: Port 2"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Memory Card Method"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Memory Card Slot 2"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Shared Memory Cards"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Memory Card Slot 1 Index"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Memory Card Slot 2 Index"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Frame Duping"
+msgstr ""
+
+msgctxt "#30065"
+msgid "PAL Video Timing Override"
+msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "Frame Duping (Speedup)"
+#~ msgstr "Kopiranje kadrova (ubrzanje)"
+
+#~ msgctxt "#30009"
+#~ msgid "Port 1: Multitap Enable"
+#~ msgstr "Port 1: Omogući višestruki prihvat"
+
+#~ msgctxt "#30010"
+#~ msgid "Port 2: Multitap Enable"
+#~ msgstr "Port 2: Omogući višestruki prihvat"
+
+#~ msgctxt "#30013"
+#~ msgid "Port 1: Gun Crosshair Color"
+#~ msgstr "Port 1: Boja nišana pištolja"
+
+#~ msgctxt "#30014"
+#~ msgid "Port 2: Gun Crosshair Color"
+#~ msgstr "Port 2: Boja nišana pištolja"
+
+#~ msgctxt "#30018"
+#~ msgid "Memory Card 0 Method (Restart Required)"
+#~ msgstr "Metoda memorijske kartice 0 (potrebno ponovno pokretanje)"
+
+#~ msgctxt "#30019"
+#~ msgid "Enable Memory Card 1 (Restart Required)"
+#~ msgstr "Omogući memorijsku karticu 1 (potrebno ponovno pokretanje)"
+
+#~ msgctxt "#30020"
+#~ msgid "Shared Memory Cards (Restart Required)"
+#~ msgstr "Dijeljene memorijske kartice (potrebno ponovno pokretanje)"
+
+#~ msgctxt "#30021"
+#~ msgid "Memory Card Left Index"
+#~ msgstr "Lijevi indeks memorijske kartice"
+
+#~ msgctxt "#30022"
+#~ msgid "Memory Card Right Index"
+#~ msgstr "Desni indeks memorijske kartice"
+
+#~ msgctxt "#30032"
+#~ msgid "Override BIOS (Restart Required)"
+#~ msgstr "Nadjačavanje BIOS-a (potrebno ponovno pokretanje)"
+
+#~ msgctxt "#30038"
+#~ msgid "PAL (European) Video Timing Override"
+#~ msgstr "PAL (evropski) video tajming poništavanje"
+
+#~ msgctxt "#30048"
+#~ msgid "CD Access Method (Restart Required)"
+#~ msgstr "Metod pristupa CD-u (potrebno ponovno pokretanje)"

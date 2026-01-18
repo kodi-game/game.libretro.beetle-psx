@@ -33,10 +33,6 @@ msgctxt "#30002"
 msgid "Dithering Pattern"
 msgstr "Паттерн дизеринга"
 
-msgctxt "#30003"
-msgid "Frame Duping (Speedup)"
-msgstr "Дублирование кадра (спидхак)"
-
 msgctxt "#30004"
 msgid "Display Internal FPS"
 msgstr "Отобразить внутренний FPS"
@@ -53,14 +49,6 @@ msgctxt "#30008"
 msgid "DualShock Analog Mode Combo Hold Delay"
 msgstr "Комбинированная задержка удержания аналогового режима DualShock"
 
-msgctxt "#30009"
-msgid "Port 1: Multitap Enable"
-msgstr "Порт 1: мультитап устройство включено"
-
-msgctxt "#30010"
-msgid "Port 2: Multitap Enable"
-msgstr "Порт 2: мультитап устройство включено"
-
 msgctxt "#30011"
 msgid "Gun Input Mode"
 msgstr "Режим ввода: оружие"
@@ -68,14 +56,6 @@ msgstr "Режим ввода: оружие"
 msgctxt "#30012"
 msgid "Gun Cursor"
 msgstr "Прицел ружья"
-
-msgctxt "#30013"
-msgid "Port 1: Gun Crosshair Color"
-msgstr "Порт 1: цвет перекрестия прицела"
-
-msgctxt "#30014"
-msgid "Port 2: Gun Crosshair Color"
-msgstr "Порт 2: цвет перекрестия прицела"
 
 msgctxt "#30015"
 msgid "Mouse Sensitivity"
@@ -88,26 +68,6 @@ msgstr "Отклик на вращение контроллера neGcon"
 msgctxt "#30017"
 msgid "neGcon Twist Deadzone"
 msgstr "Мёртвая зона вращений для контроллера neGcon"
-
-msgctxt "#30018"
-msgid "Memory Card 0 Method (Restart Required)"
-msgstr "Метод использования Memory Card 0 (требуется перезагрузка)"
-
-msgctxt "#30019"
-msgid "Enable Memory Card 1 (Restart Required)"
-msgstr "Включить Memory Card 1 (требуется перезагрузка)"
-
-msgctxt "#30020"
-msgid "Shared Memory Cards (Restart Required)"
-msgstr "Режим общих Memory Cards (требуется перезагрузка)"
-
-msgctxt "#30021"
-msgid "Memory Card Left Index"
-msgstr "Левый индекс Memory Card"
-
-msgctxt "#30022"
-msgid "Memory Card Right Index"
-msgstr "Правый индекс Memory Card"
 
 msgctxt "#30023"
 msgid "PGXP Operation Mode"
@@ -145,10 +105,6 @@ msgctxt "#30031"
 msgid "Skip BIOS"
 msgstr "Пропустить BIOS"
 
-msgctxt "#30032"
-msgid "Override BIOS (Restart Required)"
-msgstr "Переопределить BIOS (требуется перезагрузка)"
-
 msgctxt "#30033"
 msgid "CPU Dynarec"
 msgstr "CPU Dynarec"
@@ -168,10 +124,6 @@ msgstr "Образцы SPU Dynarec"
 msgctxt "#30037"
 msgid "Core-Reported FPS Timing"
 msgstr "Тайминг FPS на основе данных ядра"
-
-msgctxt "#30038"
-msgid "PAL (European) Video Timing Override"
-msgstr "Изменение тайминга видео на PAL (Европа)"
 
 msgctxt "#30039"
 msgid "Crop Overscan"
@@ -209,10 +161,6 @@ msgctxt "#30047"
 msgid "Last Scan Line - PAL"
 msgstr "Последняя строка развёртки — PAL"
 
-msgctxt "#30048"
-msgid "CD Access Method (Restart Required)"
-msgstr "Способ доступа к CD (требуется перезагрузка)"
-
 msgctxt "#30049"
 msgid "CD Loading Speed"
 msgstr "Скорость загрузки CD"
@@ -228,6 +176,110 @@ msgstr "Отображение экранных сообщений"
 msgctxt "#30052"
 msgid "Deinterlace Method"
 msgstr "Способ Деинтерлейсинга"
+
+msgctxt "#30053"
+msgid "CD Access Method"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Override BIOS"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Multitap on Port 1"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Multitap on Port 2"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Gun Crosshair Color: Port 1"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Gun Crosshair Color: Port 2"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Memory Card Method"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Memory Card Slot 2"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Shared Memory Cards"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Memory Card Slot 1 Index"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Memory Card Slot 2 Index"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Frame Duping"
+msgstr ""
+
+msgctxt "#30065"
+msgid "PAL Video Timing Override"
+msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "Frame Duping (Speedup)"
+#~ msgstr "Дублирование кадра (спидхак)"
+
+#~ msgctxt "#30009"
+#~ msgid "Port 1: Multitap Enable"
+#~ msgstr "Порт 1: мультитап устройство включено"
+
+#~ msgctxt "#30010"
+#~ msgid "Port 2: Multitap Enable"
+#~ msgstr "Порт 2: мультитап устройство включено"
+
+#~ msgctxt "#30013"
+#~ msgid "Port 1: Gun Crosshair Color"
+#~ msgstr "Порт 1: цвет перекрестия прицела"
+
+#~ msgctxt "#30014"
+#~ msgid "Port 2: Gun Crosshair Color"
+#~ msgstr "Порт 2: цвет перекрестия прицела"
+
+#~ msgctxt "#30018"
+#~ msgid "Memory Card 0 Method (Restart Required)"
+#~ msgstr "Метод использования Memory Card 0 (требуется перезагрузка)"
+
+#~ msgctxt "#30019"
+#~ msgid "Enable Memory Card 1 (Restart Required)"
+#~ msgstr "Включить Memory Card 1 (требуется перезагрузка)"
+
+#~ msgctxt "#30020"
+#~ msgid "Shared Memory Cards (Restart Required)"
+#~ msgstr "Режим общих Memory Cards (требуется перезагрузка)"
+
+#~ msgctxt "#30021"
+#~ msgid "Memory Card Left Index"
+#~ msgstr "Левый индекс Memory Card"
+
+#~ msgctxt "#30022"
+#~ msgid "Memory Card Right Index"
+#~ msgstr "Правый индекс Memory Card"
+
+#~ msgctxt "#30032"
+#~ msgid "Override BIOS (Restart Required)"
+#~ msgstr "Переопределить BIOS (требуется перезагрузка)"
+
+#~ msgctxt "#30038"
+#~ msgid "PAL (European) Video Timing Override"
+#~ msgstr "Изменение тайминга видео на PAL (Европа)"
+
+#~ msgctxt "#30048"
+#~ msgid "CD Access Method (Restart Required)"
+#~ msgstr "Способ доступа к CD (требуется перезагрузка)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

@@ -33,10 +33,6 @@ msgctxt "#30002"
 msgid "Dithering Pattern"
 msgstr "抖动模式"
 
-msgctxt "#30003"
-msgid "Frame Duping (Speedup)"
-msgstr "帧复制（加速）"
-
 msgctxt "#30004"
 msgid "Display Internal FPS"
 msgstr "显示内部 FPS"
@@ -53,14 +49,6 @@ msgctxt "#30008"
 msgid "DualShock Analog Mode Combo Hold Delay"
 msgstr "DualShock 模拟模式组合保持延迟"
 
-msgctxt "#30009"
-msgid "Port 1: Multitap Enable"
-msgstr "端口1：多插启用"
-
-msgctxt "#30010"
-msgid "Port 2: Multitap Enable"
-msgstr "端口2：多插启用"
-
 msgctxt "#30011"
 msgid "Gun Input Mode"
 msgstr "枪输入模式"
@@ -68,14 +56,6 @@ msgstr "枪输入模式"
 msgctxt "#30012"
 msgid "Gun Cursor"
 msgstr "枪光标"
-
-msgctxt "#30013"
-msgid "Port 1: Gun Crosshair Color"
-msgstr "端口1：枪准星颜色"
-
-msgctxt "#30014"
-msgid "Port 2: Gun Crosshair Color"
-msgstr "端口2：枪准星颜色"
 
 msgctxt "#30015"
 msgid "Mouse Sensitivity"
@@ -88,26 +68,6 @@ msgstr "neGcon 扭转响应"
 msgctxt "#30017"
 msgid "neGcon Twist Deadzone"
 msgstr "neGcon 扭转死区"
-
-msgctxt "#30018"
-msgid "Memory Card 0 Method (Restart Required)"
-msgstr "存储卡0方法（需要重新启动）"
-
-msgctxt "#30019"
-msgid "Enable Memory Card 1 (Restart Required)"
-msgstr "启用存储卡1（需要重新启动）"
-
-msgctxt "#30020"
-msgid "Shared Memory Cards (Restart Required)"
-msgstr "共享存储卡（需要重新启动）"
-
-msgctxt "#30021"
-msgid "Memory Card Left Index"
-msgstr "存储卡左索引"
-
-msgctxt "#30022"
-msgid "Memory Card Right Index"
-msgstr "存储卡右索引"
 
 msgctxt "#30023"
 msgid "PGXP Operation Mode"
@@ -145,10 +105,6 @@ msgctxt "#30031"
 msgid "Skip BIOS"
 msgstr "跳过 BIOS"
 
-msgctxt "#30032"
-msgid "Override BIOS (Restart Required)"
-msgstr "覆盖 BIOS（需要重新启动）"
-
 msgctxt "#30033"
 msgid "CPU Dynarec"
 msgstr "CPU 动态记录"
@@ -168,10 +124,6 @@ msgstr "Dynarec SPU 样本"
 msgctxt "#30037"
 msgid "Core-Reported FPS Timing"
 msgstr "核心报告 FPS 时间"
-
-msgctxt "#30038"
-msgid "PAL (European) Video Timing Override"
-msgstr "PAL（欧洲）视频定时覆盖"
 
 msgctxt "#30039"
 msgid "Crop Overscan"
@@ -209,10 +161,6 @@ msgctxt "#30047"
 msgid "Last Scan Line - PAL"
 msgstr "最末扫描线 - PAL"
 
-msgctxt "#30048"
-msgid "CD Access Method (Restart Required)"
-msgstr "CD 访问方法（需要重新启动）"
-
 msgctxt "#30049"
 msgid "CD Loading Speed"
 msgstr "CD 读取速度"
@@ -228,6 +176,110 @@ msgstr "显示 OSD 信息"
 msgctxt "#30052"
 msgid "Deinterlace Method"
 msgstr "去隔行扫描法"
+
+msgctxt "#30053"
+msgid "CD Access Method"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Override BIOS"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Multitap on Port 1"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Multitap on Port 2"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Gun Crosshair Color: Port 1"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Gun Crosshair Color: Port 2"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Memory Card Method"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Memory Card Slot 2"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Shared Memory Cards"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Memory Card Slot 1 Index"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Memory Card Slot 2 Index"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Frame Duping"
+msgstr ""
+
+msgctxt "#30065"
+msgid "PAL Video Timing Override"
+msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "Frame Duping (Speedup)"
+#~ msgstr "帧复制（加速）"
+
+#~ msgctxt "#30009"
+#~ msgid "Port 1: Multitap Enable"
+#~ msgstr "端口1：多插启用"
+
+#~ msgctxt "#30010"
+#~ msgid "Port 2: Multitap Enable"
+#~ msgstr "端口2：多插启用"
+
+#~ msgctxt "#30013"
+#~ msgid "Port 1: Gun Crosshair Color"
+#~ msgstr "端口1：枪准星颜色"
+
+#~ msgctxt "#30014"
+#~ msgid "Port 2: Gun Crosshair Color"
+#~ msgstr "端口2：枪准星颜色"
+
+#~ msgctxt "#30018"
+#~ msgid "Memory Card 0 Method (Restart Required)"
+#~ msgstr "存储卡0方法（需要重新启动）"
+
+#~ msgctxt "#30019"
+#~ msgid "Enable Memory Card 1 (Restart Required)"
+#~ msgstr "启用存储卡1（需要重新启动）"
+
+#~ msgctxt "#30020"
+#~ msgid "Shared Memory Cards (Restart Required)"
+#~ msgstr "共享存储卡（需要重新启动）"
+
+#~ msgctxt "#30021"
+#~ msgid "Memory Card Left Index"
+#~ msgstr "存储卡左索引"
+
+#~ msgctxt "#30022"
+#~ msgid "Memory Card Right Index"
+#~ msgstr "存储卡右索引"
+
+#~ msgctxt "#30032"
+#~ msgid "Override BIOS (Restart Required)"
+#~ msgstr "覆盖 BIOS（需要重新启动）"
+
+#~ msgctxt "#30038"
+#~ msgid "PAL (European) Video Timing Override"
+#~ msgstr "PAL（欧洲）视频定时覆盖"
+
+#~ msgctxt "#30048"
+#~ msgid "CD Access Method (Restart Required)"
+#~ msgstr "CD 访问方法（需要重新启动）"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

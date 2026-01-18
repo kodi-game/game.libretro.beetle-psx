@@ -33,10 +33,6 @@ msgctxt "#30002"
 msgid "Dithering Pattern"
 msgstr "Pola Dithering"
 
-msgctxt "#30003"
-msgid "Frame Duping (Speedup)"
-msgstr "Peniru Bingkai (Cepat)"
-
 msgctxt "#30004"
 msgid "Display Internal FPS"
 msgstr "Tampilkan FPS Internal"
@@ -53,14 +49,6 @@ msgctxt "#30008"
 msgid "DualShock Analog Mode Combo Hold Delay"
 msgstr "Penundaan Kombo Mode Analog DualShock"
 
-msgctxt "#30009"
-msgid "Port 1: Multitap Enable"
-msgstr "Port 1: Aktifkan Multitap"
-
-msgctxt "#30010"
-msgid "Port 2: Multitap Enable"
-msgstr "Port 2: Aktifkan Multitap"
-
 msgctxt "#30011"
 msgid "Gun Input Mode"
 msgstr "Mode Masukan Senjata"
@@ -68,14 +56,6 @@ msgstr "Mode Masukan Senjata"
 msgctxt "#30012"
 msgid "Gun Cursor"
 msgstr "Kursor Senjata"
-
-msgctxt "#30013"
-msgid "Port 1: Gun Crosshair Color"
-msgstr "Port 1: Warna Bidikan Senjata"
-
-msgctxt "#30014"
-msgid "Port 2: Gun Crosshair Color"
-msgstr "Port 2: Warna Bidikan Senjata"
 
 msgctxt "#30015"
 msgid "Mouse Sensitivity"
@@ -88,26 +68,6 @@ msgstr "Respon Putar neGcon"
 msgctxt "#30017"
 msgid "neGcon Twist Deadzone"
 msgstr "Zona Mati Putar neGcon"
-
-msgctxt "#30018"
-msgid "Memory Card 0 Method (Restart Required)"
-msgstr "Metode Kartu Memori 0 (Mulai Ulang)"
-
-msgctxt "#30019"
-msgid "Enable Memory Card 1 (Restart Required)"
-msgstr "Aktifkan Kartu Memori 1 (Mulai Ulang)"
-
-msgctxt "#30020"
-msgid "Shared Memory Cards (Restart Required)"
-msgstr "Kartu Memori Bersama (Mulai Ulang)"
-
-msgctxt "#30021"
-msgid "Memory Card Left Index"
-msgstr "Indeks Kiri Kartu Memori"
-
-msgctxt "#30022"
-msgid "Memory Card Right Index"
-msgstr "Indeks Kanan Kartu Memori"
 
 msgctxt "#30023"
 msgid "PGXP Operation Mode"
@@ -145,10 +105,6 @@ msgctxt "#30031"
 msgid "Skip BIOS"
 msgstr "Lewati BIOS"
 
-msgctxt "#30032"
-msgid "Override BIOS (Restart Required)"
-msgstr "Ganti BIOS (Mulai Ulang)"
-
 msgctxt "#30033"
 msgid "CPU Dynarec"
 msgstr "CPU Dynarec"
@@ -168,10 +124,6 @@ msgstr "Sampel SPU Dynarec"
 msgctxt "#30037"
 msgid "Core-Reported FPS Timing"
 msgstr "Waktu FPS yang Dilaporkan Inti"
-
-msgctxt "#30038"
-msgid "PAL (European) Video Timing Override"
-msgstr "Penggantian Waktu Video PAL (Eropa)"
 
 msgctxt "#30039"
 msgid "Crop Overscan"
@@ -209,10 +161,6 @@ msgctxt "#30047"
 msgid "Last Scan Line - PAL"
 msgstr "Jalur Pemindaian Terakhir - PAL"
 
-msgctxt "#30048"
-msgid "CD Access Method (Restart Required)"
-msgstr "Metode Akses CD (Diperlukan Restart)"
-
 msgctxt "#30049"
 msgid "CD Loading Speed"
 msgstr "Kecepatan Memuat CD"
@@ -228,6 +176,110 @@ msgstr ""
 msgctxt "#30052"
 msgid "Deinterlace Method"
 msgstr ""
+
+msgctxt "#30053"
+msgid "CD Access Method"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Override BIOS"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Multitap on Port 1"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Multitap on Port 2"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Gun Crosshair Color: Port 1"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Gun Crosshair Color: Port 2"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Memory Card Method"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Memory Card Slot 2"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Shared Memory Cards"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Memory Card Slot 1 Index"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Memory Card Slot 2 Index"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Frame Duping"
+msgstr ""
+
+msgctxt "#30065"
+msgid "PAL Video Timing Override"
+msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "Frame Duping (Speedup)"
+#~ msgstr "Peniru Bingkai (Cepat)"
+
+#~ msgctxt "#30009"
+#~ msgid "Port 1: Multitap Enable"
+#~ msgstr "Port 1: Aktifkan Multitap"
+
+#~ msgctxt "#30010"
+#~ msgid "Port 2: Multitap Enable"
+#~ msgstr "Port 2: Aktifkan Multitap"
+
+#~ msgctxt "#30013"
+#~ msgid "Port 1: Gun Crosshair Color"
+#~ msgstr "Port 1: Warna Bidikan Senjata"
+
+#~ msgctxt "#30014"
+#~ msgid "Port 2: Gun Crosshair Color"
+#~ msgstr "Port 2: Warna Bidikan Senjata"
+
+#~ msgctxt "#30018"
+#~ msgid "Memory Card 0 Method (Restart Required)"
+#~ msgstr "Metode Kartu Memori 0 (Mulai Ulang)"
+
+#~ msgctxt "#30019"
+#~ msgid "Enable Memory Card 1 (Restart Required)"
+#~ msgstr "Aktifkan Kartu Memori 1 (Mulai Ulang)"
+
+#~ msgctxt "#30020"
+#~ msgid "Shared Memory Cards (Restart Required)"
+#~ msgstr "Kartu Memori Bersama (Mulai Ulang)"
+
+#~ msgctxt "#30021"
+#~ msgid "Memory Card Left Index"
+#~ msgstr "Indeks Kiri Kartu Memori"
+
+#~ msgctxt "#30022"
+#~ msgid "Memory Card Right Index"
+#~ msgstr "Indeks Kanan Kartu Memori"
+
+#~ msgctxt "#30032"
+#~ msgid "Override BIOS (Restart Required)"
+#~ msgstr "Ganti BIOS (Mulai Ulang)"
+
+#~ msgctxt "#30038"
+#~ msgid "PAL (European) Video Timing Override"
+#~ msgstr "Penggantian Waktu Video PAL (Eropa)"
+
+#~ msgctxt "#30048"
+#~ msgid "CD Access Method (Restart Required)"
+#~ msgstr "Metode Akses CD (Diperlukan Restart)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

@@ -33,10 +33,6 @@ msgctxt "#30002"
 msgid "Dithering Pattern"
 msgstr ""
 
-msgctxt "#30003"
-msgid "Frame Duping (Speedup)"
-msgstr ""
-
 msgctxt "#30004"
 msgid "Display Internal FPS"
 msgstr ""
@@ -53,28 +49,12 @@ msgctxt "#30008"
 msgid "DualShock Analog Mode Combo Hold Delay"
 msgstr ""
 
-msgctxt "#30009"
-msgid "Port 1: Multitap Enable"
-msgstr ""
-
-msgctxt "#30010"
-msgid "Port 2: Multitap Enable"
-msgstr ""
-
 msgctxt "#30011"
 msgid "Gun Input Mode"
 msgstr ""
 
 msgctxt "#30012"
 msgid "Gun Cursor"
-msgstr ""
-
-msgctxt "#30013"
-msgid "Port 1: Gun Crosshair Color"
-msgstr ""
-
-msgctxt "#30014"
-msgid "Port 2: Gun Crosshair Color"
 msgstr ""
 
 msgctxt "#30015"
@@ -87,26 +67,6 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "neGcon Twist Deadzone"
-msgstr ""
-
-msgctxt "#30018"
-msgid "Memory Card 0 Method (Restart Required)"
-msgstr ""
-
-msgctxt "#30019"
-msgid "Enable Memory Card 1 (Restart Required)"
-msgstr ""
-
-msgctxt "#30020"
-msgid "Shared Memory Cards (Restart Required)"
-msgstr ""
-
-msgctxt "#30021"
-msgid "Memory Card Left Index"
-msgstr ""
-
-msgctxt "#30022"
-msgid "Memory Card Right Index"
 msgstr ""
 
 msgctxt "#30023"
@@ -145,10 +105,6 @@ msgctxt "#30031"
 msgid "Skip BIOS"
 msgstr ""
 
-msgctxt "#30032"
-msgid "Override BIOS (Restart Required)"
-msgstr ""
-
 msgctxt "#30033"
 msgid "CPU Dynarec"
 msgstr ""
@@ -167,10 +123,6 @@ msgstr ""
 
 msgctxt "#30037"
 msgid "Core-Reported FPS Timing"
-msgstr ""
-
-msgctxt "#30038"
-msgid "PAL (European) Video Timing Override"
 msgstr ""
 
 msgctxt "#30039"
@@ -209,10 +161,6 @@ msgctxt "#30047"
 msgid "Last Scan Line - PAL"
 msgstr ""
 
-msgctxt "#30048"
-msgid "CD Access Method (Restart Required)"
-msgstr ""
-
 msgctxt "#30049"
 msgid "CD Loading Speed"
 msgstr ""
@@ -223,4 +171,60 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Display OSD Messages"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Deinterlace Method"
+msgstr ""
+
+msgctxt "#30053"
+msgid "CD Access Method"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Override BIOS"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Multitap on Port 1"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Multitap on Port 2"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Gun Crosshair Color: Port 1"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Gun Crosshair Color: Port 2"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Memory Card Method"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Memory Card Slot 2"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Shared Memory Cards"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Memory Card Slot 1 Index"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Memory Card Slot 2 Index"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Frame Duping"
+msgstr ""
+
+msgctxt "#30065"
+msgid "PAL Video Timing Override"
 msgstr ""
