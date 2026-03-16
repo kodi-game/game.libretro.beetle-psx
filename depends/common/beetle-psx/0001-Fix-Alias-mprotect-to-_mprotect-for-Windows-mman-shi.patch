@@ -1,0 +1,31 @@
+From 200ea8c707256f8c7b5f00c9f37670c0358d45f2 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <garrett.brown@aclima.earth>
+Date: Sun, 15 Mar 2026 20:27:09 -0700
+Subject: [PATCH] Fix: Alias mprotect to _mprotect for Windows mman shim
+
+---
+ deps/mman/sys/mman.h | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+diff --git a/deps/mman/sys/mman.h b/deps/mman/sys/mman.h
+index 047d3a03..80f9ff79 100644
+--- a/deps/mman/sys/mman.h
++++ b/deps/mman/sys/mman.h
+@@ -69,6 +69,14 @@ MMANSHARED_EXPORT int     msync(void *addr, size_t len, int flags);
+ MMANSHARED_EXPORT int     mlock(const void *addr, size_t len);
+ MMANSHARED_EXPORT int     munlock(const void *addr, size_t len);
+ 
++/*
++ * The shim implementation historically exposes _mprotect() on Windows,
++ * but callers in this tree use the POSIX name mprotect().
++ */
++#ifndef mprotect
++#define mprotect _mprotect
++#endif
++
+ #ifdef __cplusplus
+ }
+ #endif
+-- 
+2.53.0
+
