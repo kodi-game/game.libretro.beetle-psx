@@ -8,6 +8,7 @@
 		<setting label="30049" type="select" id="beetle_psx_cd_fastload" values="2x(native)|4x|6x|8x|10x|12x|14x" default="2x(native)"/>
 		<setting label="30031" type="select" id="beetle_psx_skip_bios" values="disabled|enabled" default="disabled"/>
 		<setting label="30054" type="select" id="beetle_psx_override_bios" values="disabled|psxonpsp|ps1_rom|openbios" default="disabled"/>
+		<setting label="30066" type="select" id="beetle_psx_region" values="auto|ntsc-j|ntsc-u|pal" default="auto"/>
 		<setting label="30001" type="select" id="beetle_psx_internal_resolution" values="1x(native)|2x|4x|8x|16x" default="1x(native)"/>
 		<setting label="30002" type="select" id="beetle_psx_dither_mode" values="1x(native)|internal resolution|disabled" default="1x(native)"/>
 		<setting label="30023" type="select" id="beetle_psx_pgxp_mode" values="disabled|memory only|memory + CPU" default="disabled"/>
