@@ -229,6 +229,10 @@ msgctxt "#30065"
 msgid "PAL Video Timing Override"
 msgstr ""
 
+msgctxt "#30066"
+msgid "System Region"
+msgstr ""
+
 #~ msgctxt "#30003"
 #~ msgid "Frame Duping (Speedup)"
 #~ msgstr "Frame-dupering (acceleration)"

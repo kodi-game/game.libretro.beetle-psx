@@ -229,6 +229,10 @@ msgctxt "#30065"
 msgid "PAL Video Timing Override"
 msgstr ""
 
+msgctxt "#30066"
+msgid "System Region"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Instellingen"
