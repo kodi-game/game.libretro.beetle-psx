@@ -1,4 +1,4 @@
-From 94151b32777005de9baae391b16e3d522d64bb21 Mon Sep 17 00:00:00 2001
+From 2b51fe57e35665e13930baba12181ba909d75a16 Mon Sep 17 00:00:00 2001
 From: Garrett Brown <themagnificentmrb@gmail.com>
 Date: Wed, 6 May 2026 17:32:39 -0700
 Subject: [PATCH] deps: Avoid duplicate mprotect shim on Windows
