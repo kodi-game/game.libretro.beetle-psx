@@ -1,0 +1,29 @@
+From 94151b32777005de9baae391b16e3d522d64bb21 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Wed, 6 May 2026 17:32:39 -0700
+Subject: [PATCH] deps: Avoid duplicate mprotect shim on Windows
+
+---
+ deps/lightning/lib/lightning.c | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/deps/lightning/lib/lightning.c b/deps/lightning/lib/lightning.c
+index 71b445f5..b693b0e9 100644
+--- a/deps/lightning/lib/lightning.c
++++ b/deps/lightning/lib/lightning.c
+@@ -23,9 +23,9 @@
+ 
+ /* MinGW's <sys/mman.h> typically does not declare mprotect; provide
+  * a tiny shim implemented via VirtualProtect so the page-protection
+- * tightening below still works on Windows. The PROT_* flags are
+- * mapped to the closest VirtualProtect equivalent. */
+-#if defined(_WIN32) && !defined(__CYGWIN__)
++ * tightening below still works on Windows. If the mman shim already
++ * aliases mprotect to its own implementation, use that instead. */
++#if defined(_WIN32) && !defined(__CYGWIN__) && !defined(mprotect)
+ #  include <windows.h>
+ #  ifndef PROT_NONE
+ #    define PROT_NONE  0x00
+-- 
+2.50.1 (Apple Git-155)
+
