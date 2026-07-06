@@ -31,6 +31,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="bs_BA">Sony - PlayStation (Beetle PSX)</summary>
+		<summary lang="cs_CZ">Sony - PlayStation (Beetle PSX)</summary>
 		<summary lang="da_DK">Sony - PlayStation (Beetle PSX)</summary>
 		<summary lang="en_GB">Sony - PlayStation (Beetle PSX)</summary>
 		<summary lang="es_ES">Sony - PlayStation (Beetle PSX)</summary>
@@ -40,6 +41,7 @@
 		<summary lang="sv_SE">Sony - PlayStation (Beetle PSX)</summary>
 		<summary lang="zh_CN">Sony - PlayStation (Beetle PSX)</summary>
 		<description lang="bs_BA">Beetle PSX je PlayStation modul igre Beetle, porta igre Madnafen.</description>
+		<description lang="cs_CZ">Beetle PSX je modul PlayStation emulátoru Beetle, port Mednafenu.</description>
 		<description lang="da_DK">Beetle PSX er PlayStation-modulet i Beetle, en port af Mednafen.</description>
 		<description lang="de_DE">Beetle PSX ist das PlayStation-Modul von Beetle, einer Portierung von Madnafen.</description>
 		<description lang="en_GB">Beetle PSX is the PlayStation module of Beetle, a port of Madnafen.</description>
