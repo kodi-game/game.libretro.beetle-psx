@@ -1,0 +1,64 @@
+From 69e5303edac92aba19ba7700da45cd77bf285548 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Wed, 19 Aug 2026 19:58:45 -0700
+Subject: [PATCH] Fix Android AArch64 CRC32 link with old Clang
+
+---
+ libretro-common/encodings/encoding_crc32.c | 20 +++++++++++++++++---
+ 1 file changed, 17 insertions(+), 3 deletions(-)
+
+diff --git a/libretro-common/encodings/encoding_crc32.c b/libretro-common/encodings/encoding_crc32.c
+index 75b68f68..e7aea285 100644
+--- a/libretro-common/encodings/encoding_crc32.c
++++ b/libretro-common/encodings/encoding_crc32.c
+@@ -307,12 +307,23 @@ static int crc32_have_pclmul(void)
+ #define CRC32_TARGET_ARM
+ #endif
+ 
++#if defined(CRC32_ARM_NEEDS_TARGET) && defined(__clang__)
++/* Older Clang arm_acle.h headers hide these wrappers unless CRC is a
++ * translation-unit feature; a function target attribute is too late.
++ * Use the equivalent builtins only for this attributed Clang path. */
++#define CRC32_ARM_CRC32B __builtin_arm_crc32b
++#define CRC32_ARM_CRC32D __builtin_arm_crc32d
++#else
++#define CRC32_ARM_CRC32B __crc32b
++#define CRC32_ARM_CRC32D __crc32d
++#endif
++
+ CRC32_TARGET_ARM
+ static uint32_t crc32_arm(uint32_t crc, const uint8_t *data, size_t len)
+ {
+    while (((uintptr_t)data & 7) && len > 0)
+    {
+-      crc = __crc32b(crc, *data);
++      crc = CRC32_ARM_CRC32B(crc, *data);
+       data++;
+       len--;
+    }
+@@ -320,17 +331,20 @@ static uint32_t crc32_arm(uint32_t crc, const uint8_t *data, size_t len)
+    {
+       uint64_t v;
+       memcpy(&v, data, sizeof(v));
+-      crc = __crc32d(crc, v);
++      crc = CRC32_ARM_CRC32D(crc, v);
+       data += 8;
+       len  -= 8;
+    }
+    while (len > 0)
+    {
+-      crc = __crc32b(crc, *data++);
++      crc = CRC32_ARM_CRC32B(crc, *data++);
+       len--;
+    }
+    return crc;
+ }
++
++#undef CRC32_ARM_CRC32B
++#undef CRC32_ARM_CRC32D
+ #endif /* __ARM_FEATURE_CRC32 */
+ 
+ /* ------------------------------------------------------------------ */
+-- 
+2.43.0
+
