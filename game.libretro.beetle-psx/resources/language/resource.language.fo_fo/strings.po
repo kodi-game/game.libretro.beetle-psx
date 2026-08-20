@@ -232,3 +232,19 @@ msgstr ""
 msgctxt "#30066"
 msgid "System Region"
 msgstr ""
+
+msgctxt "#30067"
+msgid "PGXP Perspective Correct Texturing"
+msgstr ""
+
+msgctxt "#30068"
+msgid "SPU Silent Voice Optimization"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Dynarec Cycles Per Instruction"
+msgstr ""
+
+msgctxt "#30070"
+msgid "Dynarec SP GP Hit RAM Optimization"
+msgstr ""
