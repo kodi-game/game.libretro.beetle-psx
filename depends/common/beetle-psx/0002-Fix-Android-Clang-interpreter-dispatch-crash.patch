@@ -1,0 +1,31 @@
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Wed, 19 Aug 2026 21:00:00 -0700
+Subject: [PATCH] Fix Android Clang interpreter dispatch crash
+
+The replicated computed-goto dispatcher was validated with GCC 13 on
+x86_64, but Android's older Clang miscompiles an AArch64 replicated branch.
+The core consequently jumps to address 0xa on its first emulated frame.
+
+Use the established central computed-goto dispatcher for Android builds.
+---
+ jni/Android.mk | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+diff --git a/jni/Android.mk b/jni/Android.mk
+index ba130ac9..01b34f1f 100644
+--- a/jni/Android.mk
++++ b/jni/Android.mk
+@@ -62,5 +62,10 @@ endif
+ 
+ COREFLAGS := -funroll-loops $(INCFLAGS) -DMEDNAFEN_VERSION_NUMERIC=926 -D__LIBRETRO__ -D_LOW_ACCURACY_ -DINLINE="inline" $(FLAGS)
++# The replicated computed-goto dispatcher was only validated with GCC 13 on
++# x86_64. Older Android Clang miscompiles one of its replicated indirect
++# branches on AArch64, producing a first-frame jump to address 0xa. Keep the
++# proven central dispatcher for ndk-build targets.
++COREFLAGS += -DPSX_DISPATCH_REPLICATE=0
+ COREFLAGS += $(GLFLAGS)
+ 
+ GIT_VERSION := " $(shell git rev-parse --short HEAD || echo unknown)"
+-- 
+2.43.0
