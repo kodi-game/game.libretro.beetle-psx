@@ -8,77 +8,77 @@
 					<default>100%</default>
 					<constraints>
 						<options>
-							<option>50%</option>
-							<option>60%</option>
-							<option>70%</option>
-							<option>80%</option>
-							<option>90%</option>
+							<option label="30225">50%</option>
+							<option label="30226">60%</option>
+							<option label="30227">70%</option>
+							<option label="30228">80%</option>
+							<option label="30229">90%</option>
 							<option label="30074">100%</option>
-							<option>110%</option>
-							<option>120%</option>
-							<option>130%</option>
-							<option>140%</option>
-							<option>150%</option>
-							<option>160%</option>
-							<option>170%</option>
-							<option>180%</option>
-							<option>190%</option>
-							<option>200%</option>
-							<option>210%</option>
-							<option>220%</option>
-							<option>230%</option>
-							<option>240%</option>
-							<option>250%</option>
-							<option>260%</option>
-							<option>270%</option>
-							<option>280%</option>
-							<option>290%</option>
-							<option>300%</option>
-							<option>310%</option>
-							<option>320%</option>
-							<option>330%</option>
-							<option>340%</option>
-							<option>350%</option>
-							<option>360%</option>
-							<option>370%</option>
-							<option>380%</option>
-							<option>390%</option>
-							<option>400%</option>
-							<option>410%</option>
-							<option>420%</option>
-							<option>430%</option>
-							<option>440%</option>
-							<option>450%</option>
-							<option>460%</option>
-							<option>470%</option>
-							<option>480%</option>
-							<option>490%</option>
-							<option>500%</option>
-							<option>510%</option>
-							<option>520%</option>
-							<option>530%</option>
-							<option>540%</option>
-							<option>550%</option>
-							<option>560%</option>
-							<option>570%</option>
-							<option>580%</option>
-							<option>590%</option>
-							<option>600%</option>
-							<option>610%</option>
-							<option>620%</option>
-							<option>630%</option>
-							<option>640%</option>
-							<option>650%</option>
-							<option>660%</option>
-							<option>670%</option>
-							<option>680%</option>
-							<option>690%</option>
-							<option>700%</option>
-							<option>710%</option>
-							<option>720%</option>
-							<option>730%</option>
-							<option>740%</option>
-							<option>750%</option>
+							<option label="30230">110%</option>
+							<option label="30231">120%</option>
+							<option label="30232">130%</option>
+							<option label="30233">140%</option>
+							<option label="30234">150%</option>
+							<option label="30235">160%</option>
+							<option label="30236">170%</option>
+							<option label="30237">180%</option>
+							<option label="30238">190%</option>
+							<option label="30239">200%</option>
+							<option label="30240">210%</option>
+							<option label="30241">220%</option>
+							<option label="30242">230%</option>
+							<option label="30243">240%</option>
+							<option label="30244">250%</option>
+							<option label="30245">260%</option>
+							<option label="30246">270%</option>
+							<option label="30247">280%</option>
+							<option label="30248">290%</option>
+							<option label="30249">300%</option>
+							<option label="30250">310%</option>
+							<option label="30251">320%</option>
+							<option label="30252">330%</option>
+							<option label="30253">340%</option>
+							<option label="30254">350%</option>
+							<option label="30255">360%</option>
+							<option label="30256">370%</option>
+							<option label="30257">380%</option>
+							<option label="30258">390%</option>
+							<option label="30259">400%</option>
+							<option label="30260">410%</option>
+							<option label="30261">420%</option>
+							<option label="30262">430%</option>
+							<option label="30263">440%</option>
+							<option label="30264">450%</option>
+							<option label="30265">460%</option>
+							<option label="30266">470%</option>
+							<option label="30267">480%</option>
+							<option label="30268">490%</option>
+							<option label="30269">500%</option>
+							<option label="30270">510%</option>
+							<option label="30271">520%</option>
+							<option label="30272">530%</option>
+							<option label="30273">540%</option>
+							<option label="30274">550%</option>
+							<option label="30275">560%</option>
+							<option label="30276">570%</option>
+							<option label="30277">580%</option>
+							<option label="30278">590%</option>
+							<option label="30279">600%</option>
+							<option label="30280">610%</option>
+							<option label="30281">620%</option>
+							<option label="30282">630%</option>
+							<option label="30283">640%</option>
+							<option label="30284">650%</option>
+							<option label="30285">660%</option>
+							<option label="30286">670%</option>
+							<option label="30287">680%</option>
+							<option label="30288">690%</option>
+							<option label="30289">700%</option>
+							<option label="30290">710%</option>
+							<option label="30291">720%</option>
+							<option label="30292">730%</option>
+							<option label="30293">740%</option>
+							<option label="30294">750%</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -89,11 +89,11 @@
 					<constraints>
 						<options>
 							<option label="30076">1x(native)</option>
-							<option>2x</option>
-							<option>4x</option>
-							<option>8x</option>
-							<option>16x</option>
-							<option>32x</option>
+							<option label="30295">2x</option>
+							<option label="30296">4x</option>
+							<option label="30297">8x</option>
+							<option label="30298">16x</option>
+							<option label="30299">32x</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -103,8 +103,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -127,12 +127,12 @@
 					<constraints>
 						<options>
 							<option label="30083">2x(native)</option>
-							<option>4x</option>
-							<option>6x</option>
-							<option>8x</option>
-							<option>10x</option>
-							<option>12x</option>
-							<option>14x</option>
+							<option label="30296">4x</option>
+							<option label="30300">6x</option>
+							<option label="30297">8x</option>
+							<option label="30301">10x</option>
+							<option label="30302">12x</option>
+							<option label="30303">14x</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -142,8 +142,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -153,7 +153,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option label="30086">psxonpsp</option>
 							<option label="30087">ps1_rom</option>
 							<option label="30088">openbios</option>
@@ -184,10 +184,10 @@
 					<constraints>
 						<options>
 							<option label="30076">1x(native)</option>
-							<option>2x</option>
-							<option>4x</option>
-							<option>8x</option>
-							<option>16x</option>
+							<option label="30295">2x</option>
+							<option label="30296">4x</option>
+							<option label="30297">8x</option>
+							<option label="30298">16x</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -199,7 +199,7 @@
 						<options>
 							<option label="30076">1x(native)</option>
 							<option label="30098">internal resolution</option>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -235,8 +235,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -246,8 +246,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -284,26 +284,26 @@
 					<constraints>
 						<options>
 							<option label="30122">disabled</option>
-							<option>1px</option>
-							<option>2px</option>
-							<option>3px</option>
-							<option>4px</option>
-							<option>5px</option>
-							<option>6px</option>
-							<option>7px</option>
-							<option>8px</option>
-							<option>9px</option>
-							<option>10px</option>
-							<option>11px</option>
-							<option>12px</option>
-							<option>13px</option>
-							<option>14px</option>
-							<option>15px</option>
-							<option>16px</option>
-							<option>17px</option>
-							<option>18px</option>
-							<option>19px</option>
-							<option>20px</option>
+							<option label="30304">1px</option>
+							<option label="30305">2px</option>
+							<option label="30306">3px</option>
+							<option label="30307">4px</option>
+							<option label="30308">5px</option>
+							<option label="30309">6px</option>
+							<option label="30310">7px</option>
+							<option label="30311">8px</option>
+							<option label="30312">9px</option>
+							<option label="30313">10px</option>
+							<option label="30314">11px</option>
+							<option label="30315">12px</option>
+							<option label="30316">13px</option>
+							<option label="30317">14px</option>
+							<option label="30318">15px</option>
+							<option label="30319">16px</option>
+							<option label="30320">17px</option>
+							<option label="30321">18px</option>
+							<option label="30322">19px</option>
+							<option label="30323">20px</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -313,31 +313,31 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>-12px</option>
-							<option>-11px</option>
-							<option>-10px</option>
-							<option>-9px</option>
-							<option>-8px</option>
-							<option>-7px</option>
-							<option>-6px</option>
-							<option>-5px</option>
-							<option>-4px</option>
-							<option>-3px</option>
-							<option>-2px</option>
-							<option>-1px</option>
+							<option label="30324">-12px</option>
+							<option label="30325">-11px</option>
+							<option label="30326">-10px</option>
+							<option label="30327">-9px</option>
+							<option label="30328">-8px</option>
+							<option label="30329">-7px</option>
+							<option label="30330">-6px</option>
+							<option label="30331">-5px</option>
+							<option label="30332">-4px</option>
+							<option label="30333">-3px</option>
+							<option label="30334">-2px</option>
+							<option label="30335">-1px</option>
 							<option label="30122">disabled</option>
-							<option>+1px</option>
-							<option>+2px</option>
-							<option>+3px</option>
-							<option>+4px</option>
-							<option>+5px</option>
-							<option>+6px</option>
-							<option>+7px</option>
-							<option>+8px</option>
-							<option>+9px</option>
-							<option>+10px</option>
-							<option>+11px</option>
-							<option>+12px</option>
+							<option label="30336">+1px</option>
+							<option label="30337">+2px</option>
+							<option label="30338">+3px</option>
+							<option label="30339">+4px</option>
+							<option label="30340">+5px</option>
+							<option label="30341">+6px</option>
+							<option label="30342">+7px</option>
+							<option label="30343">+8px</option>
+							<option label="30344">+9px</option>
+							<option label="30345">+10px</option>
+							<option label="30346">+11px</option>
+							<option label="30347">+12px</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -348,46 +348,46 @@
 					<constraints>
 						<options>
 							<option label="30125">0</option>
-							<option>1</option>
-							<option>2</option>
-							<option>3</option>
-							<option>4</option>
-							<option>5</option>
-							<option>6</option>
-							<option>7</option>
-							<option>8</option>
-							<option>9</option>
-							<option>10</option>
-							<option>11</option>
-							<option>12</option>
-							<option>13</option>
-							<option>14</option>
-							<option>15</option>
-							<option>16</option>
-							<option>17</option>
-							<option>18</option>
-							<option>19</option>
-							<option>20</option>
-							<option>21</option>
-							<option>22</option>
-							<option>23</option>
-							<option>24</option>
-							<option>25</option>
-							<option>26</option>
-							<option>27</option>
-							<option>28</option>
-							<option>29</option>
-							<option>30</option>
-							<option>31</option>
-							<option>32</option>
-							<option>33</option>
-							<option>34</option>
-							<option>35</option>
-							<option>36</option>
-							<option>37</option>
-							<option>38</option>
-							<option>39</option>
-							<option>40</option>
+							<option label="30348">1</option>
+							<option label="30349">2</option>
+							<option label="30350">3</option>
+							<option label="30351">4</option>
+							<option label="30352">5</option>
+							<option label="30353">6</option>
+							<option label="30354">7</option>
+							<option label="30355">8</option>
+							<option label="30356">9</option>
+							<option label="30357">10</option>
+							<option label="30358">11</option>
+							<option label="30359">12</option>
+							<option label="30360">13</option>
+							<option label="30361">14</option>
+							<option label="30362">15</option>
+							<option label="30363">16</option>
+							<option label="30364">17</option>
+							<option label="30365">18</option>
+							<option label="30366">19</option>
+							<option label="30367">20</option>
+							<option label="30368">21</option>
+							<option label="30369">22</option>
+							<option label="30370">23</option>
+							<option label="30371">24</option>
+							<option label="30372">25</option>
+							<option label="30373">26</option>
+							<option label="30374">27</option>
+							<option label="30375">28</option>
+							<option label="30376">29</option>
+							<option label="30377">30</option>
+							<option label="30378">31</option>
+							<option label="30379">32</option>
+							<option label="30380">33</option>
+							<option label="30381">34</option>
+							<option label="30382">35</option>
+							<option label="30383">36</option>
+							<option label="30384">37</option>
+							<option label="30385">38</option>
+							<option label="30386">39</option>
+							<option label="30387">40</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -397,35 +397,35 @@
 					<default>239</default>
 					<constraints>
 						<options>
-							<option>210</option>
-							<option>211</option>
-							<option>212</option>
-							<option>213</option>
-							<option>214</option>
-							<option>215</option>
-							<option>216</option>
-							<option>217</option>
-							<option>218</option>
-							<option>219</option>
-							<option>220</option>
-							<option>221</option>
-							<option>222</option>
-							<option>223</option>
-							<option>224</option>
-							<option>225</option>
-							<option>226</option>
-							<option>227</option>
-							<option>228</option>
-							<option>229</option>
-							<option>230</option>
-							<option>231</option>
-							<option>232</option>
-							<option>233</option>
-							<option>234</option>
-							<option>235</option>
-							<option>236</option>
-							<option>237</option>
-							<option>238</option>
+							<option label="30388">210</option>
+							<option label="30389">211</option>
+							<option label="30390">212</option>
+							<option label="30391">213</option>
+							<option label="30392">214</option>
+							<option label="30393">215</option>
+							<option label="30394">216</option>
+							<option label="30395">217</option>
+							<option label="30396">218</option>
+							<option label="30397">219</option>
+							<option label="30398">220</option>
+							<option label="30399">221</option>
+							<option label="30400">222</option>
+							<option label="30401">223</option>
+							<option label="30402">224</option>
+							<option label="30403">225</option>
+							<option label="30404">226</option>
+							<option label="30405">227</option>
+							<option label="30406">228</option>
+							<option label="30407">229</option>
+							<option label="30408">230</option>
+							<option label="30409">231</option>
+							<option label="30410">232</option>
+							<option label="30411">233</option>
+							<option label="30412">234</option>
+							<option label="30413">235</option>
+							<option label="30414">236</option>
+							<option label="30415">237</option>
+							<option label="30416">238</option>
 							<option label="30127">239</option>
 						</options>
 					</constraints>
@@ -437,46 +437,46 @@
 					<constraints>
 						<options>
 							<option label="30125">0</option>
-							<option>1</option>
-							<option>2</option>
-							<option>3</option>
-							<option>4</option>
-							<option>5</option>
-							<option>6</option>
-							<option>7</option>
-							<option>8</option>
-							<option>9</option>
-							<option>10</option>
-							<option>11</option>
-							<option>12</option>
-							<option>13</option>
-							<option>14</option>
-							<option>15</option>
-							<option>16</option>
-							<option>17</option>
-							<option>18</option>
-							<option>19</option>
-							<option>20</option>
-							<option>21</option>
-							<option>22</option>
-							<option>23</option>
-							<option>24</option>
-							<option>25</option>
-							<option>26</option>
-							<option>27</option>
-							<option>28</option>
-							<option>29</option>
-							<option>30</option>
-							<option>31</option>
-							<option>32</option>
-							<option>33</option>
-							<option>34</option>
-							<option>35</option>
-							<option>36</option>
-							<option>37</option>
-							<option>38</option>
-							<option>39</option>
-							<option>40</option>
+							<option label="30348">1</option>
+							<option label="30349">2</option>
+							<option label="30350">3</option>
+							<option label="30351">4</option>
+							<option label="30352">5</option>
+							<option label="30353">6</option>
+							<option label="30354">7</option>
+							<option label="30355">8</option>
+							<option label="30356">9</option>
+							<option label="30357">10</option>
+							<option label="30358">11</option>
+							<option label="30359">12</option>
+							<option label="30360">13</option>
+							<option label="30361">14</option>
+							<option label="30362">15</option>
+							<option label="30363">16</option>
+							<option label="30364">17</option>
+							<option label="30365">18</option>
+							<option label="30366">19</option>
+							<option label="30367">20</option>
+							<option label="30368">21</option>
+							<option label="30369">22</option>
+							<option label="30370">23</option>
+							<option label="30371">24</option>
+							<option label="30372">25</option>
+							<option label="30373">26</option>
+							<option label="30374">27</option>
+							<option label="30375">28</option>
+							<option label="30376">29</option>
+							<option label="30377">30</option>
+							<option label="30378">31</option>
+							<option label="30379">32</option>
+							<option label="30380">33</option>
+							<option label="30381">34</option>
+							<option label="30382">35</option>
+							<option label="30383">36</option>
+							<option label="30384">37</option>
+							<option label="30385">38</option>
+							<option label="30386">39</option>
+							<option label="30387">40</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -486,63 +486,63 @@
 					<default>287</default>
 					<constraints>
 						<options>
-							<option>230</option>
-							<option>231</option>
-							<option>232</option>
-							<option>233</option>
-							<option>234</option>
-							<option>235</option>
-							<option>236</option>
-							<option>237</option>
-							<option>238</option>
-							<option>239</option>
-							<option>240</option>
-							<option>241</option>
-							<option>242</option>
-							<option>243</option>
-							<option>244</option>
-							<option>245</option>
-							<option>246</option>
-							<option>247</option>
-							<option>248</option>
-							<option>249</option>
-							<option>250</option>
-							<option>251</option>
-							<option>252</option>
-							<option>253</option>
-							<option>254</option>
-							<option>255</option>
-							<option>256</option>
-							<option>257</option>
-							<option>258</option>
-							<option>259</option>
-							<option>260</option>
-							<option>261</option>
-							<option>262</option>
-							<option>263</option>
-							<option>264</option>
-							<option>265</option>
-							<option>266</option>
-							<option>267</option>
-							<option>268</option>
-							<option>269</option>
-							<option>270</option>
-							<option>271</option>
-							<option>272</option>
-							<option>273</option>
-							<option>274</option>
-							<option>275</option>
-							<option>276</option>
-							<option>277</option>
-							<option>278</option>
-							<option>279</option>
-							<option>280</option>
-							<option>281</option>
-							<option>282</option>
-							<option>283</option>
-							<option>284</option>
-							<option>285</option>
-							<option>286</option>
+							<option label="30408">230</option>
+							<option label="30409">231</option>
+							<option label="30410">232</option>
+							<option label="30411">233</option>
+							<option label="30412">234</option>
+							<option label="30413">235</option>
+							<option label="30414">236</option>
+							<option label="30415">237</option>
+							<option label="30416">238</option>
+							<option label="30417">239</option>
+							<option label="30418">240</option>
+							<option label="30419">241</option>
+							<option label="30420">242</option>
+							<option label="30421">243</option>
+							<option label="30422">244</option>
+							<option label="30423">245</option>
+							<option label="30424">246</option>
+							<option label="30425">247</option>
+							<option label="30426">248</option>
+							<option label="30427">249</option>
+							<option label="30428">250</option>
+							<option label="30429">251</option>
+							<option label="30430">252</option>
+							<option label="30431">253</option>
+							<option label="30432">254</option>
+							<option label="30433">255</option>
+							<option label="30434">256</option>
+							<option label="30435">257</option>
+							<option label="30436">258</option>
+							<option label="30437">259</option>
+							<option label="30438">260</option>
+							<option label="30439">261</option>
+							<option label="30440">262</option>
+							<option label="30441">263</option>
+							<option label="30442">264</option>
+							<option label="30443">265</option>
+							<option label="30444">266</option>
+							<option label="30445">267</option>
+							<option label="30446">268</option>
+							<option label="30447">269</option>
+							<option label="30448">270</option>
+							<option label="30449">271</option>
+							<option label="30450">272</option>
+							<option label="30451">273</option>
+							<option label="30452">274</option>
+							<option label="30453">275</option>
+							<option label="30454">276</option>
+							<option label="30455">277</option>
+							<option label="30456">278</option>
+							<option label="30457">279</option>
+							<option label="30458">280</option>
+							<option label="30459">281</option>
+							<option label="30460">282</option>
+							<option label="30461">283</option>
+							<option label="30462">284</option>
+							<option label="30463">285</option>
+							<option label="30464">286</option>
 							<option label="30130">287</option>
 						</options>
 					</constraints>
@@ -557,7 +557,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option label="30134">memory only</option>
 							<option label="30135">memory + CPU</option>
 						</options>
@@ -569,16 +569,16 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>0px</option>
-							<option>1px</option>
-							<option>2px</option>
-							<option>3px</option>
-							<option>4px</option>
-							<option>5px</option>
-							<option>6px</option>
-							<option>7px</option>
-							<option>8px</option>
+							<option label="13106">disabled</option>
+							<option label="30465">0px</option>
+							<option label="30304">1px</option>
+							<option label="30305">2px</option>
+							<option label="30306">3px</option>
+							<option label="30307">4px</option>
+							<option label="30308">5px</option>
+							<option label="30309">6px</option>
+							<option label="30310">7px</option>
+							<option label="30311">8px</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -588,8 +588,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -599,8 +599,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -614,8 +614,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -625,8 +625,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -640,8 +640,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -651,8 +651,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 							<option label="30147">enabled-analog</option>
 						</options>
 					</constraints>
@@ -697,8 +697,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -708,8 +708,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -872,8 +872,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -883,8 +883,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -895,69 +895,69 @@
 					<constraints>
 						<options>
 							<option label="30125">0</option>
-							<option>1</option>
-							<option>2</option>
-							<option>3</option>
-							<option>4</option>
-							<option>5</option>
-							<option>6</option>
-							<option>7</option>
-							<option>8</option>
-							<option>9</option>
-							<option>10</option>
-							<option>11</option>
-							<option>12</option>
-							<option>13</option>
-							<option>14</option>
-							<option>15</option>
-							<option>16</option>
-							<option>17</option>
-							<option>18</option>
-							<option>19</option>
-							<option>20</option>
-							<option>21</option>
-							<option>22</option>
-							<option>23</option>
-							<option>24</option>
-							<option>25</option>
-							<option>26</option>
-							<option>27</option>
-							<option>28</option>
-							<option>29</option>
-							<option>30</option>
-							<option>31</option>
-							<option>32</option>
-							<option>33</option>
-							<option>34</option>
-							<option>35</option>
-							<option>36</option>
-							<option>37</option>
-							<option>38</option>
-							<option>39</option>
-							<option>40</option>
-							<option>41</option>
-							<option>42</option>
-							<option>43</option>
-							<option>44</option>
-							<option>45</option>
-							<option>46</option>
-							<option>47</option>
-							<option>48</option>
-							<option>49</option>
-							<option>50</option>
-							<option>51</option>
-							<option>52</option>
-							<option>53</option>
-							<option>54</option>
-							<option>55</option>
-							<option>56</option>
-							<option>57</option>
-							<option>58</option>
-							<option>59</option>
-							<option>60</option>
-							<option>61</option>
-							<option>62</option>
-							<option>63</option>
+							<option label="30348">1</option>
+							<option label="30349">2</option>
+							<option label="30350">3</option>
+							<option label="30351">4</option>
+							<option label="30352">5</option>
+							<option label="30353">6</option>
+							<option label="30354">7</option>
+							<option label="30355">8</option>
+							<option label="30356">9</option>
+							<option label="30357">10</option>
+							<option label="30358">11</option>
+							<option label="30359">12</option>
+							<option label="30360">13</option>
+							<option label="30361">14</option>
+							<option label="30362">15</option>
+							<option label="30363">16</option>
+							<option label="30364">17</option>
+							<option label="30365">18</option>
+							<option label="30366">19</option>
+							<option label="30367">20</option>
+							<option label="30368">21</option>
+							<option label="30369">22</option>
+							<option label="30370">23</option>
+							<option label="30371">24</option>
+							<option label="30372">25</option>
+							<option label="30373">26</option>
+							<option label="30374">27</option>
+							<option label="30375">28</option>
+							<option label="30376">29</option>
+							<option label="30377">30</option>
+							<option label="30378">31</option>
+							<option label="30379">32</option>
+							<option label="30380">33</option>
+							<option label="30381">34</option>
+							<option label="30382">35</option>
+							<option label="30383">36</option>
+							<option label="30384">37</option>
+							<option label="30385">38</option>
+							<option label="30386">39</option>
+							<option label="30387">40</option>
+							<option label="30466">41</option>
+							<option label="30467">42</option>
+							<option label="30468">43</option>
+							<option label="30469">44</option>
+							<option label="30470">45</option>
+							<option label="30471">46</option>
+							<option label="30472">47</option>
+							<option label="30473">48</option>
+							<option label="30474">49</option>
+							<option label="30475">50</option>
+							<option label="30476">51</option>
+							<option label="30477">52</option>
+							<option label="30478">53</option>
+							<option label="30479">54</option>
+							<option label="30480">55</option>
+							<option label="30481">56</option>
+							<option label="30482">57</option>
+							<option label="30483">58</option>
+							<option label="30484">59</option>
+							<option label="30485">60</option>
+							<option label="30486">61</option>
+							<option label="30487">62</option>
+							<option label="30488">63</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -967,70 +967,70 @@
 					<default>1</default>
 					<constraints>
 						<options>
-							<option>0</option>
+							<option label="30122">0</option>
 							<option label="30202">1</option>
-							<option>2</option>
-							<option>3</option>
-							<option>4</option>
-							<option>5</option>
-							<option>6</option>
-							<option>7</option>
-							<option>8</option>
-							<option>9</option>
-							<option>10</option>
-							<option>11</option>
-							<option>12</option>
-							<option>13</option>
-							<option>14</option>
-							<option>15</option>
-							<option>16</option>
-							<option>17</option>
-							<option>18</option>
-							<option>19</option>
-							<option>20</option>
-							<option>21</option>
-							<option>22</option>
-							<option>23</option>
-							<option>24</option>
-							<option>25</option>
-							<option>26</option>
-							<option>27</option>
-							<option>28</option>
-							<option>29</option>
-							<option>30</option>
-							<option>31</option>
-							<option>32</option>
-							<option>33</option>
-							<option>34</option>
-							<option>35</option>
-							<option>36</option>
-							<option>37</option>
-							<option>38</option>
-							<option>39</option>
-							<option>40</option>
-							<option>41</option>
-							<option>42</option>
-							<option>43</option>
-							<option>44</option>
-							<option>45</option>
-							<option>46</option>
-							<option>47</option>
-							<option>48</option>
-							<option>49</option>
-							<option>50</option>
-							<option>51</option>
-							<option>52</option>
-							<option>53</option>
-							<option>54</option>
-							<option>55</option>
-							<option>56</option>
-							<option>57</option>
-							<option>58</option>
-							<option>59</option>
-							<option>60</option>
-							<option>61</option>
-							<option>62</option>
-							<option>63</option>
+							<option label="30349">2</option>
+							<option label="30350">3</option>
+							<option label="30351">4</option>
+							<option label="30352">5</option>
+							<option label="30353">6</option>
+							<option label="30354">7</option>
+							<option label="30355">8</option>
+							<option label="30356">9</option>
+							<option label="30357">10</option>
+							<option label="30358">11</option>
+							<option label="30359">12</option>
+							<option label="30360">13</option>
+							<option label="30361">14</option>
+							<option label="30362">15</option>
+							<option label="30363">16</option>
+							<option label="30364">17</option>
+							<option label="30365">18</option>
+							<option label="30366">19</option>
+							<option label="30367">20</option>
+							<option label="30368">21</option>
+							<option label="30369">22</option>
+							<option label="30370">23</option>
+							<option label="30371">24</option>
+							<option label="30372">25</option>
+							<option label="30373">26</option>
+							<option label="30374">27</option>
+							<option label="30375">28</option>
+							<option label="30376">29</option>
+							<option label="30377">30</option>
+							<option label="30378">31</option>
+							<option label="30379">32</option>
+							<option label="30380">33</option>
+							<option label="30381">34</option>
+							<option label="30382">35</option>
+							<option label="30383">36</option>
+							<option label="30384">37</option>
+							<option label="30385">38</option>
+							<option label="30386">39</option>
+							<option label="30387">40</option>
+							<option label="30466">41</option>
+							<option label="30467">42</option>
+							<option label="30468">43</option>
+							<option label="30469">44</option>
+							<option label="30470">45</option>
+							<option label="30471">46</option>
+							<option label="30472">47</option>
+							<option label="30473">48</option>
+							<option label="30474">49</option>
+							<option label="30475">50</option>
+							<option label="30476">51</option>
+							<option label="30477">52</option>
+							<option label="30478">53</option>
+							<option label="30479">54</option>
+							<option label="30480">55</option>
+							<option label="30481">56</option>
+							<option label="30482">57</option>
+							<option label="30483">58</option>
+							<option label="30484">59</option>
+							<option label="30485">60</option>
+							<option label="30486">61</option>
+							<option label="30487">62</option>
+							<option label="30488">63</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1046,7 +1046,7 @@
 						<options>
 							<option label="30206">default</option>
 							<option label="30207">aggressive</option>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1056,8 +1056,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1083,8 +1083,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1129,21 +1129,21 @@
 					<constraints>
 						<options>
 							<option label="30222">128</option>
-							<option>256</option>
-							<option>384</option>
-							<option>512</option>
-							<option>640</option>
-							<option>768</option>
-							<option>896</option>
-							<option>1024</option>
-							<option>1152</option>
-							<option>1280</option>
-							<option>1408</option>
-							<option>1536</option>
-							<option>1664</option>
-							<option>1792</option>
-							<option>1920</option>
-							<option>2048</option>
+							<option label="30434">256</option>
+							<option label="30489">384</option>
+							<option label="30490">512</option>
+							<option label="30491">640</option>
+							<option label="30492">768</option>
+							<option label="30493">896</option>
+							<option label="30494">1024</option>
+							<option label="30495">1152</option>
+							<option label="30496">1280</option>
+							<option label="30497">1408</option>
+							<option label="30498">1536</option>
+							<option label="30499">1664</option>
+							<option label="30500">1792</option>
+							<option label="30501">1920</option>
+							<option label="30502">2048</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1154,8 +1154,8 @@
 					<constraints>
 						<options>
 							<option label="30202">1</option>
-							<option>4</option>
-							<option>16</option>
+							<option label="30351">4</option>
+							<option label="30363">16</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1165,8 +1165,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
