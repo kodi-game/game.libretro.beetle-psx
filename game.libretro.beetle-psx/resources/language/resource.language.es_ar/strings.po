@@ -865,6 +865,1118 @@ msgctxt "#30224"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
 msgstr ""
 
+msgctxt "#30225"
+msgid "50%"
+msgstr ""
+
+msgctxt "#30226"
+msgid "60%"
+msgstr ""
+
+msgctxt "#30227"
+msgid "70%"
+msgstr ""
+
+msgctxt "#30228"
+msgid "80%"
+msgstr ""
+
+msgctxt "#30229"
+msgid "90%"
+msgstr ""
+
+msgctxt "#30230"
+msgid "110%"
+msgstr ""
+
+msgctxt "#30231"
+msgid "120%"
+msgstr ""
+
+msgctxt "#30232"
+msgid "130%"
+msgstr ""
+
+msgctxt "#30233"
+msgid "140%"
+msgstr ""
+
+msgctxt "#30234"
+msgid "150%"
+msgstr ""
+
+msgctxt "#30235"
+msgid "160%"
+msgstr ""
+
+msgctxt "#30236"
+msgid "170%"
+msgstr ""
+
+msgctxt "#30237"
+msgid "180%"
+msgstr ""
+
+msgctxt "#30238"
+msgid "190%"
+msgstr ""
+
+msgctxt "#30239"
+msgid "200%"
+msgstr ""
+
+msgctxt "#30240"
+msgid "210%"
+msgstr ""
+
+msgctxt "#30241"
+msgid "220%"
+msgstr ""
+
+msgctxt "#30242"
+msgid "230%"
+msgstr ""
+
+msgctxt "#30243"
+msgid "240%"
+msgstr ""
+
+msgctxt "#30244"
+msgid "250%"
+msgstr ""
+
+msgctxt "#30245"
+msgid "260%"
+msgstr ""
+
+msgctxt "#30246"
+msgid "270%"
+msgstr ""
+
+msgctxt "#30247"
+msgid "280%"
+msgstr ""
+
+msgctxt "#30248"
+msgid "290%"
+msgstr ""
+
+msgctxt "#30249"
+msgid "300%"
+msgstr ""
+
+msgctxt "#30250"
+msgid "310%"
+msgstr ""
+
+msgctxt "#30251"
+msgid "320%"
+msgstr ""
+
+msgctxt "#30252"
+msgid "330%"
+msgstr ""
+
+msgctxt "#30253"
+msgid "340%"
+msgstr ""
+
+msgctxt "#30254"
+msgid "350%"
+msgstr ""
+
+msgctxt "#30255"
+msgid "360%"
+msgstr ""
+
+msgctxt "#30256"
+msgid "370%"
+msgstr ""
+
+msgctxt "#30257"
+msgid "380%"
+msgstr ""
+
+msgctxt "#30258"
+msgid "390%"
+msgstr ""
+
+msgctxt "#30259"
+msgid "400%"
+msgstr ""
+
+msgctxt "#30260"
+msgid "410%"
+msgstr ""
+
+msgctxt "#30261"
+msgid "420%"
+msgstr ""
+
+msgctxt "#30262"
+msgid "430%"
+msgstr ""
+
+msgctxt "#30263"
+msgid "440%"
+msgstr ""
+
+msgctxt "#30264"
+msgid "450%"
+msgstr ""
+
+msgctxt "#30265"
+msgid "460%"
+msgstr ""
+
+msgctxt "#30266"
+msgid "470%"
+msgstr ""
+
+msgctxt "#30267"
+msgid "480%"
+msgstr ""
+
+msgctxt "#30268"
+msgid "490%"
+msgstr ""
+
+msgctxt "#30269"
+msgid "500%"
+msgstr ""
+
+msgctxt "#30270"
+msgid "510%"
+msgstr ""
+
+msgctxt "#30271"
+msgid "520%"
+msgstr ""
+
+msgctxt "#30272"
+msgid "530%"
+msgstr ""
+
+msgctxt "#30273"
+msgid "540%"
+msgstr ""
+
+msgctxt "#30274"
+msgid "550%"
+msgstr ""
+
+msgctxt "#30275"
+msgid "560%"
+msgstr ""
+
+msgctxt "#30276"
+msgid "570%"
+msgstr ""
+
+msgctxt "#30277"
+msgid "580%"
+msgstr ""
+
+msgctxt "#30278"
+msgid "590%"
+msgstr ""
+
+msgctxt "#30279"
+msgid "600%"
+msgstr ""
+
+msgctxt "#30280"
+msgid "610%"
+msgstr ""
+
+msgctxt "#30281"
+msgid "620%"
+msgstr ""
+
+msgctxt "#30282"
+msgid "630%"
+msgstr ""
+
+msgctxt "#30283"
+msgid "640%"
+msgstr ""
+
+msgctxt "#30284"
+msgid "650%"
+msgstr ""
+
+msgctxt "#30285"
+msgid "660%"
+msgstr ""
+
+msgctxt "#30286"
+msgid "670%"
+msgstr ""
+
+msgctxt "#30287"
+msgid "680%"
+msgstr ""
+
+msgctxt "#30288"
+msgid "690%"
+msgstr ""
+
+msgctxt "#30289"
+msgid "700%"
+msgstr ""
+
+msgctxt "#30290"
+msgid "710%"
+msgstr ""
+
+msgctxt "#30291"
+msgid "720%"
+msgstr ""
+
+msgctxt "#30292"
+msgid "730%"
+msgstr ""
+
+msgctxt "#30293"
+msgid "740%"
+msgstr ""
+
+msgctxt "#30294"
+msgid "750%"
+msgstr ""
+
+msgctxt "#30295"
+msgid "2x"
+msgstr ""
+
+msgctxt "#30296"
+msgid "4x"
+msgstr ""
+
+msgctxt "#30297"
+msgid "8x"
+msgstr ""
+
+msgctxt "#30298"
+msgid "16x"
+msgstr ""
+
+msgctxt "#30299"
+msgid "32x"
+msgstr ""
+
+msgctxt "#30300"
+msgid "6x"
+msgstr ""
+
+msgctxt "#30301"
+msgid "10x"
+msgstr ""
+
+msgctxt "#30302"
+msgid "12x"
+msgstr ""
+
+msgctxt "#30303"
+msgid "14x"
+msgstr ""
+
+msgctxt "#30304"
+msgid "1px"
+msgstr ""
+
+msgctxt "#30305"
+msgid "2px"
+msgstr ""
+
+msgctxt "#30306"
+msgid "3px"
+msgstr ""
+
+msgctxt "#30307"
+msgid "4px"
+msgstr ""
+
+msgctxt "#30308"
+msgid "5px"
+msgstr ""
+
+msgctxt "#30309"
+msgid "6px"
+msgstr ""
+
+msgctxt "#30310"
+msgid "7px"
+msgstr ""
+
+msgctxt "#30311"
+msgid "8px"
+msgstr ""
+
+msgctxt "#30312"
+msgid "9px"
+msgstr ""
+
+msgctxt "#30313"
+msgid "10px"
+msgstr ""
+
+msgctxt "#30314"
+msgid "11px"
+msgstr ""
+
+msgctxt "#30315"
+msgid "12px"
+msgstr ""
+
+msgctxt "#30316"
+msgid "13px"
+msgstr ""
+
+msgctxt "#30317"
+msgid "14px"
+msgstr ""
+
+msgctxt "#30318"
+msgid "15px"
+msgstr ""
+
+msgctxt "#30319"
+msgid "16px"
+msgstr ""
+
+msgctxt "#30320"
+msgid "17px"
+msgstr ""
+
+msgctxt "#30321"
+msgid "18px"
+msgstr ""
+
+msgctxt "#30322"
+msgid "19px"
+msgstr ""
+
+msgctxt "#30323"
+msgid "20px"
+msgstr ""
+
+msgctxt "#30324"
+msgid "-12px"
+msgstr ""
+
+msgctxt "#30325"
+msgid "-11px"
+msgstr ""
+
+msgctxt "#30326"
+msgid "-10px"
+msgstr ""
+
+msgctxt "#30327"
+msgid "-9px"
+msgstr ""
+
+msgctxt "#30328"
+msgid "-8px"
+msgstr ""
+
+msgctxt "#30329"
+msgid "-7px"
+msgstr ""
+
+msgctxt "#30330"
+msgid "-6px"
+msgstr ""
+
+msgctxt "#30331"
+msgid "-5px"
+msgstr ""
+
+msgctxt "#30332"
+msgid "-4px"
+msgstr ""
+
+msgctxt "#30333"
+msgid "-3px"
+msgstr ""
+
+msgctxt "#30334"
+msgid "-2px"
+msgstr ""
+
+msgctxt "#30335"
+msgid "-1px"
+msgstr ""
+
+msgctxt "#30336"
+msgid "+1px"
+msgstr ""
+
+msgctxt "#30337"
+msgid "+2px"
+msgstr ""
+
+msgctxt "#30338"
+msgid "+3px"
+msgstr ""
+
+msgctxt "#30339"
+msgid "+4px"
+msgstr ""
+
+msgctxt "#30340"
+msgid "+5px"
+msgstr ""
+
+msgctxt "#30341"
+msgid "+6px"
+msgstr ""
+
+msgctxt "#30342"
+msgid "+7px"
+msgstr ""
+
+msgctxt "#30343"
+msgid "+8px"
+msgstr ""
+
+msgctxt "#30344"
+msgid "+9px"
+msgstr ""
+
+msgctxt "#30345"
+msgid "+10px"
+msgstr ""
+
+msgctxt "#30346"
+msgid "+11px"
+msgstr ""
+
+msgctxt "#30347"
+msgid "+12px"
+msgstr ""
+
+msgctxt "#30348"
+msgid "1"
+msgstr ""
+
+msgctxt "#30349"
+msgid "2"
+msgstr ""
+
+msgctxt "#30350"
+msgid "3"
+msgstr ""
+
+msgctxt "#30351"
+msgid "4"
+msgstr ""
+
+msgctxt "#30352"
+msgid "5"
+msgstr ""
+
+msgctxt "#30353"
+msgid "6"
+msgstr ""
+
+msgctxt "#30354"
+msgid "7"
+msgstr ""
+
+msgctxt "#30355"
+msgid "8"
+msgstr ""
+
+msgctxt "#30356"
+msgid "9"
+msgstr ""
+
+msgctxt "#30357"
+msgid "10"
+msgstr ""
+
+msgctxt "#30358"
+msgid "11"
+msgstr ""
+
+msgctxt "#30359"
+msgid "12"
+msgstr ""
+
+msgctxt "#30360"
+msgid "13"
+msgstr ""
+
+msgctxt "#30361"
+msgid "14"
+msgstr ""
+
+msgctxt "#30362"
+msgid "15"
+msgstr ""
+
+msgctxt "#30363"
+msgid "16"
+msgstr ""
+
+msgctxt "#30364"
+msgid "17"
+msgstr ""
+
+msgctxt "#30365"
+msgid "18"
+msgstr ""
+
+msgctxt "#30366"
+msgid "19"
+msgstr ""
+
+msgctxt "#30367"
+msgid "20"
+msgstr ""
+
+msgctxt "#30368"
+msgid "21"
+msgstr ""
+
+msgctxt "#30369"
+msgid "22"
+msgstr ""
+
+msgctxt "#30370"
+msgid "23"
+msgstr ""
+
+msgctxt "#30371"
+msgid "24"
+msgstr ""
+
+msgctxt "#30372"
+msgid "25"
+msgstr ""
+
+msgctxt "#30373"
+msgid "26"
+msgstr ""
+
+msgctxt "#30374"
+msgid "27"
+msgstr ""
+
+msgctxt "#30375"
+msgid "28"
+msgstr ""
+
+msgctxt "#30376"
+msgid "29"
+msgstr ""
+
+msgctxt "#30377"
+msgid "30"
+msgstr ""
+
+msgctxt "#30378"
+msgid "31"
+msgstr ""
+
+msgctxt "#30379"
+msgid "32"
+msgstr ""
+
+msgctxt "#30380"
+msgid "33"
+msgstr ""
+
+msgctxt "#30381"
+msgid "34"
+msgstr ""
+
+msgctxt "#30382"
+msgid "35"
+msgstr ""
+
+msgctxt "#30383"
+msgid "36"
+msgstr ""
+
+msgctxt "#30384"
+msgid "37"
+msgstr ""
+
+msgctxt "#30385"
+msgid "38"
+msgstr ""
+
+msgctxt "#30386"
+msgid "39"
+msgstr ""
+
+msgctxt "#30387"
+msgid "40"
+msgstr ""
+
+msgctxt "#30388"
+msgid "210"
+msgstr ""
+
+msgctxt "#30389"
+msgid "211"
+msgstr ""
+
+msgctxt "#30390"
+msgid "212"
+msgstr ""
+
+msgctxt "#30391"
+msgid "213"
+msgstr ""
+
+msgctxt "#30392"
+msgid "214"
+msgstr ""
+
+msgctxt "#30393"
+msgid "215"
+msgstr ""
+
+msgctxt "#30394"
+msgid "216"
+msgstr ""
+
+msgctxt "#30395"
+msgid "217"
+msgstr ""
+
+msgctxt "#30396"
+msgid "218"
+msgstr ""
+
+msgctxt "#30397"
+msgid "219"
+msgstr ""
+
+msgctxt "#30398"
+msgid "220"
+msgstr ""
+
+msgctxt "#30399"
+msgid "221"
+msgstr ""
+
+msgctxt "#30400"
+msgid "222"
+msgstr ""
+
+msgctxt "#30401"
+msgid "223"
+msgstr ""
+
+msgctxt "#30402"
+msgid "224"
+msgstr ""
+
+msgctxt "#30403"
+msgid "225"
+msgstr ""
+
+msgctxt "#30404"
+msgid "226"
+msgstr ""
+
+msgctxt "#30405"
+msgid "227"
+msgstr ""
+
+msgctxt "#30406"
+msgid "228"
+msgstr ""
+
+msgctxt "#30407"
+msgid "229"
+msgstr ""
+
+msgctxt "#30408"
+msgid "230"
+msgstr ""
+
+msgctxt "#30409"
+msgid "231"
+msgstr ""
+
+msgctxt "#30410"
+msgid "232"
+msgstr ""
+
+msgctxt "#30411"
+msgid "233"
+msgstr ""
+
+msgctxt "#30412"
+msgid "234"
+msgstr ""
+
+msgctxt "#30413"
+msgid "235"
+msgstr ""
+
+msgctxt "#30414"
+msgid "236"
+msgstr ""
+
+msgctxt "#30415"
+msgid "237"
+msgstr ""
+
+msgctxt "#30416"
+msgid "238"
+msgstr ""
+
+msgctxt "#30417"
+msgid "239"
+msgstr ""
+
+msgctxt "#30418"
+msgid "240"
+msgstr ""
+
+msgctxt "#30419"
+msgid "241"
+msgstr ""
+
+msgctxt "#30420"
+msgid "242"
+msgstr ""
+
+msgctxt "#30421"
+msgid "243"
+msgstr ""
+
+msgctxt "#30422"
+msgid "244"
+msgstr ""
+
+msgctxt "#30423"
+msgid "245"
+msgstr ""
+
+msgctxt "#30424"
+msgid "246"
+msgstr ""
+
+msgctxt "#30425"
+msgid "247"
+msgstr ""
+
+msgctxt "#30426"
+msgid "248"
+msgstr ""
+
+msgctxt "#30427"
+msgid "249"
+msgstr ""
+
+msgctxt "#30428"
+msgid "250"
+msgstr ""
+
+msgctxt "#30429"
+msgid "251"
+msgstr ""
+
+msgctxt "#30430"
+msgid "252"
+msgstr ""
+
+msgctxt "#30431"
+msgid "253"
+msgstr ""
+
+msgctxt "#30432"
+msgid "254"
+msgstr ""
+
+msgctxt "#30433"
+msgid "255"
+msgstr ""
+
+msgctxt "#30434"
+msgid "256"
+msgstr ""
+
+msgctxt "#30435"
+msgid "257"
+msgstr ""
+
+msgctxt "#30436"
+msgid "258"
+msgstr ""
+
+msgctxt "#30437"
+msgid "259"
+msgstr ""
+
+msgctxt "#30438"
+msgid "260"
+msgstr ""
+
+msgctxt "#30439"
+msgid "261"
+msgstr ""
+
+msgctxt "#30440"
+msgid "262"
+msgstr ""
+
+msgctxt "#30441"
+msgid "263"
+msgstr ""
+
+msgctxt "#30442"
+msgid "264"
+msgstr ""
+
+msgctxt "#30443"
+msgid "265"
+msgstr ""
+
+msgctxt "#30444"
+msgid "266"
+msgstr ""
+
+msgctxt "#30445"
+msgid "267"
+msgstr ""
+
+msgctxt "#30446"
+msgid "268"
+msgstr ""
+
+msgctxt "#30447"
+msgid "269"
+msgstr ""
+
+msgctxt "#30448"
+msgid "270"
+msgstr ""
+
+msgctxt "#30449"
+msgid "271"
+msgstr ""
+
+msgctxt "#30450"
+msgid "272"
+msgstr ""
+
+msgctxt "#30451"
+msgid "273"
+msgstr ""
+
+msgctxt "#30452"
+msgid "274"
+msgstr ""
+
+msgctxt "#30453"
+msgid "275"
+msgstr ""
+
+msgctxt "#30454"
+msgid "276"
+msgstr ""
+
+msgctxt "#30455"
+msgid "277"
+msgstr ""
+
+msgctxt "#30456"
+msgid "278"
+msgstr ""
+
+msgctxt "#30457"
+msgid "279"
+msgstr ""
+
+msgctxt "#30458"
+msgid "280"
+msgstr ""
+
+msgctxt "#30459"
+msgid "281"
+msgstr ""
+
+msgctxt "#30460"
+msgid "282"
+msgstr ""
+
+msgctxt "#30461"
+msgid "283"
+msgstr ""
+
+msgctxt "#30462"
+msgid "284"
+msgstr ""
+
+msgctxt "#30463"
+msgid "285"
+msgstr ""
+
+msgctxt "#30464"
+msgid "286"
+msgstr ""
+
+msgctxt "#30465"
+msgid "0px"
+msgstr ""
+
+msgctxt "#30466"
+msgid "41"
+msgstr ""
+
+msgctxt "#30467"
+msgid "42"
+msgstr ""
+
+msgctxt "#30468"
+msgid "43"
+msgstr ""
+
+msgctxt "#30469"
+msgid "44"
+msgstr ""
+
+msgctxt "#30470"
+msgid "45"
+msgstr ""
+
+msgctxt "#30471"
+msgid "46"
+msgstr ""
+
+msgctxt "#30472"
+msgid "47"
+msgstr ""
+
+msgctxt "#30473"
+msgid "48"
+msgstr ""
+
+msgctxt "#30474"
+msgid "49"
+msgstr ""
+
+msgctxt "#30475"
+msgid "50"
+msgstr ""
+
+msgctxt "#30476"
+msgid "51"
+msgstr ""
+
+msgctxt "#30477"
+msgid "52"
+msgstr ""
+
+msgctxt "#30478"
+msgid "53"
+msgstr ""
+
+msgctxt "#30479"
+msgid "54"
+msgstr ""
+
+msgctxt "#30480"
+msgid "55"
+msgstr ""
+
+msgctxt "#30481"
+msgid "56"
+msgstr ""
+
+msgctxt "#30482"
+msgid "57"
+msgstr ""
+
+msgctxt "#30483"
+msgid "58"
+msgstr ""
+
+msgctxt "#30484"
+msgid "59"
+msgstr ""
+
+msgctxt "#30485"
+msgid "60"
+msgstr ""
+
+msgctxt "#30486"
+msgid "61"
+msgstr ""
+
+msgctxt "#30487"
+msgid "62"
+msgstr ""
+
+msgctxt "#30488"
+msgid "63"
+msgstr ""
+
+msgctxt "#30489"
+msgid "384"
+msgstr ""
+
+msgctxt "#30490"
+msgid "512"
+msgstr ""
+
+msgctxt "#30491"
+msgid "640"
+msgstr ""
+
+msgctxt "#30492"
+msgid "768"
+msgstr ""
+
+msgctxt "#30493"
+msgid "896"
+msgstr ""
+
+msgctxt "#30494"
+msgid "1024"
+msgstr ""
+
+msgctxt "#30495"
+msgid "1152"
+msgstr ""
+
+msgctxt "#30496"
+msgid "1280"
+msgstr ""
+
+msgctxt "#30497"
+msgid "1408"
+msgstr ""
+
+msgctxt "#30498"
+msgid "1536"
+msgstr ""
+
+msgctxt "#30499"
+msgid "1664"
+msgstr ""
+
+msgctxt "#30500"
+msgid "1792"
+msgstr ""
+
+msgctxt "#30501"
+msgid "1920"
+msgstr ""
+
+msgctxt "#30502"
+msgid "2048"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Ajustes"

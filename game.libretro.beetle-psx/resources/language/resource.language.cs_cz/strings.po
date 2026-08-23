@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.beetle-psx\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-24 22:21i\n"
-"PO-Revision-Date: 2026-08-22 14:11+0000\n"
+"PO-Revision-Date: 2026-08-23 11:38+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-beetle-psx/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -864,3 +864,1115 @@ msgstr "Maximální počet vzorků SPU, které se provedou, než se zkontroluje 
 msgctxt "#30224"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
 msgstr "Zapnutí generuje rychlejší kód, ale může způsobit pád, protože předpokládá, že registry SP a GP vždy ukazují do RAM; vypnutí je kompatibilnější."
+
+msgctxt "#30225"
+msgid "50%"
+msgstr "50 %"
+
+msgctxt "#30226"
+msgid "60%"
+msgstr "60 %"
+
+msgctxt "#30227"
+msgid "70%"
+msgstr "70 %"
+
+msgctxt "#30228"
+msgid "80%"
+msgstr "80 %"
+
+msgctxt "#30229"
+msgid "90%"
+msgstr "90 %"
+
+msgctxt "#30230"
+msgid "110%"
+msgstr "110 %"
+
+msgctxt "#30231"
+msgid "120%"
+msgstr "120 %"
+
+msgctxt "#30232"
+msgid "130%"
+msgstr "130 %"
+
+msgctxt "#30233"
+msgid "140%"
+msgstr "140 %"
+
+msgctxt "#30234"
+msgid "150%"
+msgstr "150 %"
+
+msgctxt "#30235"
+msgid "160%"
+msgstr "160 %"
+
+msgctxt "#30236"
+msgid "170%"
+msgstr "170 %"
+
+msgctxt "#30237"
+msgid "180%"
+msgstr "180 %"
+
+msgctxt "#30238"
+msgid "190%"
+msgstr "190 %"
+
+msgctxt "#30239"
+msgid "200%"
+msgstr "200 %"
+
+msgctxt "#30240"
+msgid "210%"
+msgstr "210 %"
+
+msgctxt "#30241"
+msgid "220%"
+msgstr "220 %"
+
+msgctxt "#30242"
+msgid "230%"
+msgstr "230 %"
+
+msgctxt "#30243"
+msgid "240%"
+msgstr "240 %"
+
+msgctxt "#30244"
+msgid "250%"
+msgstr "250 %"
+
+msgctxt "#30245"
+msgid "260%"
+msgstr "260 %"
+
+msgctxt "#30246"
+msgid "270%"
+msgstr "270 %"
+
+msgctxt "#30247"
+msgid "280%"
+msgstr "280 %"
+
+msgctxt "#30248"
+msgid "290%"
+msgstr "290 %"
+
+msgctxt "#30249"
+msgid "300%"
+msgstr "300 %"
+
+msgctxt "#30250"
+msgid "310%"
+msgstr "310 %"
+
+msgctxt "#30251"
+msgid "320%"
+msgstr "320 %"
+
+msgctxt "#30252"
+msgid "330%"
+msgstr "330 %"
+
+msgctxt "#30253"
+msgid "340%"
+msgstr "340 %"
+
+msgctxt "#30254"
+msgid "350%"
+msgstr "350 %"
+
+msgctxt "#30255"
+msgid "360%"
+msgstr "360 %"
+
+msgctxt "#30256"
+msgid "370%"
+msgstr "370 %"
+
+msgctxt "#30257"
+msgid "380%"
+msgstr "380 %"
+
+msgctxt "#30258"
+msgid "390%"
+msgstr "390 %"
+
+msgctxt "#30259"
+msgid "400%"
+msgstr "400 %"
+
+msgctxt "#30260"
+msgid "410%"
+msgstr "410 %"
+
+msgctxt "#30261"
+msgid "420%"
+msgstr "420 %"
+
+msgctxt "#30262"
+msgid "430%"
+msgstr "430 %"
+
+msgctxt "#30263"
+msgid "440%"
+msgstr "440 %"
+
+msgctxt "#30264"
+msgid "450%"
+msgstr "450 %"
+
+msgctxt "#30265"
+msgid "460%"
+msgstr "460 %"
+
+msgctxt "#30266"
+msgid "470%"
+msgstr "470 %"
+
+msgctxt "#30267"
+msgid "480%"
+msgstr "480 %"
+
+msgctxt "#30268"
+msgid "490%"
+msgstr "490 %"
+
+msgctxt "#30269"
+msgid "500%"
+msgstr "500 %"
+
+msgctxt "#30270"
+msgid "510%"
+msgstr "510 %"
+
+msgctxt "#30271"
+msgid "520%"
+msgstr "520 %"
+
+msgctxt "#30272"
+msgid "530%"
+msgstr "530 %"
+
+msgctxt "#30273"
+msgid "540%"
+msgstr "540 %"
+
+msgctxt "#30274"
+msgid "550%"
+msgstr "550 %"
+
+msgctxt "#30275"
+msgid "560%"
+msgstr "560 %"
+
+msgctxt "#30276"
+msgid "570%"
+msgstr "570 %"
+
+msgctxt "#30277"
+msgid "580%"
+msgstr "580 %"
+
+msgctxt "#30278"
+msgid "590%"
+msgstr "590 %"
+
+msgctxt "#30279"
+msgid "600%"
+msgstr "600 %"
+
+msgctxt "#30280"
+msgid "610%"
+msgstr "610 %"
+
+msgctxt "#30281"
+msgid "620%"
+msgstr "620 %"
+
+msgctxt "#30282"
+msgid "630%"
+msgstr "630 %"
+
+msgctxt "#30283"
+msgid "640%"
+msgstr "640 %"
+
+msgctxt "#30284"
+msgid "650%"
+msgstr "650 %"
+
+msgctxt "#30285"
+msgid "660%"
+msgstr "660 %"
+
+msgctxt "#30286"
+msgid "670%"
+msgstr "670 %"
+
+msgctxt "#30287"
+msgid "680%"
+msgstr "680 %"
+
+msgctxt "#30288"
+msgid "690%"
+msgstr "690 %"
+
+msgctxt "#30289"
+msgid "700%"
+msgstr "700 %"
+
+msgctxt "#30290"
+msgid "710%"
+msgstr "710 %"
+
+msgctxt "#30291"
+msgid "720%"
+msgstr "720 %"
+
+msgctxt "#30292"
+msgid "730%"
+msgstr "730 %"
+
+msgctxt "#30293"
+msgid "740%"
+msgstr "740 %"
+
+msgctxt "#30294"
+msgid "750%"
+msgstr "750 %"
+
+msgctxt "#30295"
+msgid "2x"
+msgstr "2x"
+
+msgctxt "#30296"
+msgid "4x"
+msgstr "4x"
+
+msgctxt "#30297"
+msgid "8x"
+msgstr "8x"
+
+msgctxt "#30298"
+msgid "16x"
+msgstr "16x"
+
+msgctxt "#30299"
+msgid "32x"
+msgstr "32x"
+
+msgctxt "#30300"
+msgid "6x"
+msgstr "6x"
+
+msgctxt "#30301"
+msgid "10x"
+msgstr "10x"
+
+msgctxt "#30302"
+msgid "12x"
+msgstr "12x"
+
+msgctxt "#30303"
+msgid "14x"
+msgstr "14x"
+
+msgctxt "#30304"
+msgid "1px"
+msgstr "1 px"
+
+msgctxt "#30305"
+msgid "2px"
+msgstr "2 px"
+
+msgctxt "#30306"
+msgid "3px"
+msgstr "3 px"
+
+msgctxt "#30307"
+msgid "4px"
+msgstr "4 px"
+
+msgctxt "#30308"
+msgid "5px"
+msgstr "5 px"
+
+msgctxt "#30309"
+msgid "6px"
+msgstr "6 px"
+
+msgctxt "#30310"
+msgid "7px"
+msgstr "7 px"
+
+msgctxt "#30311"
+msgid "8px"
+msgstr "8 px"
+
+msgctxt "#30312"
+msgid "9px"
+msgstr "9 px"
+
+msgctxt "#30313"
+msgid "10px"
+msgstr "10 px"
+
+msgctxt "#30314"
+msgid "11px"
+msgstr "11 px"
+
+msgctxt "#30315"
+msgid "12px"
+msgstr "12 px"
+
+msgctxt "#30316"
+msgid "13px"
+msgstr "13 px"
+
+msgctxt "#30317"
+msgid "14px"
+msgstr "14 px"
+
+msgctxt "#30318"
+msgid "15px"
+msgstr "15 px"
+
+msgctxt "#30319"
+msgid "16px"
+msgstr "16 px"
+
+msgctxt "#30320"
+msgid "17px"
+msgstr "17 px"
+
+msgctxt "#30321"
+msgid "18px"
+msgstr "18 px"
+
+msgctxt "#30322"
+msgid "19px"
+msgstr "19 px"
+
+msgctxt "#30323"
+msgid "20px"
+msgstr "20 px"
+
+msgctxt "#30324"
+msgid "-12px"
+msgstr "-12 px"
+
+msgctxt "#30325"
+msgid "-11px"
+msgstr "-11 px"
+
+msgctxt "#30326"
+msgid "-10px"
+msgstr "-10 px"
+
+msgctxt "#30327"
+msgid "-9px"
+msgstr "-9 px"
+
+msgctxt "#30328"
+msgid "-8px"
+msgstr "-8 px"
+
+msgctxt "#30329"
+msgid "-7px"
+msgstr "-7 px"
+
+msgctxt "#30330"
+msgid "-6px"
+msgstr "-6 px"
+
+msgctxt "#30331"
+msgid "-5px"
+msgstr "-5 px"
+
+msgctxt "#30332"
+msgid "-4px"
+msgstr "-4 px"
+
+msgctxt "#30333"
+msgid "-3px"
+msgstr "-3 px"
+
+msgctxt "#30334"
+msgid "-2px"
+msgstr "-2 px"
+
+msgctxt "#30335"
+msgid "-1px"
+msgstr "-1 px"
+
+msgctxt "#30336"
+msgid "+1px"
+msgstr "+1 px"
+
+msgctxt "#30337"
+msgid "+2px"
+msgstr "+2 px"
+
+msgctxt "#30338"
+msgid "+3px"
+msgstr "+3 px"
+
+msgctxt "#30339"
+msgid "+4px"
+msgstr "+4 px"
+
+msgctxt "#30340"
+msgid "+5px"
+msgstr "+5 px"
+
+msgctxt "#30341"
+msgid "+6px"
+msgstr "+6 px"
+
+msgctxt "#30342"
+msgid "+7px"
+msgstr "+7 px"
+
+msgctxt "#30343"
+msgid "+8px"
+msgstr "+8 px"
+
+msgctxt "#30344"
+msgid "+9px"
+msgstr "+9 px"
+
+msgctxt "#30345"
+msgid "+10px"
+msgstr "+10 px"
+
+msgctxt "#30346"
+msgid "+11px"
+msgstr "+11 px"
+
+msgctxt "#30347"
+msgid "+12px"
+msgstr "+12 px"
+
+msgctxt "#30348"
+msgid "1"
+msgstr "1"
+
+msgctxt "#30349"
+msgid "2"
+msgstr "2"
+
+msgctxt "#30350"
+msgid "3"
+msgstr "3"
+
+msgctxt "#30351"
+msgid "4"
+msgstr "4"
+
+msgctxt "#30352"
+msgid "5"
+msgstr "5"
+
+msgctxt "#30353"
+msgid "6"
+msgstr "6"
+
+msgctxt "#30354"
+msgid "7"
+msgstr "7"
+
+msgctxt "#30355"
+msgid "8"
+msgstr "8"
+
+msgctxt "#30356"
+msgid "9"
+msgstr "9"
+
+msgctxt "#30357"
+msgid "10"
+msgstr "10"
+
+msgctxt "#30358"
+msgid "11"
+msgstr "11"
+
+msgctxt "#30359"
+msgid "12"
+msgstr "12"
+
+msgctxt "#30360"
+msgid "13"
+msgstr "13"
+
+msgctxt "#30361"
+msgid "14"
+msgstr "14"
+
+msgctxt "#30362"
+msgid "15"
+msgstr "15"
+
+msgctxt "#30363"
+msgid "16"
+msgstr "16"
+
+msgctxt "#30364"
+msgid "17"
+msgstr "17"
+
+msgctxt "#30365"
+msgid "18"
+msgstr "18"
+
+msgctxt "#30366"
+msgid "19"
+msgstr "19"
+
+msgctxt "#30367"
+msgid "20"
+msgstr "20"
+
+msgctxt "#30368"
+msgid "21"
+msgstr "21"
+
+msgctxt "#30369"
+msgid "22"
+msgstr "22"
+
+msgctxt "#30370"
+msgid "23"
+msgstr "23"
+
+msgctxt "#30371"
+msgid "24"
+msgstr "24"
+
+msgctxt "#30372"
+msgid "25"
+msgstr "25"
+
+msgctxt "#30373"
+msgid "26"
+msgstr "26"
+
+msgctxt "#30374"
+msgid "27"
+msgstr "27"
+
+msgctxt "#30375"
+msgid "28"
+msgstr "28"
+
+msgctxt "#30376"
+msgid "29"
+msgstr "29"
+
+msgctxt "#30377"
+msgid "30"
+msgstr "30"
+
+msgctxt "#30378"
+msgid "31"
+msgstr "31"
+
+msgctxt "#30379"
+msgid "32"
+msgstr "32"
+
+msgctxt "#30380"
+msgid "33"
+msgstr "33"
+
+msgctxt "#30381"
+msgid "34"
+msgstr "34"
+
+msgctxt "#30382"
+msgid "35"
+msgstr "35"
+
+msgctxt "#30383"
+msgid "36"
+msgstr "36"
+
+msgctxt "#30384"
+msgid "37"
+msgstr "37"
+
+msgctxt "#30385"
+msgid "38"
+msgstr "38"
+
+msgctxt "#30386"
+msgid "39"
+msgstr "39"
+
+msgctxt "#30387"
+msgid "40"
+msgstr "40"
+
+msgctxt "#30388"
+msgid "210"
+msgstr "210"
+
+msgctxt "#30389"
+msgid "211"
+msgstr "211"
+
+msgctxt "#30390"
+msgid "212"
+msgstr "212"
+
+msgctxt "#30391"
+msgid "213"
+msgstr "213"
+
+msgctxt "#30392"
+msgid "214"
+msgstr "214"
+
+msgctxt "#30393"
+msgid "215"
+msgstr "215"
+
+msgctxt "#30394"
+msgid "216"
+msgstr "216"
+
+msgctxt "#30395"
+msgid "217"
+msgstr "217"
+
+msgctxt "#30396"
+msgid "218"
+msgstr "218"
+
+msgctxt "#30397"
+msgid "219"
+msgstr "219"
+
+msgctxt "#30398"
+msgid "220"
+msgstr "220"
+
+msgctxt "#30399"
+msgid "221"
+msgstr "221"
+
+msgctxt "#30400"
+msgid "222"
+msgstr "222"
+
+msgctxt "#30401"
+msgid "223"
+msgstr "223"
+
+msgctxt "#30402"
+msgid "224"
+msgstr "224"
+
+msgctxt "#30403"
+msgid "225"
+msgstr "225"
+
+msgctxt "#30404"
+msgid "226"
+msgstr "226"
+
+msgctxt "#30405"
+msgid "227"
+msgstr "227"
+
+msgctxt "#30406"
+msgid "228"
+msgstr "228"
+
+msgctxt "#30407"
+msgid "229"
+msgstr "229"
+
+msgctxt "#30408"
+msgid "230"
+msgstr "230"
+
+msgctxt "#30409"
+msgid "231"
+msgstr "231"
+
+msgctxt "#30410"
+msgid "232"
+msgstr "232"
+
+msgctxt "#30411"
+msgid "233"
+msgstr "233"
+
+msgctxt "#30412"
+msgid "234"
+msgstr "234"
+
+msgctxt "#30413"
+msgid "235"
+msgstr "235"
+
+msgctxt "#30414"
+msgid "236"
+msgstr "236"
+
+msgctxt "#30415"
+msgid "237"
+msgstr "237"
+
+msgctxt "#30416"
+msgid "238"
+msgstr "238"
+
+msgctxt "#30417"
+msgid "239"
+msgstr "239"
+
+msgctxt "#30418"
+msgid "240"
+msgstr "240"
+
+msgctxt "#30419"
+msgid "241"
+msgstr "241"
+
+msgctxt "#30420"
+msgid "242"
+msgstr "242"
+
+msgctxt "#30421"
+msgid "243"
+msgstr "243"
+
+msgctxt "#30422"
+msgid "244"
+msgstr "244"
+
+msgctxt "#30423"
+msgid "245"
+msgstr "245"
+
+msgctxt "#30424"
+msgid "246"
+msgstr "246"
+
+msgctxt "#30425"
+msgid "247"
+msgstr "247"
+
+msgctxt "#30426"
+msgid "248"
+msgstr "248"
+
+msgctxt "#30427"
+msgid "249"
+msgstr "249"
+
+msgctxt "#30428"
+msgid "250"
+msgstr "250"
+
+msgctxt "#30429"
+msgid "251"
+msgstr "251"
+
+msgctxt "#30430"
+msgid "252"
+msgstr "252"
+
+msgctxt "#30431"
+msgid "253"
+msgstr "253"
+
+msgctxt "#30432"
+msgid "254"
+msgstr "254"
+
+msgctxt "#30433"
+msgid "255"
+msgstr "255"
+
+msgctxt "#30434"
+msgid "256"
+msgstr "256"
+
+msgctxt "#30435"
+msgid "257"
+msgstr "257"
+
+msgctxt "#30436"
+msgid "258"
+msgstr "258"
+
+msgctxt "#30437"
+msgid "259"
+msgstr "259"
+
+msgctxt "#30438"
+msgid "260"
+msgstr "260"
+
+msgctxt "#30439"
+msgid "261"
+msgstr "261"
+
+msgctxt "#30440"
+msgid "262"
+msgstr "262"
+
+msgctxt "#30441"
+msgid "263"
+msgstr "263"
+
+msgctxt "#30442"
+msgid "264"
+msgstr "264"
+
+msgctxt "#30443"
+msgid "265"
+msgstr "265"
+
+msgctxt "#30444"
+msgid "266"
+msgstr "266"
+
+msgctxt "#30445"
+msgid "267"
+msgstr "267"
+
+msgctxt "#30446"
+msgid "268"
+msgstr "268"
+
+msgctxt "#30447"
+msgid "269"
+msgstr "269"
+
+msgctxt "#30448"
+msgid "270"
+msgstr "270"
+
+msgctxt "#30449"
+msgid "271"
+msgstr "271"
+
+msgctxt "#30450"
+msgid "272"
+msgstr "272"
+
+msgctxt "#30451"
+msgid "273"
+msgstr "273"
+
+msgctxt "#30452"
+msgid "274"
+msgstr "274"
+
+msgctxt "#30453"
+msgid "275"
+msgstr "275"
+
+msgctxt "#30454"
+msgid "276"
+msgstr "276"
+
+msgctxt "#30455"
+msgid "277"
+msgstr "277"
+
+msgctxt "#30456"
+msgid "278"
+msgstr "278"
+
+msgctxt "#30457"
+msgid "279"
+msgstr "279"
+
+msgctxt "#30458"
+msgid "280"
+msgstr "280"
+
+msgctxt "#30459"
+msgid "281"
+msgstr "281"
+
+msgctxt "#30460"
+msgid "282"
+msgstr "282"
+
+msgctxt "#30461"
+msgid "283"
+msgstr "283"
+
+msgctxt "#30462"
+msgid "284"
+msgstr "284"
+
+msgctxt "#30463"
+msgid "285"
+msgstr "285"
+
+msgctxt "#30464"
+msgid "286"
+msgstr "286"
+
+msgctxt "#30465"
+msgid "0px"
+msgstr "0 px"
+
+msgctxt "#30466"
+msgid "41"
+msgstr "41"
+
+msgctxt "#30467"
+msgid "42"
+msgstr "42"
+
+msgctxt "#30468"
+msgid "43"
+msgstr "43"
+
+msgctxt "#30469"
+msgid "44"
+msgstr "44"
+
+msgctxt "#30470"
+msgid "45"
+msgstr "45"
+
+msgctxt "#30471"
+msgid "46"
+msgstr "46"
+
+msgctxt "#30472"
+msgid "47"
+msgstr "47"
+
+msgctxt "#30473"
+msgid "48"
+msgstr "48"
+
+msgctxt "#30474"
+msgid "49"
+msgstr "49"
+
+msgctxt "#30475"
+msgid "50"
+msgstr "50"
+
+msgctxt "#30476"
+msgid "51"
+msgstr "51"
+
+msgctxt "#30477"
+msgid "52"
+msgstr "52"
+
+msgctxt "#30478"
+msgid "53"
+msgstr "53"
+
+msgctxt "#30479"
+msgid "54"
+msgstr "54"
+
+msgctxt "#30480"
+msgid "55"
+msgstr "55"
+
+msgctxt "#30481"
+msgid "56"
+msgstr "56"
+
+msgctxt "#30482"
+msgid "57"
+msgstr "57"
+
+msgctxt "#30483"
+msgid "58"
+msgstr "58"
+
+msgctxt "#30484"
+msgid "59"
+msgstr "59"
+
+msgctxt "#30485"
+msgid "60"
+msgstr "60"
+
+msgctxt "#30486"
+msgid "61"
+msgstr "61"
+
+msgctxt "#30487"
+msgid "62"
+msgstr "62"
+
+msgctxt "#30488"
+msgid "63"
+msgstr "63"
+
+msgctxt "#30489"
+msgid "384"
+msgstr "384"
+
+msgctxt "#30490"
+msgid "512"
+msgstr "512"
+
+msgctxt "#30491"
+msgid "640"
+msgstr "640"
+
+msgctxt "#30492"
+msgid "768"
+msgstr "768"
+
+msgctxt "#30493"
+msgid "896"
+msgstr "896"
+
+msgctxt "#30494"
+msgid "1024"
+msgstr "1024"
+
+msgctxt "#30495"
+msgid "1152"
+msgstr "1152"
+
+msgctxt "#30496"
+msgid "1280"
+msgstr "1280"
+
+msgctxt "#30497"
+msgid "1408"
+msgstr "1408"
+
+msgctxt "#30498"
+msgid "1536"
+msgstr "1536"
+
+msgctxt "#30499"
+msgid "1664"
+msgstr "1664"
+
+msgctxt "#30500"
+msgid "1792"
+msgstr "1792"
+
+msgctxt "#30501"
+msgid "1920"
+msgstr "1920"
+
+msgctxt "#30502"
+msgid "2048"
+msgstr "2048"
