@@ -1,1 +1,1 @@
-beetle-psx https://github.com/kodi-game/beetle-psx-libretro/archive/21c4802caad3d9634f39be433ae4e085b0c1f7be.tar.gz
+beetle-psx https://github.com/kodi-game/beetle-psx-libretro/archive/dbd9abe2801ea246d8cec2a5aefc9fd8b224bc8a.tar.gz

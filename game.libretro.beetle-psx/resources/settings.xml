@@ -1171,6 +1171,17 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
+				<setting id="beetle_psx_compatibility_settings" type="string" label="30503" help="30504">
+					<level>0</level>
+					<default>enabled</default>
+					<constraints>
+						<options>
+							<option label="30505">enabled</option>
+							<option label="30506">disabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
 			</group>
 		</category>
 	</section>
