@@ -1977,6 +1977,22 @@ msgctxt "#30502"
 msgid "2048"
 msgstr ""
 
+msgctxt "#30503"
+msgid "Compatibility Settings"
+msgstr ""
+
+msgctxt "#30504"
+msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
+msgstr ""
+
+msgctxt "#30505"
+msgid "Enabled (Recommended)"
+msgstr ""
+
+msgctxt "#30506"
+msgid "Disabled (Allow Overrides)"
+msgstr ""
+
 #~ msgctxt "#30003"
 #~ msgid "Frame Duping (Speedup)"
 #~ msgstr "Duplicación de Fotogramas (aceleración)"
