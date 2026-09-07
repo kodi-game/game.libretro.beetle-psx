@@ -16,7 +16,7 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms>PSX</platforms>
+		<platforms>Sony - PlayStation</platforms>
 		<extensions>exe|cue|toc|ccd|m3u|pbp|chd|bin|img|iso</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
