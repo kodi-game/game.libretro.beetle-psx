@@ -27,11 +27,11 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Internal GPU Resolution"
-msgstr ""
+msgstr "內部解析度 (GPU)"
 
 msgctxt "#30002"
 msgid "Dithering Pattern"
-msgstr ""
+msgstr "抖動色彩效果"
 
 msgctxt "#30004"
 msgid "Display Internal FPS"
@@ -39,7 +39,7 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Analog Self-Calibration"
-msgstr ""
+msgstr "類比自動校正"
 
 msgctxt "#30007"
 msgid "DualShock Analog Mode Combo"
@@ -51,23 +51,23 @@ msgstr ""
 
 msgctxt "#30011"
 msgid "Gun Input Mode"
-msgstr ""
+msgstr "光線槍輸入模式"
 
 msgctxt "#30012"
 msgid "Gun Cursor"
-msgstr ""
+msgstr "光線槍準心"
 
 msgctxt "#30015"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "滑鼠靈敏度"
 
 msgctxt "#30016"
 msgid "neGcon Twist Response"
-msgstr ""
+msgstr "扭轉控制器靈敏度 (neGcon)"
 
 msgctxt "#30017"
 msgid "neGcon Twist Deadzone"
-msgstr ""
+msgstr "扭轉控制器作用區 (neGcon)"
 
 msgctxt "#30023"
 msgid "PGXP Operation Mode"
@@ -87,11 +87,11 @@ msgstr ""
 
 msgctxt "#30027"
 msgid "Widescreen Mode Hack"
-msgstr ""
+msgstr "寬螢幕模式 (破解)"
 
 msgctxt "#30028"
 msgid "Widescreen Mode Hack Aspect Ratio"
-msgstr ""
+msgstr "寬螢幕模式比例"
 
 msgctxt "#30029"
 msgid "CPU Frequency Scaling (Overclock)"
@@ -103,7 +103,7 @@ msgstr ""
 
 msgctxt "#30031"
 msgid "Skip BIOS"
-msgstr ""
+msgstr "跳過BIOS"
 
 msgctxt "#30033"
 msgid "CPU Dynarec"
@@ -127,7 +127,7 @@ msgstr ""
 
 msgctxt "#30039"
 msgid "Crop Overscan"
-msgstr ""
+msgstr "裁剪過度掃描"
 
 msgctxt "#30040"
 msgid "Additional Cropping"
@@ -231,7 +231,7 @@ msgstr ""
 
 msgctxt "#30066"
 msgid "System Region"
-msgstr ""
+msgstr "系統區域"
 
 msgctxt "#30067"
 msgid "PGXP Perspective Correct Texturing"
@@ -251,7 +251,7 @@ msgstr ""
 
 msgctxt "#30071"
 msgid "System"
-msgstr ""
+msgstr "系統"
 
 msgctxt "#30072"
 msgid "Change system and overclocking options."
@@ -271,7 +271,7 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "1x (Native)"
-msgstr ""
+msgstr "1倍 (原廠)"
 
 msgctxt "#30077"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
@@ -299,7 +299,7 @@ msgstr ""
 
 msgctxt "#30083"
 msgid "2x (Native)"
-msgstr ""
+msgstr "2倍 (原廠)"
 
 msgctxt "#30084"
 msgid "Skip the PlayStation BIOS boot animation normally displayed when loading content. Note: Enabling this causes compatibility issues with a number of games (PAL copy protected games, Saga Frontier, etc.)."
@@ -311,11 +311,11 @@ msgstr ""
 
 msgctxt "#30086"
 msgid "PSP PS1 BIOS"
-msgstr ""
+msgstr "PSP內建 (psxonpsp660.bin)"
 
 msgctxt "#30087"
 msgid "PS3 PS1 BIOS"
-msgstr ""
+msgstr "PS3內建 (ps1_rom.bin)"
 
 msgctxt "#30088"
 msgid "OpenBIOS"
@@ -327,7 +327,7 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 msgctxt "#30091"
 msgid "NTSC-J (Japan)"
@@ -343,11 +343,11 @@ msgstr ""
 
 msgctxt "#30094"
 msgid "Video"
-msgstr ""
+msgstr "顯示"
 
 msgctxt "#30095"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr ""
+msgstr "變更長寬比、畫面裁剪、影像濾鏡和跳幀的設定。"
 
 msgctxt "#30096"
 msgid "Resolutions higher than '1x (Native)' improve fidelity of 3D models at the expense of increased performance requirements. 2D elements are generally unaffected by this setting."
@@ -359,7 +359,7 @@ msgstr ""
 
 msgctxt "#30098"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "內部解析度"
 
 msgctxt "#30099"
 msgid "Automatic Toggling allows the core to switch between progressive and interlaced rates."
@@ -419,7 +419,7 @@ msgstr ""
 
 msgctxt "#30113"
 msgid "Uncorrected"
-msgstr ""
+msgstr "未調整"
 
 msgctxt "#30114"
 msgid "Force 4:3"
@@ -475,7 +475,7 @@ msgstr ""
 
 msgctxt "#30127"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239 (預設)"
 
 msgctxt "#30128"
 msgid "First displayed scan line when running PAL content. Values greater than zero will reduce the height of output images by cropping pixels from the topmost edge. May be used to counteract letterboxing."
@@ -487,15 +487,15 @@ msgstr ""
 
 msgctxt "#30130"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287 (預設)"
 
 msgctxt "#30131"
 msgid "PGXP (Precision Geometry Transform Pipeline)"
-msgstr ""
+msgstr "精密幾何轉換管線 (PGXP)"
 
 msgctxt "#30132"
 msgid "These options control enhancements which can improve graphics compared to the original console. PGXP can get rid of warping textures and Z-fighting issues."
-msgstr ""
+msgstr "變更改進圖形功能的設定, PGXP可消除扭曲紋理和高度軸衝突問題。"
 
 msgctxt "#30133"
 msgid "Render 3D objects with subpixel precision, minimizing distortion and jitter of 3D objects seen on original hardware due to the usage of fixed point vertex coordinates. 'Memory Only' mode has minimal compatibility issues and is recommended for general use. 'Memory + CPU (Buggy)' mode can reduce jitter even further but has high performance requirements and may cause various geometry errors."
@@ -503,11 +503,11 @@ msgstr ""
 
 msgctxt "#30134"
 msgid "Memory Only"
-msgstr ""
+msgstr "記憶體"
 
 msgctxt "#30135"
 msgid "Memory + CPU (Buggy)"
-msgstr ""
+msgstr "記憶體 + 中央處理器 (錯誤)"
 
 msgctxt "#30136"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
@@ -523,11 +523,11 @@ msgstr ""
 
 msgctxt "#30139"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "螢幕選單"
 
 msgctxt "#30140"
 msgid "Change notifications being shown on-screen."
-msgstr ""
+msgstr "變更螢幕上顯示資訊的設定。"
 
 msgctxt "#30141"
 msgid "Display the internal frame rate at which the emulated PlayStation system is rendering content. Note: Requires onscreen notifications to be enabled in the libretro frontend."
@@ -539,11 +539,11 @@ msgstr ""
 
 msgctxt "#30143"
 msgid "Input"
-msgstr ""
+msgstr "輸入"
 
 msgctxt "#30144"
 msgid "Change light gun, mouse and neGcon settings."
-msgstr ""
+msgstr "變更轉接插座、光線槍、滑鼠和類比搖桿的設定。"
 
 msgctxt "#30145"
 msgid "Enable dynamic calibration of analog inputs when the device is set to DualShock, Analog Controller, Analog Joystick, or neGcon. Maximum registered input values are monitored in real time and used to scale analog coordinates passed to the emulator. This should be used for games such as Mega Man Legends 2 that expect larger values than what modern controllers provide. For best results, analog sticks should be rotated at full extent to tune the calibration algorithm each time content is loaded."
@@ -631,11 +631,11 @@ msgstr ""
 
 msgctxt "#30166"
 msgid "Enable multitap functionality on port 1."
-msgstr ""
+msgstr "開啟連接埠1轉接插座可對應四位玩家。"
 
 msgctxt "#30167"
 msgid "Enable multitap functionality on port 2."
-msgstr ""
+msgstr "開啟連接埠2轉接插座可對應四位玩家。"
 
 msgctxt "#30168"
 msgid "Use mouse-controlled 'Light Gun' or 'Touchscreen' input when device type is set to 'Guncon/G-Con 45' or 'Justifier'."
@@ -643,11 +643,11 @@ msgstr ""
 
 msgctxt "#30169"
 msgid "Light Gun"
-msgstr ""
+msgstr "光線槍"
 
 msgctxt "#30170"
 msgid "Touchscreen"
-msgstr ""
+msgstr "觸控螢幕"
 
 msgctxt "#30171"
 msgid "Draw a cursor on screen while using the 'Guncon/G-Con 45' and 'Justifier' input device types."
@@ -659,11 +659,11 @@ msgstr ""
 
 msgctxt "#30173"
 msgid "Cross"
-msgstr ""
+msgstr "十字"
 
 msgctxt "#30174"
 msgid "Dot"
-msgstr ""
+msgstr "圓點"
 
 msgctxt "#30175"
 msgid "Light gun crosshair color for port 1."
@@ -671,43 +671,43 @@ msgstr ""
 
 msgctxt "#30176"
 msgid "Red"
-msgstr ""
+msgstr "紅色"
 
 msgctxt "#30177"
 msgid "Blue"
-msgstr ""
+msgstr "藍色"
 
 msgctxt "#30178"
 msgid "Green"
-msgstr ""
+msgstr "綠色"
 
 msgctxt "#30179"
 msgid "Orange"
-msgstr ""
+msgstr "橙色"
 
 msgctxt "#30180"
 msgid "Yellow"
-msgstr ""
+msgstr "黃色"
 
 msgctxt "#30181"
 msgid "Cyan"
-msgstr ""
+msgstr "青色"
 
 msgctxt "#30182"
 msgid "Pink"
-msgstr ""
+msgstr "粉紅"
 
 msgctxt "#30183"
 msgid "Purple"
-msgstr ""
+msgstr "紫色"
 
 msgctxt "#30184"
 msgid "Black"
-msgstr ""
+msgstr "黑色"
 
 msgctxt "#30185"
 msgid "White"
-msgstr ""
+msgstr "白色"
 
 msgctxt "#30186"
 msgid "Light gun crosshair color for port 2."
@@ -723,7 +723,7 @@ msgstr ""
 
 msgctxt "#30189"
 msgid "Linear"
-msgstr ""
+msgstr "線性"
 
 msgctxt "#30190"
 msgid "Quadratic"
@@ -739,7 +739,7 @@ msgstr ""
 
 msgctxt "#30193"
 msgid "Memory Card"
-msgstr ""
+msgstr "記憶卡"
 
 msgctxt "#30194"
 msgid "Change virtual memory card related settings."
@@ -751,11 +751,11 @@ msgstr ""
 
 msgctxt "#30196"
 msgid "Libretro"
-msgstr ""
+msgstr "SRM格式 (Libretro模擬器)"
 
 msgctxt "#30197"
 msgid "Mednafen"
-msgstr ""
+msgstr "MCR格式 (Mednafen模擬器)"
 
 msgctxt "#30198"
 msgid "Emulate a second memory card in the right memory card slot. Note: Some games require this option to be disabled for correct operation (e.g. Codename Tenka). Note: Memory Card Slot 2 uses the Mednafen (.mcr) save format. Restart required."
@@ -779,7 +779,7 @@ msgstr ""
 
 msgctxt "#30203"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "進階"
 
 msgctxt "#30204"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
@@ -791,11 +791,11 @@ msgstr ""
 
 msgctxt "#30206"
 msgid "Default"
-msgstr ""
+msgstr "預設"
 
 msgctxt "#30207"
 msgid "Aggressive"
-msgstr ""
+msgstr "強制"
 
 msgctxt "#30208"
 msgid "Render 3D content anamorphically and output the emulated framebuffer at a widescreen aspect ratio. Produces best results with fully 3D games. 2D elements will be horizontally stretched and may be misaligned."
@@ -819,7 +819,7 @@ msgstr ""
 
 msgctxt "#30213"
 msgid "Max Performance"
-msgstr ""
+msgstr "最高效能"
 
 msgctxt "#30214"
 msgid "Lightrec Interpreter"
@@ -831,7 +831,7 @@ msgstr ""
 
 msgctxt "#30216"
 msgid "Full"
-msgstr ""
+msgstr "全部"
 
 msgctxt "#30217"
 msgid "DMA Only (Slightly Faster)"
@@ -855,7 +855,7 @@ msgstr ""
 
 msgctxt "#30222"
 msgid "128 (Default)"
-msgstr ""
+msgstr "128 (預設)"
 
 msgctxt "#30223"
 msgid "Max SPU samples to run before a SPU Update is checked, higher number will be faster, but will cause sound glitches in some games with anything other than 1."

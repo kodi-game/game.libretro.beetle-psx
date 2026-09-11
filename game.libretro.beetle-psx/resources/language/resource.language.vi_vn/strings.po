@@ -27,215 +27,215 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Internal GPU Resolution"
-msgstr ""
+msgstr "Độ phân giải GPU nội bộ"
 
 msgctxt "#30002"
 msgid "Dithering Pattern"
-msgstr ""
+msgstr "Mẫu dither"
 
 msgctxt "#30004"
 msgid "Display Internal FPS"
-msgstr ""
+msgstr "Hiển thị FPS nội bộ"
 
 msgctxt "#30005"
 msgid "Analog Self-Calibration"
-msgstr ""
+msgstr "Tự hiệu chuẩn Analog"
 
 msgctxt "#30007"
 msgid "DualShock Analog Mode Combo"
-msgstr ""
+msgstr "Tổ hợp chế độ Analog của DualShock"
 
 msgctxt "#30008"
 msgid "DualShock Analog Mode Combo Hold Delay"
-msgstr ""
+msgstr "Độ trễ giữ tổ hợp chế độ Analog của DualShock"
 
 msgctxt "#30011"
 msgid "Gun Input Mode"
-msgstr ""
+msgstr "Chế độ nhập liệu súng"
 
 msgctxt "#30012"
 msgid "Gun Cursor"
-msgstr ""
+msgstr "Con trỏ súng"
 
 msgctxt "#30015"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Độ nhạy Chuột"
 
 msgctxt "#30016"
 msgid "neGcon Twist Response"
-msgstr ""
+msgstr "phản hồi xoay neGcon"
 
 msgctxt "#30017"
 msgid "neGcon Twist Deadzone"
-msgstr ""
+msgstr "vùng chết xoay neGcon"
 
 msgctxt "#30023"
 msgid "PGXP Operation Mode"
-msgstr ""
+msgstr "Chế độ hoạt động PGXP"
 
 msgctxt "#30024"
 msgid "PGXP 2D Geometry Tolerance"
-msgstr ""
+msgstr "Ngưỡng hình học 2D PGXP"
 
 msgctxt "#30025"
 msgid "PGXP Primitive Culling"
-msgstr ""
+msgstr "Loại bỏ hình nguyên PGXP"
 
 msgctxt "#30026"
 msgid "Line-to-Quad Hack"
-msgstr ""
+msgstr "Mẹo chuyển dòng thành hình tứ giác"
 
 msgctxt "#30027"
 msgid "Widescreen Mode Hack"
-msgstr ""
+msgstr "Mẹo Chế độ Màn hình Rộng"
 
 msgctxt "#30028"
 msgid "Widescreen Mode Hack Aspect Ratio"
-msgstr ""
+msgstr "Tỷ lệ khung hình của Mẹo Chế độ Màn hình Rộng"
 
 msgctxt "#30029"
 msgid "CPU Frequency Scaling (Overclock)"
-msgstr ""
+msgstr "Điều chỉnh tần số CPU (Ép xung)"
 
 msgctxt "#30030"
 msgid "GTE Overclock"
-msgstr ""
+msgstr "Ép xung GTE"
 
 msgctxt "#30031"
 msgid "Skip BIOS"
-msgstr ""
+msgstr "Bỏ qua BIOS"
 
 msgctxt "#30033"
 msgid "CPU Dynarec"
-msgstr ""
+msgstr "Biên dịch động CPU"
 
 msgctxt "#30034"
 msgid "Dynarec Code Invalidation"
-msgstr ""
+msgstr "Vô hiệu hóa mã Biên dịch động"
 
 msgctxt "#30035"
 msgid "Dynarec DMA/GPU/MDEC/Timer Event Cycles"
-msgstr ""
+msgstr "Chu kỳ sự kiện Dynarec DMA/GPU/MDEC/Bộ hẹn giờ"
 
 msgctxt "#30036"
 msgid "Dynarec SPU Samples"
-msgstr ""
+msgstr "Mẫu SPU Dynarec"
 
 msgctxt "#30037"
 msgid "Core-Reported FPS Timing"
-msgstr ""
+msgstr "Thời gian FPS do Core báo cáo"
 
 msgctxt "#30039"
 msgid "Crop Overscan"
-msgstr ""
+msgstr "Cắt vùng dư màn hình"
 
 msgctxt "#30040"
 msgid "Additional Cropping"
-msgstr ""
+msgstr "Cắt bổ sung"
 
 msgctxt "#30041"
 msgid "Offset Cropped Image"
-msgstr ""
+msgstr "Dịch ảnh bị cắt"
 
 msgctxt "#30042"
 msgid "GPU Rasterizer Overclock"
-msgstr ""
+msgstr "Ép xung bộ xử lý đồ họa (GPU Rasterizer)"
 
 msgctxt "#30043"
 msgid "Core Aspect Ratio"
-msgstr ""
+msgstr "Tỷ lệ khung hình của Core"
 
 msgctxt "#30044"
 msgid "Initial Scan Line - NTSC"
-msgstr ""
+msgstr "Dòng quét đầu tiên - NTSC"
 
 msgctxt "#30045"
 msgid "Last Scan Line - NTSC"
-msgstr ""
+msgstr "Dòng quét cuối cùng - NTSC"
 
 msgctxt "#30046"
 msgid "Initial Scan Line - PAL"
-msgstr ""
+msgstr "Dòng quét đầu tiên - PAL"
 
 msgctxt "#30047"
 msgid "Last Scan Line - PAL"
-msgstr ""
+msgstr "Dòng quét cuối cùng - PAL"
 
 msgctxt "#30049"
 msgid "CD Loading Speed"
-msgstr ""
+msgstr "Tốc độ tải CD"
 
 msgctxt "#30050"
 msgid "DualShock Analog Mode Toggle"
-msgstr ""
+msgstr "Chuyển chế độ Analog DualShock"
 
 msgctxt "#30051"
 msgid "Display OSD Messages"
-msgstr ""
+msgstr "Hiển thị thông báo OSD"
 
 msgctxt "#30052"
 msgid "Deinterlace Method"
-msgstr ""
+msgstr "Phương pháp khử răng cưa"
 
 msgctxt "#30053"
 msgid "CD Access Method"
-msgstr ""
+msgstr "Phương thức truy cập đĩa CD"
 
 msgctxt "#30054"
 msgid "Override BIOS"
-msgstr ""
+msgstr "Ghi đè BIOS"
 
 msgctxt "#30055"
 msgid "Multitap on Port 1"
-msgstr ""
+msgstr "Multitap ở Cổng 1"
 
 msgctxt "#30056"
 msgid "Multitap on Port 2"
-msgstr ""
+msgstr "Multitap ở Cổng 2"
 
 msgctxt "#30057"
 msgid "Gun Crosshair Color: Port 1"
-msgstr ""
+msgstr "Màu tâm ngắm súng (Crosshair): Cổng 1"
 
 msgctxt "#30058"
 msgid "Gun Crosshair Color: Port 2"
-msgstr ""
+msgstr "Màu tâm ngắm súng: Cổng 2"
 
 msgctxt "#30059"
 msgid "Memory Card Method"
-msgstr ""
+msgstr "Phương thức thẻ nhớ"
 
 msgctxt "#30060"
 msgid "Memory Card Slot 2"
-msgstr ""
+msgstr "Khe thẻ nhớ 2"
 
 msgctxt "#30061"
 msgid "Shared Memory Cards"
-msgstr ""
+msgstr "Thẻ nhớ dùng chung"
 
 msgctxt "#30062"
 msgid "Memory Card Slot 1 Index"
-msgstr ""
+msgstr "Chỉ số khe thẻ nhớ 1"
 
 msgctxt "#30063"
 msgid "Memory Card Slot 2 Index"
-msgstr ""
+msgstr "Chỉ số Khe Thẻ Nhớ 2"
 
 msgctxt "#30064"
 msgid "Frame Duping"
-msgstr ""
+msgstr "Nhân bản khung hình"
 
 msgctxt "#30065"
 msgid "PAL Video Timing Override"
-msgstr ""
+msgstr "Ghi đè thời gian video PAL"
 
 msgctxt "#30066"
 msgid "System Region"
-msgstr ""
+msgstr "Vùng Hệ thống"
 
 msgctxt "#30067"
 msgid "PGXP Perspective Correct Texturing"
-msgstr ""
+msgstr "Kết cấu theo phối cảnh PGXP"
 
 msgctxt "#30068"
 msgid "SPU Silent Voice Optimization"
@@ -251,95 +251,95 @@ msgstr ""
 
 msgctxt "#30071"
 msgid "System"
-msgstr ""
+msgstr "Hệ thống"
 
 msgctxt "#30072"
 msgid "Change system and overclocking options."
-msgstr ""
+msgstr "Thay đổi các tùy chọn hệ thống và ép xung."
 
 msgctxt "#30073"
 msgid "Overclock (or underclock) the emulated PSX CPU. Overclocking can eliminate slowdown and improve frame rates in certain games at the expense of increased performance requirements. Note that some games have an internal frame rate limiter and may not benefit from overclocking. May cause certain effects to animate faster than intended in some titles when overclocked."
-msgstr ""
+msgstr "Ép xung (hoặc giảm xung) CPU của PSX giả lập. Ép xung có thể loại bỏ hiện tượng chậm và cải thiện tốc độ khung hình trong một số trò chơi, đổi lại yêu cầu hiệu năng cao hơn. Lưu ý rằng một số trò chơi có bộ giới hạn khung hình nội bộ và có thể không hưởng lợi từ việc ép xung. Có thể khiến một số hiệu ứng trong một số trò chơi chạy nhanh hơn so với dự định khi ép xung."
 
 msgctxt "#30074"
 msgid "100% (Native)"
-msgstr ""
+msgstr "100% (Gốc)"
 
 msgctxt "#30075"
 msgid "Enable overclocking of the 2D rasterizer contained within the emulated PSX's GPU. Does not improve 3D rendering, and in general has little effect."
-msgstr ""
+msgstr "Bật ép xung bộ raster 2D bên trong GPU giả lập của PSX. Không cải thiện việc hiển thị 3D và nhìn chung tác động rất nhỏ."
 
 msgctxt "#30076"
 msgid "1x (Native)"
-msgstr ""
+msgstr "1x (gốc)"
 
 msgctxt "#30077"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
-msgstr ""
+msgstr "Giảm tất cả các thao tác GTE giả lập (bộ coprocesor CPU cho đồ họa 3D) xuống độ trễ cố định một chu kỳ. Đối với các game sử dụng nhiều GTE, điều này có thể cải thiện đáng kể tốc độ khung hình và độ ổn định thời gian khung hình."
 
 msgctxt "#30078"
 msgid "'Synchronous' mimics original hardware. 'Asynchronous' can reduce stuttering on devices with slow storage. 'Pre-Cache' loads the entire disk image into memory when launching content, which may improve in-game loading times at the cost of an initial delay at startup. 'Pre-Cache' may cause issues on systems with low RAM, and will fall back to 'Synchronous' for physical media. Restart required."
-msgstr ""
+msgstr "Đồng bộ: mô phỏng chính xác hành vi của phần cứng gốc.Bất đồng bộ: có thể giảm hiện tượng giật hình trên các thiết bị có bộ nhớ lưu trữ chậm.Nạp sẵn: tải toàn bộ nội dung đĩa vào bộ nhớ khi khởi chạy trò chơi, có thể cải thiện thời gian tải trong game nhưng sẽ gây chậm lúc khởi động ban đầu. Chế độ này có thể gây vấn đề trên các hệ thống có ít RAM và sẽ tự động quay về chế độ đồng bộ khi dùng đĩa vật lý.Cần khởi động lại để áp dụng."
 
 msgctxt "#30079"
 msgid "Synchronous"
-msgstr ""
+msgstr "Đồng bộ"
 
 msgctxt "#30080"
 msgid "Asynchronous"
-msgstr ""
+msgstr "Không đồng bộ"
 
 msgctxt "#30081"
 msgid "Pre-Cache"
-msgstr ""
+msgstr "Tải trước vào bộ nhớ"
 
 msgctxt "#30082"
 msgid "Values higher than '2x (Native)' can greatly reduce in-game loading times, but may introduce timing errors. Some games may not function properly above a certain value."
-msgstr ""
+msgstr "Các giá trị cao hơn “2x (Gốc)” có thể giảm đáng kể thời gian tải trong game, nhưng có thể gây lỗi về thời gian xử lý. Một số trò chơi có thể không hoạt động đúng khi vượt quá một mức nhất định."
 
 msgctxt "#30083"
 msgid "2x (Native)"
-msgstr ""
+msgstr "2x (Nguyên bản)"
 
 msgctxt "#30084"
 msgid "Skip the PlayStation BIOS boot animation normally displayed when loading content. Note: Enabling this causes compatibility issues with a number of games (PAL copy protected games, Saga Frontier, etc.)."
-msgstr ""
+msgstr "Bỏ qua hoạt ảnh khởi động BIOS của PlayStation thường hiển thị khi tải nội dung. Lưu ý: Bật tùy chọn này có thể gây vấn đề tương thích với một số game (game PAL có bảo vệ bản quyền, Saga Frontier, v.v.)."
 
 msgctxt "#30085"
 msgid "Override the standard region specific BIOS with a region-free one if found. Restart required."
-msgstr ""
+msgstr "Ghi đè BIOS theo vùng tiêu chuẩn bằng BIOS không phân vùng nếu được tìm thấy.Cần khởi động lại."
 
 msgctxt "#30086"
 msgid "PSP PS1 BIOS"
-msgstr ""
+msgstr "BIOS PS1 cho PSP"
 
 msgctxt "#30087"
 msgid "PS3 PS1 BIOS"
-msgstr ""
+msgstr "BIOS PS1 cho PS3"
 
 msgctxt "#30088"
 msgid "OpenBIOS"
-msgstr ""
+msgstr "Bios mã nguồn mở"
 
 msgctxt "#30089"
 msgid "Sets the fallback region used when content cannot be auto-detected (e.g. raw PS-X EXE files). Disc-based games still use the region embedded on the disc. Restart required."
-msgstr ""
+msgstr "Thiết lập khu vực dự phòng được sử dụng khi nội dung không thể tự động nhận diện (ví dụ: file PS-X EXE thô/raw). Các trò chơi chạy bằng đĩa vẫn sẽ sử dụng region được ghi sẵn trên đĩa. Cần khởi động lại để áp dụng."
 
 msgctxt "#30090"
 msgid "Auto"
-msgstr ""
+msgstr "Tự động"
 
 msgctxt "#30091"
 msgid "NTSC-J (Japan)"
-msgstr ""
+msgstr "NTSC-J (Nhật Bản)"
 
 msgctxt "#30092"
 msgid "NTSC-U (North America)"
-msgstr ""
+msgstr "NTSC-U (Bắc Mỹ)"
 
 msgctxt "#30093"
 msgid "PAL (Europe)"
-msgstr ""
+msgstr "PAL (Châu Âu)"
 
 msgctxt "#30094"
 msgid "Video"
@@ -347,39 +347,39 @@ msgstr ""
 
 msgctxt "#30095"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr ""
+msgstr "Thay đổi tỷ lệ khung hình, cắt xén màn hình, bộ lọc video và cài đặt bỏ qua khung hình."
 
 msgctxt "#30096"
 msgid "Resolutions higher than '1x (Native)' improve fidelity of 3D models at the expense of increased performance requirements. 2D elements are generally unaffected by this setting."
-msgstr ""
+msgstr "Độ phân giải cao hơn “1x (Native)” sẽ cải thiện độ chi tiết của các mô hình 3D nhưng yêu cầu hiệu năng cao hơn. Các thành phần 2D nhìn chung không bị ảnh hưởng bởi thiết lập này."
 
 msgctxt "#30097"
 msgid "'1x (Native)' emulates native low resolution dithering used by original hardware to smooth out color banding artifacts visible at native color depth. 'Internal Resolution' scales dithering granularity to the configured internal resolution for cleaner results. Recommended to be disabled when running at 32 bpp color depth. Note: On Vulkan, enabling this will force downsampling to native color depth, while disabling will automatically enable output at higher color depth."
-msgstr ""
+msgstr "“1x (Native)” mô phỏng dithering độ phân giải thấp nguyên bản của phần cứng gốc để làm mượt các artefact dải màu ở độ sâu màu gốc. “Internal Resolution” sẽ mở rộng độ chi tiết của dithering theo độ phân giải nội bộ đã cấu hình để cho kết quả sạch hơn. Khuyến nghị tắt khi chạy ở độ sâu màu 32 bpp.Lưu ý: Trên Vulkan, bật tùy chọn này sẽ buộc giảm mẫu (downsampling) về độ sâu màu gốc; tắt thì sẽ tự động bật xuất hình ở độ sâu màu cao hơn."
 
 msgctxt "#30098"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Độ phân giải nội bộ"
 
 msgctxt "#30099"
 msgid "Automatic Toggling allows the core to switch between progressive and interlaced rates."
-msgstr ""
+msgstr "Tự động chuyển đổi cho phép core chuyển giữa chế độ quét progressive và interlaced."
 
 msgctxt "#30100"
 msgid "Automatic Toggling"
-msgstr ""
+msgstr "Tự động chuyển đổi"
 
 msgctxt "#30101"
 msgid "Force Progressive Rate"
-msgstr ""
+msgstr "Buộc tốc độ quét liên tục"
 
 msgctxt "#30102"
 msgid "Force Interlaced Rate"
-msgstr ""
+msgstr "Ép tốc độ xen kẽ"
 
 msgctxt "#30103"
 msgid "'Weave' shows both fields on the same frame for full high resolution still image, 'Bob' sacrificies resolution clarity for motion clarity. 'Bob (Offset)' is Bob with the current field doubled into the full surface height with a one-line offset between fields, preserving the libretro output resolution while keeping Bob-style smooth motion. 'FastMAD (Motion Adaptive)' weaves still pixels and vertically-interpolates moving pixels per-pixel, full output height with neither weave's comb on motion nor bob's halved resolution. 'Off' makes the software renderer match the hardware (Vulkan/OpenGL) renderer behaviour by rasterising to all VRAM lines every frame and deferring scanout to the end of the frame, eliminating comb-on-motion in interlaced games. Note: programs that DMA to VRAM during scanout (some demos using >512-line PAL framebuffer-wrap tricks), or that update moving sprites via CPU-to-VRAM image transfers tied to the displayed field (e.g. Pro Pinball), may show stale rows or sprite ghosting under 'Off'; use 'Weave', 'Bob', 'Bob (Offset)', or 'FastMAD' for those."
-msgstr ""
+msgstr "‘Weave’ hiển thị cả hai trường trên cùng một khung hình để tạo ảnh tĩnh có độ phân giải đầy đủ, còn ‘Bob’ hy sinh độ nét độ phân giải để tăng độ mượt chuyển động. ‘Bob (Offset)’ là Bob nhưng nhân đôi trường hiện tại lên toàn bộ chiều cao hiển thị với độ lệch một dòng giữa các trường, giữ nguyên độ phân giải đầu ra libretro trong khi vẫn duy trì chuyển động mượt kiểu Bob. ‘FastMAD (Motion Adaptive)’ ghép các pixel tĩnh và nội suy theo chiều dọc các pixel đang chuyển động trên từng pixel, cho chiều cao đầu ra đầy đủ mà không gặp hiện tượng răng cưa khi chuyển động như weave hay giảm nửa độ phân giải như bob. ‘Off’ làm cho trình dựng phần mềm hoạt động giống trình dựng phần cứng (Vulkan/OpenGL) bằng cách rasterize lên tất cả các dòng VRAM mỗi khung hình và hoãn quét xuất hình đến cuối khung hình, loại bỏ hiện tượng răng cưa khi chuyển động trong game xen kẽ dòng (interlaced). Lưu ý: các chương trình DMA tới VRAM trong lúc quét xuất hình (một số demo dùng thủ thuật framebuffer-wrap PAL hơn 512 dòng), hoặc cập nhật sprite chuyển động qua truyền ảnh CPU-to-VRAM gắn với trường đang hiển thị (ví dụ Pro Pinball), có thể xuất hiện dòng hình cũ hoặc bóng mờ sprite khi dùng ‘Off’; hãy dùng ‘Weave’, ‘Bob’, ‘Bob (Offset)’ hoặc ‘FastMAD’ trong các trường hợp đó."
 
 msgctxt "#30104"
 msgid "Weave"
@@ -391,11 +391,11 @@ msgstr ""
 
 msgctxt "#30106"
 msgid "Bob (Offset)"
-msgstr ""
+msgstr "Bob (Lệch dòng)"
 
 msgctxt "#30107"
 msgid "FastMAD (Motion Adaptive)"
-msgstr ""
+msgstr "FastMAD (Thích ứng chuyển động)"
 
 msgctxt "#30108"
 msgid "Off"
@@ -403,31 +403,31 @@ msgstr ""
 
 msgctxt "#30109"
 msgid "Repeat the previous frame if the core has nothing new to display."
-msgstr ""
+msgstr "Lặp lại khung hình trước đó nếu lõi giả lập không có nội dung mới để hiển thị."
 
 msgctxt "#30110"
 msgid "Due to different standards, PAL games often appear slowed down compared to the American or Japanese NTSC releases. This option can be used to override PAL timings in order to attempt to run these games with the NTSC framerate."
-msgstr ""
+msgstr "Do sự khác biệt về tiêu chuẩn, các game PAL thường chạy chậm hơn so với các bản NTSC của Mỹ hoặc Nhật. Tùy chọn này cho phép ghi đè thời gian PAL để cố gắng chạy các game này với tốc độ khung hình NTSC."
 
 msgctxt "#30111"
 msgid "This setting is ignored when the Widescreen Mode Hack or Display Full VRAM options are enabled."
-msgstr ""
+msgstr "Thiết lập này sẽ bị bỏ qua khi bản vá chế độ màn hình rộng hoặc tùy chọn hiển thị toàn bộ bộ nhớ video được bật."
 
 msgctxt "#30112"
 msgid "Corrected"
-msgstr ""
+msgstr "Đã hiệu chỉnh"
 
 msgctxt "#30113"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Chưa hiệu chỉnh"
 
 msgctxt "#30114"
 msgid "Force 4:3"
-msgstr ""
+msgstr "Ép 4:3"
 
 msgctxt "#30115"
 msgid "Force NTSC"
-msgstr ""
+msgstr "Ép NTSC"
 
 msgctxt "#30116"
 msgid "Force 16:9"
@@ -435,7 +435,7 @@ msgstr ""
 
 msgctxt "#30117"
 msgid "Full native image or no borders."
-msgstr ""
+msgstr "Hiển thị toàn bộ hình ảnh gốc hoặc không có viền đen."
 
 msgctxt "#30118"
 msgid "Disabled"
@@ -443,15 +443,15 @@ msgstr ""
 
 msgctxt "#30119"
 msgid "Horizontal"
-msgstr ""
+msgstr "Ngang"
 
 msgctxt "#30120"
 msgid "Horizontal + Vertical"
-msgstr ""
+msgstr "Ngang + Dọc"
 
 msgctxt "#30121"
 msgid "Reduce the width of the cropped image by the specified number of pixels."
-msgstr ""
+msgstr "Giảm chiều rộng của hình ảnh đã cắt theo số lượng điểm ảnh được chỉ định."
 
 msgctxt "#30122"
 msgid "0"
@@ -459,107 +459,107 @@ msgstr ""
 
 msgctxt "#30123"
 msgid "Offset horizontally to the right (positive) or left (negative) by the specified number of pixels. May be used to correct alignment issues. Only supported by the software renderer."
-msgstr ""
+msgstr "Dịch chuyển hình ảnh theo chiều ngang sang phải (giá trị dương) hoặc sang trái (giá trị âm) theo số lượng điểm ảnh đã chỉ định. Có thể dùng để sửa các vấn đề lệch khung hình. Chỉ được hỗ trợ bởi trình kết xuất phần mềm."
 
 msgctxt "#30124"
 msgid "First displayed scan line when running NTSC content. Values greater than zero will reduce the height of output images by cropping pixels from the topmost edge. May be used to counteract letterboxing."
-msgstr ""
+msgstr "Dòng quét đầu tiên được hiển thị khi chạy nội dung NTSC.Các giá trị lớn hơn không sẽ làm giảm chiều cao hình ảnh đầu ra bằng cách cắt bớt các điểm ảnh ở mép trên cùng. Có thể dùng để khắc phục hiện tượng viền đen."
 
 msgctxt "#30125"
 msgid "0 (Default)"
-msgstr ""
+msgstr "0 (Mặc định)"
 
 msgctxt "#30126"
 msgid "Last displayed scan line when running NTSC content. Values less than 239 will reduce the height of output images by cropping pixels from the bottommost edge. May be used to counteract letterboxing."
-msgstr ""
+msgstr "Dòng quét cuối cùng được hiển thị khi chạy nội dung NTSC.Các giá trị nhỏ hơn 239 sẽ làm giảm chiều cao hình ảnh đầu ra bằng cách cắt bớt các điểm ảnh ở mép dưới cùng. Có thể dùng để khắc phục hiện tượng viền đen (letterbox)."
 
 msgctxt "#30127"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239 (Mặc định)"
 
 msgctxt "#30128"
 msgid "First displayed scan line when running PAL content. Values greater than zero will reduce the height of output images by cropping pixels from the topmost edge. May be used to counteract letterboxing."
-msgstr ""
+msgstr "Dòng quét đầu tiên được hiển thị khi chạy nội dung PAL.Các giá trị lớn hơn 0 sẽ làm giảm chiều cao hình ảnh đầu ra bằng cách cắt bớt các điểm ảnh ở mép trên cùng. Có thể dùng để khắc phục hiện tượng viền đen."
 
 msgctxt "#30129"
 msgid "Last displayed scan line when running PAL content. Values below 287 will reduce the height of output images by cropping pixels from the bottommost edge. May be used to counteract letterboxing."
-msgstr ""
+msgstr "Dòng quét cuối cùng được hiển thị khi chạy nội dung PAL.Các giá trị nhỏ hơn 287 sẽ làm giảm chiều cao hình ảnh đầu ra bằng cách cắt bớt các điểm ảnh ở mép dưới cùng. Có thể dùng để khắc phục hiện tượng viền đen."
 
 msgctxt "#30130"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287 (Mặc định)"
 
 msgctxt "#30131"
 msgid "PGXP (Precision Geometry Transform Pipeline)"
-msgstr ""
+msgstr "PGXP (Đường ống biến đổi hình học chính xác)"
 
 msgctxt "#30132"
 msgid "These options control enhancements which can improve graphics compared to the original console. PGXP can get rid of warping textures and Z-fighting issues."
-msgstr ""
+msgstr "Các tùy chọn này kiểm soát các cải tiến có thể cải thiện đồ họa so với máy chơi game gốc. PGXP có thể loại bỏ hiện tượng cong vênh kết cấu và lỗi Z-fighting."
 
 msgctxt "#30133"
 msgid "Render 3D objects with subpixel precision, minimizing distortion and jitter of 3D objects seen on original hardware due to the usage of fixed point vertex coordinates. 'Memory Only' mode has minimal compatibility issues and is recommended for general use. 'Memory + CPU (Buggy)' mode can reduce jitter even further but has high performance requirements and may cause various geometry errors."
-msgstr ""
+msgstr "Kết xuất đối tượng 3D với độ chính xác subpixel, giảm méo hình và rung (jitter) vốn xuất hiện trên phần cứng gốc do dùng tọa độ đỉnh fixed-point.Chế độ “Memory Only” có ít vấn đề tương thích và được khuyến nghị dùng chung.Chế độ “Memory + CPU (Buggy)” có thể giảm jitter hơn nữa nhưng yêu cầu hiệu năng rất cao và có thể gây nhiều lỗi hình học."
 
 msgctxt "#30134"
 msgid "Memory Only"
-msgstr ""
+msgstr "Chỉ bộ nhớ"
 
 msgctxt "#30135"
 msgid "Memory + CPU (Buggy)"
-msgstr ""
+msgstr "Bộ nhớ + CPU (Có lỗi)"
 
 msgctxt "#30136"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
-msgstr ""
+msgstr "Ẩn những lỗi hiển nhiên hơn trong hoạt động PGXP: giá trị này xác định độ dung sai mà các giá trị PGXP sẽ được giữ trong trường hợp hình học không có thông tin độ sâu phù hợp."
 
 msgctxt "#30137"
 msgid "Use PGXP's NCLIP implementation. Improves appearance by reducing holes in geometries with PGXP coordinates. Known to cause some games to lock up in various circumstances."
-msgstr ""
+msgstr "Sử dụng triển khai NCLIP của PGXP. Cải thiện hình ảnh bằng cách giảm các lỗ trong hình học có tọa độ PGXP. Được biết có thể khiến một số trò chơi bị treo trong một số trường hợp."
 
 msgctxt "#30138"
 msgid "Replace native PSX affine texture mapping with perspective correct texture mapping. Eliminates position-dependent distortion and warping of textures, resulting in properly aligned textures. This option is applied only when PGXP Operation Mode is enabled. Supported by the hardware renderers and the software renderer."
-msgstr ""
+msgstr "Thay thế ánh xạ texture affine nguyên bản của PSX bằng ánh xạ texture hiệu chỉnh phối cảnh (perspective correct). Loại bỏ hiện tượng méo và biến dạng texture phụ thuộc vào vị trí, giúp texture được căn chỉnh chính xác hơn. Tùy chọn này chỉ được áp dụng khi bật chế độ PGXP Operation Mode. Được hỗ trợ bởi trình dựng phần cứng và cả trình dựng phần mềm."
 
 msgctxt "#30139"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "Hiển thị trên màn hình"
 
 msgctxt "#30140"
 msgid "Change notifications being shown on-screen."
-msgstr ""
+msgstr "Thay đổi thông báo hiển thị trên màn hình."
 
 msgctxt "#30141"
 msgid "Display the internal frame rate at which the emulated PlayStation system is rendering content. Note: Requires onscreen notifications to be enabled in the libretro frontend."
-msgstr ""
+msgstr "Hiển thị tốc độ khung hình nội bộ mà hệ thống PlayStation giả lập đang render nội dung. Lưu ý: Cần bật thông báo trên màn hình trong frontend libretro."
 
 msgctxt "#30142"
 msgid "Display OSD messages generated by the core."
-msgstr ""
+msgstr "Hiển thị các thông báo OSD do core tạo ra."
 
 msgctxt "#30143"
 msgid "Input"
-msgstr ""
+msgstr "Đều khiển"
 
 msgctxt "#30144"
 msgid "Change light gun, mouse and neGcon settings."
-msgstr ""
+msgstr "Thay đổi cài đặt súng ánh sáng, chuột và neGcon."
 
 msgctxt "#30145"
 msgid "Enable dynamic calibration of analog inputs when the device is set to DualShock, Analog Controller, Analog Joystick, or neGcon. Maximum registered input values are monitored in real time and used to scale analog coordinates passed to the emulator. This should be used for games such as Mega Man Legends 2 that expect larger values than what modern controllers provide. For best results, analog sticks should be rotated at full extent to tune the calibration algorithm each time content is loaded."
-msgstr ""
+msgstr "Bật hiệu chỉnh động cho đầu vào analog khi thiết bị được đặt là DualShock, Analog Controller, Analog Joystick hoặc neGcon. Giá trị đầu vào tối đa được ghi nhận theo thời gian thực và dùng để scale tọa độ analog truyền vào giả lập. Nên dùng cho các game như Mega Man Legends 2 vốn yêu cầu giá trị lớn hơn so với tay cầm hiện đại. Để đạt kết quả tốt nhất, hãy xoay cần analog hết biên để tinh chỉnh thuật toán hiệu chỉnh mỗi khi tải nội dung."
 
 msgctxt "#30146"
 msgid "When the input device type is DualShock, this option allows the emulated DualShock to be toggled between DIGITAL and ANALOG mode like original hardware. Mode can also be toggled by using the selected button combination."
-msgstr ""
+msgstr "Khi loại thiết bị điều khiển là DualShock, tùy chọn này cho phép DualShock giả lập chuyển đổi giữa chế độ KỸ THUẬT SỐ và CHUẨN ANALOG như phần cứng gốc. Chế độ cũng có thể được chuyển bằng tổ hợp nút đã chọn."
 
 msgctxt "#30147"
 msgid "Default-Analog"
-msgstr ""
+msgstr "Analog Mặc định"
 
 msgctxt "#30148"
 msgid "The button combination that will be used to toggle between DIGITAL and ANALOG mode for the emulated DualShock."
-msgstr ""
+msgstr "Tổ hợp nút dùng để chuyển đổi giữa chế độ DIGITAL và ANALOG cho DualShock giả lập."
 
 msgctxt "#30149"
 msgid "L1 + L2 + R1 + R2 + Start + Select"
@@ -603,55 +603,55 @@ msgstr ""
 
 msgctxt "#30159"
 msgid "Hold time for the analog mode combo buttons."
-msgstr ""
+msgstr "Thời gian giữ tổ hợp nút chuyển chế độ analog."
 
 msgctxt "#30160"
 msgid "0 Second Delay"
-msgstr ""
+msgstr "Độ trễ 0 giây"
 
 msgctxt "#30161"
 msgid "1 Second Delay"
-msgstr ""
+msgstr "Trễ 1 giây"
 
 msgctxt "#30162"
 msgid "2 Second Delay"
-msgstr ""
+msgstr "Trễ 2 giây"
 
 msgctxt "#30163"
 msgid "3 Second Delay"
-msgstr ""
+msgstr "Trễ 3 giây"
 
 msgctxt "#30164"
 msgid "4 Second Delay"
-msgstr ""
+msgstr "Trễ 4 giây"
 
 msgctxt "#30165"
 msgid "5 Second Delay"
-msgstr ""
+msgstr "Trễ 5 giây"
 
 msgctxt "#30166"
 msgid "Enable multitap functionality on port 1."
-msgstr ""
+msgstr "Bật chức năng đa tay cầm trên cổng 1."
 
 msgctxt "#30167"
 msgid "Enable multitap functionality on port 2."
-msgstr ""
+msgstr "Bật chức năng đa tay cầm trên cổng 2."
 
 msgctxt "#30168"
 msgid "Use mouse-controlled 'Light Gun' or 'Touchscreen' input when device type is set to 'Guncon/G-Con 45' or 'Justifier'."
-msgstr ""
+msgstr "Sử dụng chuột điều khiển “Light Gun” hoặc “Touchscreen” khi loại thiết bị được đặt là “Guncon/G-Con 45” hoặc “Justifier”."
 
 msgctxt "#30169"
 msgid "Light Gun"
-msgstr ""
+msgstr "Súng ánh sáng"
 
 msgctxt "#30170"
 msgid "Touchscreen"
-msgstr ""
+msgstr "Màn hình cảm ứng"
 
 msgctxt "#30171"
 msgid "Draw a cursor on screen while using the 'Guncon/G-Con 45' and 'Justifier' input device types."
-msgstr ""
+msgstr "Vẽ con trỏ trên màn hình khi sử dụng các thiết bị nhập “Guncon/G-Con 45” và “Justifier”."
 
 msgctxt "#30172"
 msgid "disabled"
@@ -659,95 +659,95 @@ msgstr ""
 
 msgctxt "#30173"
 msgid "Cross"
-msgstr ""
+msgstr "Dấu cộng"
 
 msgctxt "#30174"
 msgid "Dot"
-msgstr ""
+msgstr "Dấu chấm"
 
 msgctxt "#30175"
 msgid "Light gun crosshair color for port 1."
-msgstr ""
+msgstr "Màu tâm ngắm súng ánh sáng cho cổng 1."
 
 msgctxt "#30176"
 msgid "Red"
-msgstr ""
+msgstr "Đỏ"
 
 msgctxt "#30177"
 msgid "Blue"
-msgstr ""
+msgstr "Xanh dương"
 
 msgctxt "#30178"
 msgid "Green"
-msgstr ""
+msgstr "Xanh lá"
 
 msgctxt "#30179"
 msgid "Orange"
-msgstr ""
+msgstr "Cam"
 
 msgctxt "#30180"
 msgid "Yellow"
-msgstr ""
+msgstr "Vàng"
 
 msgctxt "#30181"
 msgid "Cyan"
-msgstr ""
+msgstr "Lục lam"
 
 msgctxt "#30182"
 msgid "Pink"
-msgstr ""
+msgstr "Hồng"
 
 msgctxt "#30183"
 msgid "Purple"
-msgstr ""
+msgstr "Tím"
 
 msgctxt "#30184"
 msgid "Black"
-msgstr ""
+msgstr "Đen"
 
 msgctxt "#30185"
 msgid "White"
-msgstr ""
+msgstr "Trắng"
 
 msgctxt "#30186"
 msgid "Light gun crosshair color for port 2."
-msgstr ""
+msgstr "Màu tâm ngắm súng ánh sáng cho cổng 2."
 
 msgctxt "#30187"
 msgid "Responsiveness of the 'Mouse' input device type."
-msgstr ""
+msgstr "Độ nhạy phản hồi của loại thiết bị nhập Chuột."
 
 msgctxt "#30188"
 msgid "Left analog stick response type when simulating the 'twist' action of emulated 'neGcon' input devices. Analog stick displacement may be mapped to neGcon rotation angle either linearly, quadratically or cubically. 'Quadratic' allows for greater precision than 'Linear' when making small movements. 'Cubic' further increases small movement precision, but 'exaggerates' larger movements. Note: 'Linear' is only recommended when using racing wheel peripherals. Conventional controllers implement analog input in a manner fundamentally different from the neGcon 'twist' mechanism, such that linear mapping over-amplifies small movements, impairing fine control. In most cases, 'Quadratic' provides the closest approximation of real hardware."
-msgstr ""
+msgstr "Kiểu phản hồi của cần analog trái khi mô phỏng thao tác xoay (twist) của thiết bị nhập neGcon giả lập.Độ lệch của cần analog có thể được ánh xạ sang góc xoay của neGcon theo dạng tuyến tính, bậc hai hoặc bậc ba.Bậc hai cho độ chính xác cao hơn tuyến tính khi thực hiện các chuyển động nhỏ. Bậc ba còn tăng độ chính xác cho chuyển động nhỏ hơn nữa, nhưng sẽ khuếch đại quá mức các chuyển động lớn. Lưu ý: Tuyến tính chỉ nên dùng khi sử dụng vô lăng đua xe. Tay cầm thông thường xử lý analog theo cách hoàn toàn khác với cơ chế xoay của neGcon, nên ánh xạ tuyến tính sẽ làm khuếch đại quá mức các chuyển động nhỏ, gây khó kiểm soát chính xác. Trong hầu hết trường hợp, bậc hai cho cảm giác gần với phần cứng thật nhất."
 
 msgctxt "#30189"
 msgid "Linear"
-msgstr ""
+msgstr "Tuyến tính"
 
 msgctxt "#30190"
 msgid "Quadratic"
-msgstr ""
+msgstr "Bậc hai"
 
 msgctxt "#30191"
 msgid "Cubic"
-msgstr ""
+msgstr "Bậc ba"
 
 msgctxt "#30192"
 msgid "Left analog stick deadzone when simulating the 'twist' action of emulated 'neGcon' input devices. Used to eliminate controller drift. Note: Most neGcon-compatible titles provide in-game options for setting a 'twist' deadzone value. To avoid loss of precision, the in-game deadzone should *always* be set to zero. Any required adjustments should *only* be applied via this core option. This is particularly important when 'neGcon Twist Response' is set to 'Quadratic' or 'Cubic'."
-msgstr ""
+msgstr "Vùng chết của cần analog trái khi mô phỏng thao tác xoay của neGcon giả lập. Dùng để loại bỏ hiện tượng trôi cần.Lưu ý: Hầu hết các trò chơi hỗ trợ neGcon đều có tùy chọn trong game để đặt giá trị vùng chết cho thao tác xoay. Để tránh mất độ chính xác, vùng chết trong game luôn phải đặt về 0. Mọi điều chỉnh cần thiết chỉ nên thực hiện tại tùy chọn này của lõi giả lập. Điều này đặc biệt quan trọng khi kiểu phản hồi neGcon được đặt là bậc hai hoặc bậc ba."
 
 msgctxt "#30193"
 msgid "Memory Card"
-msgstr ""
+msgstr "Thẻ nhớ"
 
 msgctxt "#30194"
 msgid "Change virtual memory card related settings."
-msgstr ""
+msgstr "Thay đổi các cài đặt liên quan đến thẻ nhớ ảo."
 
 msgctxt "#30195"
 msgid "Save data format used for the left memory card slot. 'Mednafen' may be used for compatibility with the stand-alone version of Mednafen. When used with Beetle PSX, Libretro (.srm) and Mednafen (.mcr) saves have internally identical formats and can be converted between one another via renaming. Restart required."
-msgstr ""
+msgstr "Định dạng dữ liệu lưu dùng cho khe thẻ nhớ bên trái. Có thể dùng định dạng Mednafen để tương thích với phiên bản Mednafen độc lập. Khi sử dụng với Beetle PSX, dữ liệu lưu của Libretro và Mednafen có định dạng nội bộ giống hệt nhau và có thể chuyển đổi qua lại chỉ bằng cách đổi tên tệp. Cần khởi động lại."
 
 msgctxt "#30196"
 msgid "Libretro"
@@ -759,51 +759,51 @@ msgstr ""
 
 msgctxt "#30198"
 msgid "Emulate a second memory card in the right memory card slot. Note: Some games require this option to be disabled for correct operation (e.g. Codename Tenka). Note: Memory Card Slot 2 uses the Mednafen (.mcr) save format. Restart required."
-msgstr ""
+msgstr "Giả lập thẻ nhớ thứ hai ở khe thẻ nhớ bên phải.Lưu ý: Một số trò chơi yêu cầu tắt tùy chọn này để hoạt động đúng (ví dụ: Codename Tenka).Lưu ý: Khe thẻ nhớ 2 sử dụng định dạng lưu của Mednafen. Cần khởi động lại."
 
 msgctxt "#30199"
 msgid "Use shared memory cards instead of separate cards for each content. Note: if 'Memory Card Method' is set to 'Libretro', only memory card slot 2 will be affected. Restart required."
-msgstr ""
+msgstr "Sử dụng thẻ nhớ dùng chung thay vì mỗi trò chơi một thẻ riêng.Lưu ý: Nếu phương thức thẻ nhớ được đặt là Libretro, chỉ khe thẻ nhớ số 2 bị ảnh hưởng. Cần khởi động lại."
 
 msgctxt "#30200"
 msgid "Memory card currently loaded in the left slot. This option will only work if Memory Card Method is set to Mednafen."
-msgstr ""
+msgstr "Thẻ nhớ hiện đang được nạp ở khe bên trái. Tùy chọn này chỉ hoạt động khi Memory Card Method được đặt là Mednafen."
 
 msgctxt "#30201"
 msgid "Memory card currently loaded in the right slot. This option will only work if Memory Card Slot 2 is enabled."
-msgstr ""
+msgstr "Thẻ nhớ hiện đang được nạp ở khe bên phải. Tùy chọn này chỉ hoạt động khi Memory Card Slot 2 được bật."
 
 msgctxt "#30202"
 msgid "1 (Default)"
-msgstr ""
+msgstr "1 (Mặc định)"
 
 msgctxt "#30203"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Thủ thuật giả lập"
 
 msgctxt "#30204"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Thay đổi các cài đặt độ chính xác giả lập, ảnh hưởng đến hiệu năng mức thấp và khả năng tương thích."
 
 msgctxt "#30205"
 msgid "Some games (e.g. Doom, Hexen, Soul Blade, etc.) draw horizontal lines by stretching single-pixel-high triangles across the screen, which are rasterized as a row of pixels on original hardware. This hack detects these small triangles and converts them to quads as required, allowing them to be displayed properly on the hardware renderers and at upscaled internal resolutions. 'Aggressive' is required for some titles (e.g. Dark Forces, Duke Nukem) but may otherwise introduce graphical glitches. Leave at 'Default' if unsure."
-msgstr ""
+msgstr "Một số game (ví dụ: Doom, Hexen, Soul Blade, v.v.) vẽ các đường ngang bằng cách kéo giãn các tam giác chỉ cao 1 pixel trên toàn màn hình, vốn trên phần cứng gốc sẽ được raster hóa thành một hàng pixel. Bản vá này phát hiện các tam giác nhỏ đó và chuyển chúng thành tứ giác (quad) khi cần, giúp hiển thị đúng trên các trình kết xuất phần cứng và ở độ phân giải nội bộ được upscale.Mức “Aggressive” là cần thiết cho một số tựa game (ví dụ: Dark Forces, Duke Nukem) nhưng có thể gây lỗi đồ họa ở các game khác. Nếu không chắc, hãy để “Mặc định”."
 
 msgctxt "#30206"
 msgid "Default"
-msgstr ""
+msgstr "Mặc định"
 
 msgctxt "#30207"
 msgid "Aggressive"
-msgstr ""
+msgstr "Mạnh"
 
 msgctxt "#30208"
 msgid "Render 3D content anamorphically and output the emulated framebuffer at a widescreen aspect ratio. Produces best results with fully 3D games. 2D elements will be horizontally stretched and may be misaligned."
-msgstr ""
+msgstr "Hiển thị nội dung 3D theo dạng anamorphic và xuất framebuffer giả lập ở tỷ lệ màn hình rộng. Cho kết quả tốt nhất với các trò chơi hoàn toàn 3D. Các yếu tố 2D sẽ bị kéo ngang và có thể không căn chỉnh đúng."
 
 msgctxt "#30209"
 msgid "Aspect ratio to be used by the Widescreen Mode Hack."
-msgstr ""
+msgstr "Tỷ lệ khung hình được sử dụng cho bản vá Widescreen Mode Hack."
 
 msgctxt "#30210"
 msgid "Skip the per-sample processing of voices whose envelope has fully released. Audio output is identical; the optimization automatically disables itself while the SPU IRQ is in use. Saves roughly 5-10% of frame time. Disable for fully accurate SPU register state."
@@ -811,31 +811,31 @@ msgstr ""
 
 msgctxt "#30211"
 msgid "Dynamically recompile CPU instructions to native instructions. Much faster than interpreter, but CPU timing is less accurate, and may have bugs."
-msgstr ""
+msgstr "Biên dịch động các lệnh CPU thành lệnh gốc. Nhanh hơn nhiều so với thông dịch, nhưng thời gian CPU kém chính xác và có thể có lỗi."
 
 msgctxt "#30212"
 msgid "Disabled (Beetle Interpreter)"
-msgstr ""
+msgstr "Tắt (Thông dịch Beetle)"
 
 msgctxt "#30213"
 msgid "Max Performance"
-msgstr ""
+msgstr "Hiệu năng tối đa"
 
 msgctxt "#30214"
 msgid "Lightrec Interpreter"
-msgstr ""
+msgstr "Thông dịch Lightrec"
 
 msgctxt "#30215"
 msgid "Some games require 'Full' invalidation, some require 'DMA Only'."
-msgstr ""
+msgstr "Một số trò chơi yêu cầu vô hiệu hóa ‘Toàn bộ’, một số yêu cầu ‘Chỉ DMA’."
 
 msgctxt "#30216"
 msgid "Full"
-msgstr ""
+msgstr "Toàn bộ"
 
 msgctxt "#30217"
 msgid "DMA Only (Slightly Faster)"
-msgstr ""
+msgstr "Chỉ DMA (Nhanh hơn một chút)"
 
 msgctxt "#30218"
 msgid "Cycles the dynarec charges per CPU instruction. '2' is faster, but the emulated CPU appears half-speed to games that pace themselves against it - set '1' for games whose CD streaming stalls or hangs under the dynarec (e.g. Parasite Eve 2). The '1' setting charges memory accesses two cycles and everything else one, close to the real CPU."
@@ -851,15 +851,15 @@ msgstr ""
 
 msgctxt "#30221"
 msgid "Max cycles run by CPU before a GPU/DMA/MDEC/Timer Update is checked, higher number will be faster, has much less impact on beetle interpreter than dynarec."
-msgstr ""
+msgstr "Số chu kỳ tối đa CPU chạy trước khi kiểm tra cập nhật GPU/DMA/MDEC/Bộ hẹn giờ."
 
 msgctxt "#30222"
 msgid "128 (Default)"
-msgstr ""
+msgstr "128 (Mặc định)"
 
 msgctxt "#30223"
 msgid "Max SPU samples to run before a SPU Update is checked, higher number will be faster, but will cause sound glitches in some games with anything other than 1."
-msgstr ""
+msgstr "Số mẫu SPU tối đa để chạy trước khi kiểm tra Cập nhật SPU, số cao hơn sẽ nhanh hơn, nhưng có thể gây lỗi âm thanh trong một số game nếu khác 1."
 
 msgctxt "#30224"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"

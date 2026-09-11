@@ -251,7 +251,7 @@ msgstr ""
 
 msgctxt "#30071"
 msgid "System"
-msgstr ""
+msgstr "نظام"
 
 msgctxt "#30072"
 msgid "Change system and overclocking options."
@@ -271,7 +271,7 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "1x (Native)"
-msgstr ""
+msgstr "1x (أصلي)"
 
 msgctxt "#30077"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
@@ -327,7 +327,7 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Auto"
-msgstr ""
+msgstr "تلقائي"
 
 msgctxt "#30091"
 msgid "NTSC-J (Japan)"
@@ -343,7 +343,7 @@ msgstr ""
 
 msgctxt "#30094"
 msgid "Video"
-msgstr ""
+msgstr "فيديو"
 
 msgctxt "#30095"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
@@ -523,7 +523,7 @@ msgstr ""
 
 msgctxt "#30139"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "العرض على الشاشة"
 
 msgctxt "#30140"
 msgid "Change notifications being shown on-screen."
@@ -539,7 +539,7 @@ msgstr ""
 
 msgctxt "#30143"
 msgid "Input"
-msgstr ""
+msgstr "الإدخال"
 
 msgctxt "#30144"
 msgid "Change light gun, mouse and neGcon settings."
@@ -671,15 +671,15 @@ msgstr ""
 
 msgctxt "#30176"
 msgid "Red"
-msgstr ""
+msgstr "أحمر"
 
 msgctxt "#30177"
 msgid "Blue"
-msgstr ""
+msgstr "أزرق"
 
 msgctxt "#30178"
 msgid "Green"
-msgstr ""
+msgstr "أخضر"
 
 msgctxt "#30179"
 msgid "Orange"
@@ -687,7 +687,7 @@ msgstr ""
 
 msgctxt "#30180"
 msgid "Yellow"
-msgstr ""
+msgstr "أصفر"
 
 msgctxt "#30181"
 msgid "Cyan"
@@ -723,7 +723,7 @@ msgstr ""
 
 msgctxt "#30189"
 msgid "Linear"
-msgstr ""
+msgstr "خطي"
 
 msgctxt "#30190"
 msgid "Quadratic"
@@ -739,7 +739,7 @@ msgstr ""
 
 msgctxt "#30193"
 msgid "Memory Card"
-msgstr ""
+msgstr "بطاقة الذاكرة"
 
 msgctxt "#30194"
 msgid "Change virtual memory card related settings."
@@ -791,7 +791,7 @@ msgstr ""
 
 msgctxt "#30206"
 msgid "Default"
-msgstr ""
+msgstr "الافتراضي"
 
 msgctxt "#30207"
 msgid "Aggressive"

@@ -131,7 +131,7 @@ msgstr ""
 
 msgctxt "#30040"
 msgid "Additional Cropping"
-msgstr ""
+msgstr "Recorte adicional"
 
 msgctxt "#30041"
 msgid "Offset Cropped Image"
@@ -143,7 +143,7 @@ msgstr ""
 
 msgctxt "#30043"
 msgid "Core Aspect Ratio"
-msgstr ""
+msgstr "Proporción d'aspeutu del nucleu"
 
 msgctxt "#30044"
 msgid "Initial Scan Line - NTSC"
@@ -231,7 +231,7 @@ msgstr ""
 
 msgctxt "#30066"
 msgid "System Region"
-msgstr ""
+msgstr "Rexón del sistema"
 
 msgctxt "#30067"
 msgid "PGXP Perspective Correct Texturing"
@@ -251,7 +251,7 @@ msgstr ""
 
 msgctxt "#30071"
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 msgctxt "#30072"
 msgid "Change system and overclocking options."
@@ -283,11 +283,11 @@ msgstr ""
 
 msgctxt "#30079"
 msgid "Synchronous"
-msgstr ""
+msgstr "Síncronu"
 
 msgctxt "#30080"
 msgid "Asynchronous"
-msgstr ""
+msgstr "Asíncronu"
 
 msgctxt "#30081"
 msgid "Pre-Cache"
@@ -303,7 +303,7 @@ msgstr ""
 
 msgctxt "#30084"
 msgid "Skip the PlayStation BIOS boot animation normally displayed when loading content. Note: Enabling this causes compatibility issues with a number of games (PAL copy protected games, Saga Frontier, etc.)."
-msgstr ""
+msgstr "Salta l'animación d'arrique de la BIOS de PlayStation que suel apaecer al cargar conteníu. Nota: l'activación d'esta opción produz problemes de compatibilidá con dalgunos de xuegos (xuegos PAL con proteición anticopia, Saga Frontier, etc.)."
 
 msgctxt "#30085"
 msgid "Override the standard region specific BIOS with a region-free one if found. Restart required."
@@ -311,11 +311,11 @@ msgstr ""
 
 msgctxt "#30086"
 msgid "PSP PS1 BIOS"
-msgstr ""
+msgstr "BIOS de PS1 de la PSP"
 
 msgctxt "#30087"
 msgid "PS3 PS1 BIOS"
-msgstr ""
+msgstr "BIOS de PS1 de la PS3"
 
 msgctxt "#30088"
 msgid "OpenBIOS"
@@ -343,7 +343,7 @@ msgstr ""
 
 msgctxt "#30094"
 msgid "Video"
-msgstr ""
+msgstr "Videu"
 
 msgctxt "#30095"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
@@ -359,7 +359,7 @@ msgstr ""
 
 msgctxt "#30098"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Resolución interna"
 
 msgctxt "#30099"
 msgid "Automatic Toggling allows the core to switch between progressive and interlaced rates."
@@ -475,7 +475,7 @@ msgstr ""
 
 msgctxt "#30127"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239 (por defeutu)"
 
 msgctxt "#30128"
 msgid "First displayed scan line when running PAL content. Values greater than zero will reduce the height of output images by cropping pixels from the topmost edge. May be used to counteract letterboxing."
@@ -487,7 +487,7 @@ msgstr ""
 
 msgctxt "#30130"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287 (por defeutu)"
 
 msgctxt "#30131"
 msgid "PGXP (Precision Geometry Transform Pipeline)"
@@ -507,7 +507,7 @@ msgstr ""
 
 msgctxt "#30135"
 msgid "Memory + CPU (Buggy)"
-msgstr ""
+msgstr "Memoria + CPU (produz fallos)"
 
 msgctxt "#30136"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
@@ -539,7 +539,7 @@ msgstr ""
 
 msgctxt "#30143"
 msgid "Input"
-msgstr ""
+msgstr "Controles"
 
 msgctxt "#30144"
 msgid "Change light gun, mouse and neGcon settings."
@@ -647,7 +647,7 @@ msgstr ""
 
 msgctxt "#30170"
 msgid "Touchscreen"
-msgstr ""
+msgstr "Pantalla táctil"
 
 msgctxt "#30171"
 msgid "Draw a cursor on screen while using the 'Guncon/G-Con 45' and 'Justifier' input device types."
@@ -671,43 +671,43 @@ msgstr ""
 
 msgctxt "#30176"
 msgid "Red"
-msgstr ""
+msgstr "Coloráu"
 
 msgctxt "#30177"
 msgid "Blue"
-msgstr ""
+msgstr "Azul"
 
 msgctxt "#30178"
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 msgctxt "#30179"
 msgid "Orange"
-msgstr ""
+msgstr "Naranxa"
 
 msgctxt "#30180"
 msgid "Yellow"
-msgstr ""
+msgstr "Mariellu"
 
 msgctxt "#30181"
 msgid "Cyan"
-msgstr ""
+msgstr "Cianu"
 
 msgctxt "#30182"
 msgid "Pink"
-msgstr ""
+msgstr "Rosa"
 
 msgctxt "#30183"
 msgid "Purple"
-msgstr ""
+msgstr "Moráu"
 
 msgctxt "#30184"
 msgid "Black"
-msgstr ""
+msgstr "Prietu"
 
 msgctxt "#30185"
 msgid "White"
-msgstr ""
+msgstr "Blancu"
 
 msgctxt "#30186"
 msgid "Light gun crosshair color for port 2."
@@ -739,7 +739,7 @@ msgstr ""
 
 msgctxt "#30193"
 msgid "Memory Card"
-msgstr ""
+msgstr "Tarxeta de memoria"
 
 msgctxt "#30194"
 msgid "Change virtual memory card related settings."
@@ -779,7 +779,7 @@ msgstr ""
 
 msgctxt "#30203"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Hacks de la emulación"
 
 msgctxt "#30204"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
@@ -795,7 +795,7 @@ msgstr ""
 
 msgctxt "#30207"
 msgid "Aggressive"
-msgstr ""
+msgstr "Agresivu"
 
 msgctxt "#30208"
 msgid "Render 3D content anamorphically and output the emulated framebuffer at a widescreen aspect ratio. Produces best results with fully 3D games. 2D elements will be horizontally stretched and may be misaligned."

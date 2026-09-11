@@ -59,7 +59,7 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Ευαισθησία Ποντικιού"
 
 msgctxt "#30016"
 msgid "neGcon Twist Response"
@@ -251,7 +251,7 @@ msgstr ""
 
 msgctxt "#30071"
 msgid "System"
-msgstr ""
+msgstr "Σύστημα"
 
 msgctxt "#30072"
 msgid "Change system and overclocking options."
@@ -327,7 +327,7 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Auto"
-msgstr ""
+msgstr "Αυτόματο"
 
 msgctxt "#30091"
 msgid "NTSC-J (Japan)"
@@ -343,7 +343,7 @@ msgstr ""
 
 msgctxt "#30094"
 msgid "Video"
-msgstr ""
+msgstr "Οδηγός Βίντεο"
 
 msgctxt "#30095"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
@@ -475,7 +475,7 @@ msgstr ""
 
 msgctxt "#30127"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239 (Προεπιλογή)"
 
 msgctxt "#30128"
 msgid "First displayed scan line when running PAL content. Values greater than zero will reduce the height of output images by cropping pixels from the topmost edge. May be used to counteract letterboxing."
@@ -487,7 +487,7 @@ msgstr ""
 
 msgctxt "#30130"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287 (Προεπιλογή)"
 
 msgctxt "#30131"
 msgid "PGXP (Precision Geometry Transform Pipeline)"
@@ -523,7 +523,7 @@ msgstr ""
 
 msgctxt "#30139"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "Οθόνη Απεικόνισης"
 
 msgctxt "#30140"
 msgid "Change notifications being shown on-screen."
@@ -539,7 +539,7 @@ msgstr ""
 
 msgctxt "#30143"
 msgid "Input"
-msgstr ""
+msgstr "Οδηγός Εισαγωγής"
 
 msgctxt "#30144"
 msgid "Change light gun, mouse and neGcon settings."
@@ -671,15 +671,15 @@ msgstr ""
 
 msgctxt "#30176"
 msgid "Red"
-msgstr ""
+msgstr "Κόκκινο"
 
 msgctxt "#30177"
 msgid "Blue"
-msgstr ""
+msgstr "Μπλε"
 
 msgctxt "#30178"
 msgid "Green"
-msgstr ""
+msgstr "Πράσινο"
 
 msgctxt "#30179"
 msgid "Orange"
@@ -687,7 +687,7 @@ msgstr ""
 
 msgctxt "#30180"
 msgid "Yellow"
-msgstr ""
+msgstr "Κίτρινο"
 
 msgctxt "#30181"
 msgid "Cyan"
@@ -723,7 +723,7 @@ msgstr ""
 
 msgctxt "#30189"
 msgid "Linear"
-msgstr ""
+msgstr "Γραμμικός"
 
 msgctxt "#30190"
 msgid "Quadratic"
@@ -791,7 +791,7 @@ msgstr ""
 
 msgctxt "#30206"
 msgid "Default"
-msgstr ""
+msgstr "Προκαθορισμένο"
 
 msgctxt "#30207"
 msgid "Aggressive"

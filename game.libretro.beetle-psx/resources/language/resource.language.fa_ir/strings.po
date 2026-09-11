@@ -251,7 +251,7 @@ msgstr ""
 
 msgctxt "#30071"
 msgid "System"
-msgstr ""
+msgstr "سیستم"
 
 msgctxt "#30072"
 msgid "Change system and overclocking options."
@@ -327,7 +327,7 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Auto"
-msgstr ""
+msgstr "خودکار"
 
 msgctxt "#30091"
 msgid "NTSC-J (Japan)"
@@ -343,7 +343,7 @@ msgstr ""
 
 msgctxt "#30094"
 msgid "Video"
-msgstr ""
+msgstr "ویدیو"
 
 msgctxt "#30095"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
@@ -523,7 +523,7 @@ msgstr ""
 
 msgctxt "#30139"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "نمایش روی صفحه"
 
 msgctxt "#30140"
 msgid "Change notifications being shown on-screen."
@@ -539,7 +539,7 @@ msgstr ""
 
 msgctxt "#30143"
 msgid "Input"
-msgstr ""
+msgstr "داده"
 
 msgctxt "#30144"
 msgid "Change light gun, mouse and neGcon settings."

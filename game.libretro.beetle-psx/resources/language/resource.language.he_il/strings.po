@@ -343,7 +343,7 @@ msgstr ""
 
 msgctxt "#30094"
 msgid "Video"
-msgstr ""
+msgstr "וידאו"
 
 msgctxt "#30095"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
@@ -539,7 +539,7 @@ msgstr ""
 
 msgctxt "#30143"
 msgid "Input"
-msgstr ""
+msgstr "קלט"
 
 msgctxt "#30144"
 msgid "Change light gun, mouse and neGcon settings."

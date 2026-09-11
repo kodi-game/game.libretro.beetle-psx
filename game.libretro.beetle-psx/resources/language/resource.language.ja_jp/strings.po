@@ -27,147 +27,147 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Internal GPU Resolution"
-msgstr ""
+msgstr "内部 GPU 解像度"
 
 msgctxt "#30002"
 msgid "Dithering Pattern"
-msgstr ""
+msgstr "ディザリングパターン"
 
 msgctxt "#30004"
 msgid "Display Internal FPS"
-msgstr ""
+msgstr "内部 FPS を表示"
 
 msgctxt "#30005"
 msgid "Analog Self-Calibration"
-msgstr ""
+msgstr "アナログ自動キャリブレーション"
 
 msgctxt "#30007"
 msgid "DualShock Analog Mode Combo"
-msgstr ""
+msgstr "DUALSHOCK アナログモード切り替えコンボ"
 
 msgctxt "#30008"
 msgid "DualShock Analog Mode Combo Hold Delay"
-msgstr ""
+msgstr "DUALSHOCK アナログモード切り替えコンボの長押し遅延"
 
 msgctxt "#30011"
 msgid "Gun Input Mode"
-msgstr ""
+msgstr "ガン入力モード"
 
 msgctxt "#30012"
 msgid "Gun Cursor"
-msgstr ""
+msgstr "ガンカーソル"
 
 msgctxt "#30015"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "マウス感度"
 
 msgctxt "#30016"
 msgid "neGcon Twist Response"
-msgstr ""
+msgstr "ネジコンねじり応答"
 
 msgctxt "#30017"
 msgid "neGcon Twist Deadzone"
-msgstr ""
+msgstr "ネジコンねじりデッドゾーン"
 
 msgctxt "#30023"
 msgid "PGXP Operation Mode"
-msgstr ""
+msgstr "PGXP 動作モード"
 
 msgctxt "#30024"
 msgid "PGXP 2D Geometry Tolerance"
-msgstr ""
+msgstr "PGXP 2D ジオメトリ許容範囲"
 
 msgctxt "#30025"
 msgid "PGXP Primitive Culling"
-msgstr ""
+msgstr "PGXP プリミティブカリング"
 
 msgctxt "#30026"
 msgid "Line-to-Quad Hack"
-msgstr ""
+msgstr "線形二次ハック"
 
 msgctxt "#30027"
 msgid "Widescreen Mode Hack"
-msgstr ""
+msgstr "ワイドスクリーンモードハック"
 
 msgctxt "#30028"
 msgid "Widescreen Mode Hack Aspect Ratio"
-msgstr ""
+msgstr "ワイドスクリーンモードハックのアスペクト比"
 
 msgctxt "#30029"
 msgid "CPU Frequency Scaling (Overclock)"
-msgstr ""
+msgstr "CPU 周波数倍率 (オーバークロック)"
 
 msgctxt "#30030"
 msgid "GTE Overclock"
-msgstr ""
+msgstr "GTE オーバークロック"
 
 msgctxt "#30031"
 msgid "Skip BIOS"
-msgstr ""
+msgstr "BIOS をスキップ"
 
 msgctxt "#30033"
 msgid "CPU Dynarec"
-msgstr ""
+msgstr "CPU 動的再コンパイル"
 
 msgctxt "#30034"
 msgid "Dynarec Code Invalidation"
-msgstr ""
+msgstr "動的再コンパイルコードの無効化"
 
 msgctxt "#30035"
 msgid "Dynarec DMA/GPU/MDEC/Timer Event Cycles"
-msgstr ""
+msgstr "動的再コンパイル DMA/GPU/MDEC/Timer イベントサイクル"
 
 msgctxt "#30036"
 msgid "Dynarec SPU Samples"
-msgstr ""
+msgstr "動的再コンパイル SPU サンプル"
 
 msgctxt "#30037"
 msgid "Core-Reported FPS Timing"
-msgstr ""
+msgstr "コア報告 FPS タイミング"
 
 msgctxt "#30039"
 msgid "Crop Overscan"
-msgstr ""
+msgstr "オーバースキャンをトリミング"
 
 msgctxt "#30040"
 msgid "Additional Cropping"
-msgstr ""
+msgstr "追加トリミング"
 
 msgctxt "#30041"
 msgid "Offset Cropped Image"
-msgstr ""
+msgstr "トリミングされた画像のオフセット"
 
 msgctxt "#30042"
 msgid "GPU Rasterizer Overclock"
-msgstr ""
+msgstr "GPU ラスタライザオーバークロック"
 
 msgctxt "#30043"
 msgid "Core Aspect Ratio"
-msgstr ""
+msgstr "コアアスペクト比"
 
 msgctxt "#30044"
 msgid "Initial Scan Line - NTSC"
-msgstr ""
+msgstr "開始スキャンライン - NTSC"
 
 msgctxt "#30045"
 msgid "Last Scan Line - NTSC"
-msgstr ""
+msgstr "終了スキャンライン - NTSC"
 
 msgctxt "#30046"
 msgid "Initial Scan Line - PAL"
-msgstr ""
+msgstr "開始スキャンライン - PAL"
 
 msgctxt "#30047"
 msgid "Last Scan Line - PAL"
-msgstr ""
+msgstr "終了スキャンライン - PAL"
 
 msgctxt "#30049"
 msgid "CD Loading Speed"
-msgstr ""
+msgstr "CD 読み込み速度"
 
 msgctxt "#30050"
 msgid "DualShock Analog Mode Toggle"
-msgstr ""
+msgstr "DUALSHOCK アナログモード切り替え"
 
 msgctxt "#30051"
 msgid "Display OSD Messages"
@@ -175,7 +175,7 @@ msgstr ""
 
 msgctxt "#30052"
 msgid "Deinterlace Method"
-msgstr ""
+msgstr "インターレース解除方式"
 
 msgctxt "#30053"
 msgid "CD Access Method"
@@ -231,11 +231,11 @@ msgstr ""
 
 msgctxt "#30066"
 msgid "System Region"
-msgstr ""
+msgstr "システム地域"
 
 msgctxt "#30067"
 msgid "PGXP Perspective Correct Texturing"
-msgstr ""
+msgstr "PGXP 視点修正テクスチャリング"
 
 msgctxt "#30068"
 msgid "SPU Silent Voice Optimization"
@@ -251,7 +251,7 @@ msgstr ""
 
 msgctxt "#30071"
 msgid "System"
-msgstr ""
+msgstr "システム"
 
 msgctxt "#30072"
 msgid "Change system and overclocking options."
@@ -259,7 +259,7 @@ msgstr ""
 
 msgctxt "#30073"
 msgid "Overclock (or underclock) the emulated PSX CPU. Overclocking can eliminate slowdown and improve frame rates in certain games at the expense of increased performance requirements. Note that some games have an internal frame rate limiter and may not benefit from overclocking. May cause certain effects to animate faster than intended in some titles when overclocked."
-msgstr ""
+msgstr "エミュレートされた PS1 CPU をオーバークロック (またはアンダークロック) します。システム要件が増加する代わりに、特定のゲームのフレームレートを向上させることができます。注意: 一部のゲームにはフレームレートリミッターがあり、オーバークロックの恩恵を受けない場合があります。また、意図されているものよりも高速に動作することもあります。"
 
 msgctxt "#30074"
 msgid "100% (Native)"
@@ -267,15 +267,15 @@ msgstr ""
 
 msgctxt "#30075"
 msgid "Enable overclocking of the 2D rasterizer contained within the emulated PSX's GPU. Does not improve 3D rendering, and in general has little effect."
-msgstr ""
+msgstr "エミュレートされた PS1 の GPU に含まれる 2D ラスタライザのオーバークロックを有効にします。3D レンダリングは改善されず、一般的にはほとんど効果がありません。"
 
 msgctxt "#30076"
 msgid "1x (Native)"
-msgstr ""
+msgstr "1x (ネイティブ)"
 
 msgctxt "#30077"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
-msgstr ""
+msgstr "すべてのエミュレートされた GTE (3D グラフィック用 CPU コプロセッサ) 動画を一定の 1 サイクルレイテンシに低減します。GTE を多用するゲームでフレームレートとフレームタイムの安定性が大幅に向上します。"
 
 msgctxt "#30078"
 msgid "'Synchronous' mimics original hardware. 'Asynchronous' can reduce stuttering on devices with slow storage. 'Pre-Cache' loads the entire disk image into memory when launching content, which may improve in-game loading times at the cost of an initial delay at startup. 'Pre-Cache' may cause issues on systems with low RAM, and will fall back to 'Synchronous' for physical media. Restart required."
@@ -283,15 +283,15 @@ msgstr ""
 
 msgctxt "#30079"
 msgid "Synchronous"
-msgstr ""
+msgstr "同期"
 
 msgctxt "#30080"
 msgid "Asynchronous"
-msgstr ""
+msgstr "非同期"
 
 msgctxt "#30081"
 msgid "Pre-Cache"
-msgstr ""
+msgstr "プリキャッシュ"
 
 msgctxt "#30082"
 msgid "Values higher than '2x (Native)' can greatly reduce in-game loading times, but may introduce timing errors. Some games may not function properly above a certain value."
@@ -299,11 +299,11 @@ msgstr ""
 
 msgctxt "#30083"
 msgid "2x (Native)"
-msgstr ""
+msgstr "2x (ネイティブ)"
 
 msgctxt "#30084"
 msgid "Skip the PlayStation BIOS boot animation normally displayed when loading content. Note: Enabling this causes compatibility issues with a number of games (PAL copy protected games, Saga Frontier, etc.)."
-msgstr ""
+msgstr "コンテンツのロード時に通常表示される PlayStation BIOS 起動アニメーションをスキップします。注意: これのオプションを有効にすると、多くのゲームで互換性の問題が発生します (PAL コピープロテクトが存在するゲーム、サガフロンティアなど)。"
 
 msgctxt "#30085"
 msgid "Override the standard region specific BIOS with a region-free one if found. Restart required."
@@ -327,7 +327,7 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 msgctxt "#30091"
 msgid "NTSC-J (Japan)"
@@ -343,11 +343,11 @@ msgstr ""
 
 msgctxt "#30094"
 msgid "Video"
-msgstr ""
+msgstr "ビデオ"
 
 msgctxt "#30095"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr ""
+msgstr "アスペクト比、画面のトリミング、ビデオフィルターおよびフレームスキップの設定を変更します。"
 
 msgctxt "#30096"
 msgid "Resolutions higher than '1x (Native)' improve fidelity of 3D models at the expense of increased performance requirements. 2D elements are generally unaffected by this setting."
@@ -359,7 +359,7 @@ msgstr ""
 
 msgctxt "#30098"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "内部解像度"
 
 msgctxt "#30099"
 msgid "Automatic Toggling allows the core to switch between progressive and interlaced rates."
@@ -375,7 +375,7 @@ msgstr ""
 
 msgctxt "#30102"
 msgid "Force Interlaced Rate"
-msgstr ""
+msgstr "強制インターレースレート"
 
 msgctxt "#30103"
 msgid "'Weave' shows both fields on the same frame for full high resolution still image, 'Bob' sacrificies resolution clarity for motion clarity. 'Bob (Offset)' is Bob with the current field doubled into the full surface height with a one-line offset between fields, preserving the libretro output resolution while keeping Bob-style smooth motion. 'FastMAD (Motion Adaptive)' weaves still pixels and vertically-interpolates moving pixels per-pixel, full output height with neither weave's comb on motion nor bob's halved resolution. 'Off' makes the software renderer match the hardware (Vulkan/OpenGL) renderer behaviour by rasterising to all VRAM lines every frame and deferring scanout to the end of the frame, eliminating comb-on-motion in interlaced games. Note: programs that DMA to VRAM during scanout (some demos using >512-line PAL framebuffer-wrap tricks), or that update moving sprites via CPU-to-VRAM image transfers tied to the displayed field (e.g. Pro Pinball), may show stale rows or sprite ghosting under 'Off'; use 'Weave', 'Bob', 'Bob (Offset)', or 'FastMAD' for those."
@@ -415,19 +415,19 @@ msgstr ""
 
 msgctxt "#30112"
 msgid "Corrected"
-msgstr ""
+msgstr "補正あり"
 
 msgctxt "#30113"
 msgid "Uncorrected"
-msgstr ""
+msgstr "補正なし"
 
 msgctxt "#30114"
 msgid "Force 4:3"
-msgstr ""
+msgstr "強制 4:3"
 
 msgctxt "#30115"
 msgid "Force NTSC"
-msgstr ""
+msgstr "強制 NTSC"
 
 msgctxt "#30116"
 msgid "Force 16:9"
@@ -443,7 +443,7 @@ msgstr ""
 
 msgctxt "#30119"
 msgid "Horizontal"
-msgstr ""
+msgstr "水平"
 
 msgctxt "#30120"
 msgid "Horizontal + Vertical"
@@ -475,7 +475,7 @@ msgstr ""
 
 msgctxt "#30127"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239 (デフォルト)"
 
 msgctxt "#30128"
 msgid "First displayed scan line when running PAL content. Values greater than zero will reduce the height of output images by cropping pixels from the topmost edge. May be used to counteract letterboxing."
@@ -487,15 +487,15 @@ msgstr ""
 
 msgctxt "#30130"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287 (デフォルト)"
 
 msgctxt "#30131"
 msgid "PGXP (Precision Geometry Transform Pipeline)"
-msgstr ""
+msgstr "PGXP (精度ジオメトリ変換パイプライン)"
 
 msgctxt "#30132"
 msgid "These options control enhancements which can improve graphics compared to the original console. PGXP can get rid of warping textures and Z-fighting issues."
-msgstr ""
+msgstr "これらのオプションは、実機と比較してグラフィックスを改善することができる拡張を制御します。PGXP は、テクスチャの歪みやZ ファイティングの問題を取り除くことができます。"
 
 msgctxt "#30133"
 msgid "Render 3D objects with subpixel precision, minimizing distortion and jitter of 3D objects seen on original hardware due to the usage of fixed point vertex coordinates. 'Memory Only' mode has minimal compatibility issues and is recommended for general use. 'Memory + CPU (Buggy)' mode can reduce jitter even further but has high performance requirements and may cause various geometry errors."
@@ -503,19 +503,19 @@ msgstr ""
 
 msgctxt "#30134"
 msgid "Memory Only"
-msgstr ""
+msgstr "メモリのみ"
 
 msgctxt "#30135"
 msgid "Memory + CPU (Buggy)"
-msgstr ""
+msgstr "メモリ + CPU (バグあり)"
 
 msgctxt "#30136"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
-msgstr ""
+msgstr "PGXP 動作における顕著なエラーを隠します。この値は、ジオメトリが適切な深度情報を持たない場合に PGXP 値が保持される許容範囲を指定します。"
 
 msgctxt "#30137"
 msgid "Use PGXP's NCLIP implementation. Improves appearance by reducing holes in geometries with PGXP coordinates. Known to cause some games to lock up in various circumstances."
-msgstr ""
+msgstr "PGXP の NCLIP 実装を使用します。 PGXP 座標を持つジオメトリの穴を減らすことで外観を改善します。一部のゲームは様々な状況でフリーズすることが判明しています。"
 
 msgctxt "#30138"
 msgid "Replace native PSX affine texture mapping with perspective correct texture mapping. Eliminates position-dependent distortion and warping of textures, resulting in properly aligned textures. This option is applied only when PGXP Operation Mode is enabled. Supported by the hardware renderers and the software renderer."
@@ -523,15 +523,15 @@ msgstr ""
 
 msgctxt "#30139"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "OSD"
 
 msgctxt "#30140"
 msgid "Change notifications being shown on-screen."
-msgstr ""
+msgstr "画面に表示される通知を変更します。"
 
 msgctxt "#30141"
 msgid "Display the internal frame rate at which the emulated PlayStation system is rendering content. Note: Requires onscreen notifications to be enabled in the libretro frontend."
-msgstr ""
+msgstr "エミュレートされた PlayStation システムが描画しているコンテンツの内部フレームレートを表示します。注意: Libretro フロントエンドで OSD 通知を有効にする必要があります。"
 
 msgctxt "#30142"
 msgid "Display OSD messages generated by the core."
@@ -539,11 +539,11 @@ msgstr ""
 
 msgctxt "#30143"
 msgid "Input"
-msgstr ""
+msgstr "入力"
 
 msgctxt "#30144"
 msgid "Change light gun, mouse and neGcon settings."
-msgstr ""
+msgstr "ライトガン、マウスおよびネジコンの設定を変更します。"
 
 msgctxt "#30145"
 msgid "Enable dynamic calibration of analog inputs when the device is set to DualShock, Analog Controller, Analog Joystick, or neGcon. Maximum registered input values are monitored in real time and used to scale analog coordinates passed to the emulator. This should be used for games such as Mega Man Legends 2 that expect larger values than what modern controllers provide. For best results, analog sticks should be rotated at full extent to tune the calibration algorithm each time content is loaded."
@@ -551,11 +551,11 @@ msgstr ""
 
 msgctxt "#30146"
 msgid "When the input device type is DualShock, this option allows the emulated DualShock to be toggled between DIGITAL and ANALOG mode like original hardware. Mode can also be toggled by using the selected button combination."
-msgstr ""
+msgstr "入力デバイスの種類が DUALSHOCK の場合、このオプションを使用すると、エミュレートされた DUALSHOCK を元のハードウェアと同様にデジタル/アナログモードの間で切り替えることができます。選択したボタンの組み合わせでモードを切り替えることもできます。"
 
 msgctxt "#30147"
 msgid "Default-Analog"
-msgstr ""
+msgstr "デフォルトアナログ"
 
 msgctxt "#30148"
 msgid "The button combination that will be used to toggle between DIGITAL and ANALOG mode for the emulated DualShock."
@@ -563,15 +563,15 @@ msgstr ""
 
 msgctxt "#30149"
 msgid "L1 + L2 + R1 + R2 + Start + Select"
-msgstr ""
+msgstr "L1 + L2 + R1 + R2 + スタート + セレクト"
 
 msgctxt "#30150"
 msgid "L1 + R1 + Select"
-msgstr ""
+msgstr "L1 + R1 + セレクト"
 
 msgctxt "#30151"
 msgid "L1 + R1 + Start"
-msgstr ""
+msgstr "L1 + R1 + スタート"
 
 msgctxt "#30152"
 msgid "L1 + R1 + L3"
@@ -583,11 +583,11 @@ msgstr ""
 
 msgctxt "#30154"
 msgid "L2 + R2 + Select"
-msgstr ""
+msgstr "L2 + R2 + セレクト"
 
 msgctxt "#30155"
 msgid "L2 + R2 + Start"
-msgstr ""
+msgstr "L2 + R2 + スタート"
 
 msgctxt "#30156"
 msgid "L2 + R2 + L3"
@@ -607,35 +607,35 @@ msgstr ""
 
 msgctxt "#30160"
 msgid "0 Second Delay"
-msgstr ""
+msgstr "0 秒遅延"
 
 msgctxt "#30161"
 msgid "1 Second Delay"
-msgstr ""
+msgstr "1 秒遅延"
 
 msgctxt "#30162"
 msgid "2 Second Delay"
-msgstr ""
+msgstr "2 秒遅延"
 
 msgctxt "#30163"
 msgid "3 Second Delay"
-msgstr ""
+msgstr "3 秒遅延"
 
 msgctxt "#30164"
 msgid "4 Second Delay"
-msgstr ""
+msgstr "4 秒遅延"
 
 msgctxt "#30165"
 msgid "5 Second Delay"
-msgstr ""
+msgstr "5 秒遅延"
 
 msgctxt "#30166"
 msgid "Enable multitap functionality on port 1."
-msgstr ""
+msgstr "マルチタップ機能をポート 1 で有効にします。"
 
 msgctxt "#30167"
 msgid "Enable multitap functionality on port 2."
-msgstr ""
+msgstr "マルチタップ機能をポート 2 で有効にします。"
 
 msgctxt "#30168"
 msgid "Use mouse-controlled 'Light Gun' or 'Touchscreen' input when device type is set to 'Guncon/G-Con 45' or 'Justifier'."
@@ -643,11 +643,11 @@ msgstr ""
 
 msgctxt "#30169"
 msgid "Light Gun"
-msgstr ""
+msgstr "ライトガン"
 
 msgctxt "#30170"
 msgid "Touchscreen"
-msgstr ""
+msgstr "タッチスクリーン"
 
 msgctxt "#30171"
 msgid "Draw a cursor on screen while using the 'Guncon/G-Con 45' and 'Justifier' input device types."
@@ -659,11 +659,11 @@ msgstr ""
 
 msgctxt "#30173"
 msgid "Cross"
-msgstr ""
+msgstr "クロス"
 
 msgctxt "#30174"
 msgid "Dot"
-msgstr ""
+msgstr "ドット"
 
 msgctxt "#30175"
 msgid "Light gun crosshair color for port 1."
@@ -671,43 +671,43 @@ msgstr ""
 
 msgctxt "#30176"
 msgid "Red"
-msgstr ""
+msgstr "レッド"
 
 msgctxt "#30177"
 msgid "Blue"
-msgstr ""
+msgstr "ブルー"
 
 msgctxt "#30178"
 msgid "Green"
-msgstr ""
+msgstr "グリーン"
 
 msgctxt "#30179"
 msgid "Orange"
-msgstr ""
+msgstr "オレンジ"
 
 msgctxt "#30180"
 msgid "Yellow"
-msgstr ""
+msgstr "イエロー"
 
 msgctxt "#30181"
 msgid "Cyan"
-msgstr ""
+msgstr "シアン"
 
 msgctxt "#30182"
 msgid "Pink"
-msgstr ""
+msgstr "ピンク"
 
 msgctxt "#30183"
 msgid "Purple"
-msgstr ""
+msgstr "紫"
 
 msgctxt "#30184"
 msgid "Black"
-msgstr ""
+msgstr "黒"
 
 msgctxt "#30185"
 msgid "White"
-msgstr ""
+msgstr "白"
 
 msgctxt "#30186"
 msgid "Light gun crosshair color for port 2."
@@ -723,15 +723,15 @@ msgstr ""
 
 msgctxt "#30189"
 msgid "Linear"
-msgstr ""
+msgstr "線形"
 
 msgctxt "#30190"
 msgid "Quadratic"
-msgstr ""
+msgstr "平方"
 
 msgctxt "#30191"
 msgid "Cubic"
-msgstr ""
+msgstr "立方"
 
 msgctxt "#30192"
 msgid "Left analog stick deadzone when simulating the 'twist' action of emulated 'neGcon' input devices. Used to eliminate controller drift. Note: Most neGcon-compatible titles provide in-game options for setting a 'twist' deadzone value. To avoid loss of precision, the in-game deadzone should *always* be set to zero. Any required adjustments should *only* be applied via this core option. This is particularly important when 'neGcon Twist Response' is set to 'Quadratic' or 'Cubic'."
@@ -739,7 +739,7 @@ msgstr ""
 
 msgctxt "#30193"
 msgid "Memory Card"
-msgstr ""
+msgstr "メモリーカード"
 
 msgctxt "#30194"
 msgid "Change virtual memory card related settings."
@@ -779,7 +779,7 @@ msgstr ""
 
 msgctxt "#30203"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "エミュレーションハック"
 
 msgctxt "#30204"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
@@ -791,15 +791,15 @@ msgstr ""
 
 msgctxt "#30206"
 msgid "Default"
-msgstr ""
+msgstr "デフォルト"
 
 msgctxt "#30207"
 msgid "Aggressive"
-msgstr ""
+msgstr "アグレッシブ"
 
 msgctxt "#30208"
 msgid "Render 3D content anamorphically and output the emulated framebuffer at a widescreen aspect ratio. Produces best results with fully 3D games. 2D elements will be horizontally stretched and may be misaligned."
-msgstr ""
+msgstr "3D コンテンツをアナモルフィック状態でレンダリングし、エミュレートされたフレームバッファをワイドスクリーンアスペクト比で出力します。フルポリゴン 3D ゲームで最高の結果を生成します。2D 要素は水平方向に引き伸ばされ、配置がずれる可能性があります。"
 
 msgctxt "#30209"
 msgid "Aspect ratio to be used by the Widescreen Mode Hack."
@@ -811,31 +811,31 @@ msgstr ""
 
 msgctxt "#30211"
 msgid "Dynamically recompile CPU instructions to native instructions. Much faster than interpreter, but CPU timing is less accurate, and may have bugs."
-msgstr ""
+msgstr "CPU 命令をネイティブ命令に動的に再コンパイルします。インタプリタよりもはるかに高速ですが、CPU タイミングは正確ではなく、バグがある可能性があります。"
 
 msgctxt "#30212"
 msgid "Disabled (Beetle Interpreter)"
-msgstr ""
+msgstr "無効 (Beetle インタプリタ)"
 
 msgctxt "#30213"
 msgid "Max Performance"
-msgstr ""
+msgstr "最大パフォーマンス"
 
 msgctxt "#30214"
 msgid "Lightrec Interpreter"
-msgstr ""
+msgstr "Lightrec インタプリタ"
 
 msgctxt "#30215"
 msgid "Some games require 'Full' invalidation, some require 'DMA Only'."
-msgstr ""
+msgstr "ゲームによって [フル] 無効化を必要とするものと [DMA のみ] を必要とするものがあります。"
 
 msgctxt "#30216"
 msgid "Full"
-msgstr ""
+msgstr "フル"
 
 msgctxt "#30217"
 msgid "DMA Only (Slightly Faster)"
-msgstr ""
+msgstr "DMA のみ (やや早い)"
 
 msgctxt "#30218"
 msgid "Cycles the dynarec charges per CPU instruction. '2' is faster, but the emulated CPU appears half-speed to games that pace themselves against it - set '1' for games whose CD streaming stalls or hangs under the dynarec (e.g. Parasite Eve 2). The '1' setting charges memory accesses two cycles and everything else one, close to the real CPU."
@@ -851,15 +851,15 @@ msgstr ""
 
 msgctxt "#30221"
 msgid "Max cycles run by CPU before a GPU/DMA/MDEC/Timer Update is checked, higher number will be faster, has much less impact on beetle interpreter than dynarec."
-msgstr ""
+msgstr "GPU/DMA/MDEC/Timer 更新がチェックされる前に CPU によって実行される最大サイクル数です。値を高くするほど高速になりますが、Beetle インタプリタにはほとんど影響を与えません。"
 
 msgctxt "#30222"
 msgid "128 (Default)"
-msgstr ""
+msgstr "128 (デフォルト)"
 
 msgctxt "#30223"
 msgid "Max SPU samples to run before a SPU Update is checked, higher number will be faster, but will cause sound glitches in some games with anything other than 1."
-msgstr ""
+msgstr "SPU 更新がチェックされる前に実行される最大 SPU サンプル数です。値を高くするほど高速になりますが、1 以外に設定すると一部のゲームで音声バグが発生する可能性があります。"
 
 msgctxt "#30224"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"

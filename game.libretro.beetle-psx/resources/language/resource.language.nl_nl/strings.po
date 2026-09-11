@@ -251,7 +251,7 @@ msgstr ""
 
 msgctxt "#30071"
 msgid "System"
-msgstr ""
+msgstr "Systeem"
 
 msgctxt "#30072"
 msgid "Change system and overclocking options."
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30077"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
-msgstr ""
+msgstr "Verlaag alle geëmuleerde GTE-bewerkingen (CPU-coprocessor voor 3D-graphics) tot een constante latentie van één cyclus. Voor games die intensief gebruik maken van de GTE, kan dit de framesnelheid en frametijdstabiliteit aanzienlijk verbeteren."
 
 msgctxt "#30078"
 msgid "'Synchronous' mimics original hardware. 'Asynchronous' can reduce stuttering on devices with slow storage. 'Pre-Cache' loads the entire disk image into memory when launching content, which may improve in-game loading times at the cost of an initial delay at startup. 'Pre-Cache' may cause issues on systems with low RAM, and will fall back to 'Synchronous' for physical media. Restart required."
@@ -327,7 +327,7 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Auto"
-msgstr ""
+msgstr "Automatisch"
 
 msgctxt "#30091"
 msgid "NTSC-J (Japan)"
@@ -523,7 +523,7 @@ msgstr ""
 
 msgctxt "#30139"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "Onscreen Weergave"
 
 msgctxt "#30140"
 msgid "Change notifications being shown on-screen."
@@ -539,7 +539,7 @@ msgstr ""
 
 msgctxt "#30143"
 msgid "Input"
-msgstr ""
+msgstr "Invoer"
 
 msgctxt "#30144"
 msgid "Change light gun, mouse and neGcon settings."
@@ -671,15 +671,15 @@ msgstr ""
 
 msgctxt "#30176"
 msgid "Red"
-msgstr ""
+msgstr "Rood"
 
 msgctxt "#30177"
 msgid "Blue"
-msgstr ""
+msgstr "Blauw"
 
 msgctxt "#30178"
 msgid "Green"
-msgstr ""
+msgstr "Groen"
 
 msgctxt "#30179"
 msgid "Orange"
@@ -687,7 +687,7 @@ msgstr ""
 
 msgctxt "#30180"
 msgid "Yellow"
-msgstr ""
+msgstr "Geel"
 
 msgctxt "#30181"
 msgid "Cyan"
@@ -723,7 +723,7 @@ msgstr ""
 
 msgctxt "#30189"
 msgid "Linear"
-msgstr ""
+msgstr "Lineair"
 
 msgctxt "#30190"
 msgid "Quadratic"
@@ -791,7 +791,7 @@ msgstr ""
 
 msgctxt "#30206"
 msgid "Default"
-msgstr ""
+msgstr "Standaard"
 
 msgctxt "#30207"
 msgid "Aggressive"

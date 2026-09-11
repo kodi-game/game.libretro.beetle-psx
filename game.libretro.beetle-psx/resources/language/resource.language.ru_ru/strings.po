@@ -27,7 +27,7 @@ msgstr "Beetle PSX — это модуль Playstation для Kodi | Форк PS
 
 msgctxt "#30001"
 msgid "Internal GPU Resolution"
-msgstr "Внутреннее разрешение ГП"
+msgstr "Внутреннее разрешение GPU"
 
 msgctxt "#30002"
 msgid "Dithering Pattern"
@@ -35,11 +35,11 @@ msgstr "Паттерн дизеринга"
 
 msgctxt "#30004"
 msgid "Display Internal FPS"
-msgstr "Отобразить внутренний FPS"
+msgstr "Показывать частоту кадров"
 
 msgctxt "#30005"
 msgid "Analog Self-Calibration"
-msgstr "Аналоговая автокалибровка"
+msgstr "Автокалибровка аналогового ввода"
 
 msgctxt "#30007"
 msgid "DualShock Analog Mode Combo"
@@ -159,23 +159,23 @@ msgstr "Начальная строка развёртки — PAL"
 
 msgctxt "#30047"
 msgid "Last Scan Line - PAL"
-msgstr "Последняя строка развёртки — PAL"
+msgstr "Последняя строка развёртки - PAL"
 
 msgctxt "#30049"
 msgid "CD Loading Speed"
-msgstr "Скорость загрузки CD"
+msgstr "Скорость чтения CD"
 
 msgctxt "#30050"
 msgid "DualShock Analog Mode Toggle"
-msgstr "Переключатель аналогового режима DualShock"
+msgstr "Переключатель режима DualShock"
 
 msgctxt "#30051"
 msgid "Display OSD Messages"
-msgstr "Отображение экранных сообщений"
+msgstr "Показывать уведомления"
 
 msgctxt "#30052"
 msgid "Deinterlace Method"
-msgstr "Способ Деинтерлейсинга"
+msgstr "Метод деинтерлейсинга"
 
 msgctxt "#30053"
 msgid "CD Access Method"
@@ -183,15 +183,15 @@ msgstr "Метод доступа к CD"
 
 msgctxt "#30054"
 msgid "Override BIOS"
-msgstr "Переопределить BIOS"
+msgstr "Переопределение BIOS"
 
 msgctxt "#30055"
 msgid "Multitap on Port 1"
-msgstr "Multitap на порту 1"
+msgstr "Multitap в Порт 1"
 
 msgctxt "#30056"
 msgid "Multitap on Port 2"
-msgstr "Multitap на порту 2"
+msgstr "Multitap в Порт 2"
 
 msgctxt "#30057"
 msgid "Gun Crosshair Color: Port 1"
@@ -199,7 +199,7 @@ msgstr "Цвет прицела: порт 1"
 
 msgctxt "#30058"
 msgid "Gun Crosshair Color: Port 2"
-msgstr "Цвет прицела: порт 2"
+msgstr "Цвет прицела оружия: Порт 2"
 
 msgctxt "#30059"
 msgid "Memory Card Method"
@@ -215,19 +215,19 @@ msgstr "Общие карты памяти"
 
 msgctxt "#30062"
 msgid "Memory Card Slot 1 Index"
-msgstr "Индекс слота карты памяти 1"
+msgstr "Индекс карты памяти в слоте 1"
 
 msgctxt "#30063"
 msgid "Memory Card Slot 2 Index"
-msgstr "Индекс слота карты памяти 2"
+msgstr "Индекс карты памяти в слоте 2"
 
 msgctxt "#30064"
 msgid "Frame Duping"
-msgstr "Дублирование кадров"
+msgstr "Дублирование кадра"
 
 msgctxt "#30065"
 msgid "PAL Video Timing Override"
-msgstr "Переопределение таймингов PAL-видео"
+msgstr "Переопределение частоты кадров PAL"
 
 msgctxt "#30066"
 msgid "System Region"
@@ -235,7 +235,7 @@ msgstr "Регион системы"
 
 msgctxt "#30067"
 msgid "PGXP Perspective Correct Texturing"
-msgstr "Перспективно-корректное текстурирование PGXP"
+msgstr "Перспективно-корректное текстурирование"
 
 msgctxt "#30068"
 msgid "SPU Silent Voice Optimization"
@@ -251,31 +251,31 @@ msgstr "Оптимизация SP GP Hit RAM в Dynarec"
 
 msgctxt "#30071"
 msgid "System"
-msgstr ""
+msgstr "Система"
 
 msgctxt "#30072"
 msgid "Change system and overclocking options."
-msgstr ""
+msgstr "Настройка параметров системы и разгона."
 
 msgctxt "#30073"
 msgid "Overclock (or underclock) the emulated PSX CPU. Overclocking can eliminate slowdown and improve frame rates in certain games at the expense of increased performance requirements. Note that some games have an internal frame rate limiter and may not benefit from overclocking. May cause certain effects to animate faster than intended in some titles when overclocked."
-msgstr ""
+msgstr "Разгон (или занижение) частоты CPU эмулируемой PSX. В некоторых играх может устранить замедления и выровнять частоту кадров, но повышает нагрузку. Часть игр не получит преимуществ из-за наличия внутр. ограничителей частоты. Также может привести к завышению скорости анимаций."
 
 msgctxt "#30074"
 msgid "100% (Native)"
-msgstr ""
+msgstr "100% (исходное)"
 
 msgctxt "#30075"
 msgid "Enable overclocking of the 2D rasterizer contained within the emulated PSX's GPU. Does not improve 3D rendering, and in general has little effect."
-msgstr ""
+msgstr "Разгоняет 2D-растеризатор внутри GPU эмулируемой PSX. Не влияет на качество 3D-рендеринга и в целом не оказывает значимый эффект."
 
 msgctxt "#30076"
 msgid "1x (Native)"
-msgstr ""
+msgstr "1x (нативно)"
 
 msgctxt "#30077"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
-msgstr ""
+msgstr "Понижает задержку выполнения операций эмулируемого GTE (сопроцессора для 3D-графики) до одного цикла. Поднимает частоту кадров и стабилизирует время кадра в играх, интенсивно использующих GTE."
 
 msgctxt "#30078"
 msgid "'Synchronous' mimics original hardware. 'Asynchronous' can reduce stuttering on devices with slow storage. 'Pre-Cache' loads the entire disk image into memory when launching content, which may improve in-game loading times at the cost of an initial delay at startup. 'Pre-Cache' may cause issues on systems with low RAM, and will fall back to 'Synchronous' for physical media. Restart required."
@@ -283,15 +283,15 @@ msgstr ""
 
 msgctxt "#30079"
 msgid "Synchronous"
-msgstr ""
+msgstr "Синхронный"
 
 msgctxt "#30080"
 msgid "Asynchronous"
-msgstr ""
+msgstr "Асинхронный"
 
 msgctxt "#30081"
 msgid "Pre-Cache"
-msgstr ""
+msgstr "Предзагрузка"
 
 msgctxt "#30082"
 msgid "Values higher than '2x (Native)' can greatly reduce in-game loading times, but may introduce timing errors. Some games may not function properly above a certain value."
@@ -299,15 +299,15 @@ msgstr ""
 
 msgctxt "#30083"
 msgid "2x (Native)"
-msgstr ""
+msgstr "2x (нативно)"
 
 msgctxt "#30084"
 msgid "Skip the PlayStation BIOS boot animation normally displayed when loading content. Note: Enabling this causes compatibility issues with a number of games (PAL copy protected games, Saga Frontier, etc.)."
-msgstr ""
+msgstr "Пропуск начальной анимации BIOS PlayStation, отображаемой при запуске игр. При включении может влиять на совместимость с некоторыми играми (Saga Frontier, PAL-игры с защитой от копирования и др.)."
 
 msgctxt "#30085"
 msgid "Override the standard region specific BIOS with a region-free one if found. Restart required."
-msgstr ""
+msgstr "Заменять стандартный региональный BIOS на образ без региональной привязки при его обнаружении. Требуется перезапуск."
 
 msgctxt "#30086"
 msgid "PSP PS1 BIOS"
@@ -327,31 +327,31 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Auto"
-msgstr ""
+msgstr "Автоматически"
 
 msgctxt "#30091"
 msgid "NTSC-J (Japan)"
-msgstr ""
+msgstr "NTSC-J (Япония)"
 
 msgctxt "#30092"
 msgid "NTSC-U (North America)"
-msgstr ""
+msgstr "NTSC-U (Северная Америка)"
 
 msgctxt "#30093"
 msgid "PAL (Europe)"
-msgstr ""
+msgstr "PAL (Европа)"
 
 msgctxt "#30094"
 msgid "Video"
-msgstr ""
+msgstr "Графика"
 
 msgctxt "#30095"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr ""
+msgstr "Настройки соотношения сторон, кадрирования, графических фильтров и пропуска кадров."
 
 msgctxt "#30096"
 msgid "Resolutions higher than '1x (Native)' improve fidelity of 3D models at the expense of increased performance requirements. 2D elements are generally unaffected by this setting."
-msgstr ""
+msgstr "Установка разрешения выше '1x (исходное)' улучшает качество 3D-моделей, но повышает требования к производительности. Как правило, не влияет на 2D-элементы."
 
 msgctxt "#30097"
 msgid "'1x (Native)' emulates native low resolution dithering used by original hardware to smooth out color banding artifacts visible at native color depth. 'Internal Resolution' scales dithering granularity to the configured internal resolution for cleaner results. Recommended to be disabled when running at 32 bpp color depth. Note: On Vulkan, enabling this will force downsampling to native color depth, while disabling will automatically enable output at higher color depth."
@@ -359,23 +359,23 @@ msgstr ""
 
 msgctxt "#30098"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Внутреннее разрешение"
 
 msgctxt "#30099"
 msgid "Automatic Toggling allows the core to switch between progressive and interlaced rates."
-msgstr ""
+msgstr "Автопереключение позволяет ядру переключаться между прогрессивной и чересстрочной развёртками."
 
 msgctxt "#30100"
 msgid "Automatic Toggling"
-msgstr ""
+msgstr "Автопереключение"
 
 msgctxt "#30101"
 msgid "Force Progressive Rate"
-msgstr ""
+msgstr "Форсировать прогрессивную развёртку"
 
 msgctxt "#30102"
 msgid "Force Interlaced Rate"
-msgstr ""
+msgstr "Форсировать чересстрочную развёртку"
 
 msgctxt "#30103"
 msgid "'Weave' shows both fields on the same frame for full high resolution still image, 'Bob' sacrificies resolution clarity for motion clarity. 'Bob (Offset)' is Bob with the current field doubled into the full surface height with a one-line offset between fields, preserving the libretro output resolution while keeping Bob-style smooth motion. 'FastMAD (Motion Adaptive)' weaves still pixels and vertically-interpolates moving pixels per-pixel, full output height with neither weave's comb on motion nor bob's halved resolution. 'Off' makes the software renderer match the hardware (Vulkan/OpenGL) renderer behaviour by rasterising to all VRAM lines every frame and deferring scanout to the end of the frame, eliminating comb-on-motion in interlaced games. Note: programs that DMA to VRAM during scanout (some demos using >512-line PAL framebuffer-wrap tricks), or that update moving sprites via CPU-to-VRAM image transfers tied to the displayed field (e.g. Pro Pinball), may show stale rows or sprite ghosting under 'Off'; use 'Weave', 'Bob', 'Bob (Offset)', or 'FastMAD' for those."
@@ -403,31 +403,31 @@ msgstr ""
 
 msgctxt "#30109"
 msgid "Repeat the previous frame if the core has nothing new to display."
-msgstr ""
+msgstr "Повторять предыдущий кадр, когда ядро не выводит новые кадры."
 
 msgctxt "#30110"
 msgid "Due to different standards, PAL games often appear slowed down compared to the American or Japanese NTSC releases. This option can be used to override PAL timings in order to attempt to run these games with the NTSC framerate."
-msgstr ""
+msgstr "Из-за различий стандартов игры региона PAL часто работали медленнее NTSC-релизов для Америки или Японии. Настройка может использоваться для переопределения таймингов PAL, позволяя запускать такие игры с частотой кадров NTSC."
 
 msgctxt "#30111"
 msgid "This setting is ignored when the Widescreen Mode Hack or Display Full VRAM options are enabled."
-msgstr ""
+msgstr "Игнорируется, если включено отображение содержимого VRAM или широкоэкранный хак."
 
 msgctxt "#30112"
 msgid "Corrected"
-msgstr ""
+msgstr "Скорректированное"
 
 msgctxt "#30113"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Нескорректированное"
 
 msgctxt "#30114"
 msgid "Force 4:3"
-msgstr ""
+msgstr "Форсировать 4:3"
 
 msgctxt "#30115"
 msgid "Force NTSC"
-msgstr ""
+msgstr "Форсировать NTSC"
 
 msgctxt "#30116"
 msgid "Force 16:9"
@@ -435,7 +435,7 @@ msgstr ""
 
 msgctxt "#30117"
 msgid "Full native image or no borders."
-msgstr ""
+msgstr "Полное исходное изображение или без отступов."
 
 msgctxt "#30118"
 msgid "Disabled"
@@ -443,11 +443,11 @@ msgstr ""
 
 msgctxt "#30119"
 msgid "Horizontal"
-msgstr ""
+msgstr "По горизонтали"
 
 msgctxt "#30120"
 msgid "Horizontal + Vertical"
-msgstr ""
+msgstr "По горизонтали и вертикали"
 
 msgctxt "#30121"
 msgid "Reduce the width of the cropped image by the specified number of pixels."
@@ -467,7 +467,7 @@ msgstr ""
 
 msgctxt "#30125"
 msgid "0 (Default)"
-msgstr ""
+msgstr "0 (по умолчанию)"
 
 msgctxt "#30126"
 msgid "Last displayed scan line when running NTSC content. Values less than 239 will reduce the height of output images by cropping pixels from the bottommost edge. May be used to counteract letterboxing."
@@ -475,7 +475,7 @@ msgstr ""
 
 msgctxt "#30127"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239 (по умолчанию)"
 
 msgctxt "#30128"
 msgid "First displayed scan line when running PAL content. Values greater than zero will reduce the height of output images by cropping pixels from the topmost edge. May be used to counteract letterboxing."
@@ -487,15 +487,15 @@ msgstr ""
 
 msgctxt "#30130"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287 (по умолчанию)"
 
 msgctxt "#30131"
 msgid "PGXP (Precision Geometry Transform Pipeline)"
-msgstr ""
+msgstr "PGXP (конвейер точных геометрических преобразований)"
 
 msgctxt "#30132"
 msgid "These options control enhancements which can improve graphics compared to the original console. PGXP can get rid of warping textures and Z-fighting issues."
-msgstr ""
+msgstr "Настройки для повышения качества графики выше уровня оригинальной консоли. PGXP помогает избежать Z-конфликтов и искажений текстур."
 
 msgctxt "#30133"
 msgid "Render 3D objects with subpixel precision, minimizing distortion and jitter of 3D objects seen on original hardware due to the usage of fixed point vertex coordinates. 'Memory Only' mode has minimal compatibility issues and is recommended for general use. 'Memory + CPU (Buggy)' mode can reduce jitter even further but has high performance requirements and may cause various geometry errors."
@@ -503,19 +503,19 @@ msgstr ""
 
 msgctxt "#30134"
 msgid "Memory Only"
-msgstr ""
+msgstr "Только память"
 
 msgctxt "#30135"
 msgid "Memory + CPU (Buggy)"
-msgstr ""
+msgstr "Память + CPU (нестабильно)"
 
 msgctxt "#30136"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
-msgstr ""
+msgstr "Скрывает больше выраженных ошибок в операциях PGXP: настройка устанавливает допустимое отклонение значений PGXP для объектов без точных данных о глубине."
 
 msgctxt "#30137"
 msgid "Use PGXP's NCLIP implementation. Improves appearance by reducing holes in geometries with PGXP coordinates. Known to cause some games to lock up in various circumstances."
-msgstr ""
+msgstr "Использовать PGXP-реализацию NCLIP. Улучшает графику за счёт уменьшения провалов в геометрии с помощью PGXP-координат. В некоторых случаях может приводить к зависанию игр."
 
 msgctxt "#30138"
 msgid "Replace native PSX affine texture mapping with perspective correct texture mapping. Eliminates position-dependent distortion and warping of textures, resulting in properly aligned textures. This option is applied only when PGXP Operation Mode is enabled. Supported by the hardware renderers and the software renderer."
@@ -523,27 +523,27 @@ msgstr ""
 
 msgctxt "#30139"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "Индикация на экране"
 
 msgctxt "#30140"
 msgid "Change notifications being shown on-screen."
-msgstr ""
+msgstr "Настройка отображаемых на экране уведомлений."
 
 msgctxt "#30141"
 msgid "Display the internal frame rate at which the emulated PlayStation system is rendering content. Note: Requires onscreen notifications to be enabled in the libretro frontend."
-msgstr ""
+msgstr "Отображать внутреннюю частоту кадров, с которой эмулируемая PlayStation производит рендеринг. Примечание: требуется включение уведомлений в настройках фронтенда."
 
 msgctxt "#30142"
 msgid "Display OSD messages generated by the core."
-msgstr ""
+msgstr "Выводить на экран сообщения, генерируемые ядром."
 
 msgctxt "#30143"
 msgid "Input"
-msgstr ""
+msgstr "Устройства ввода"
 
 msgctxt "#30144"
 msgid "Change light gun, mouse and neGcon settings."
-msgstr ""
+msgstr "Настройки светового пистолета, мыши и neGcon."
 
 msgctxt "#30145"
 msgid "Enable dynamic calibration of analog inputs when the device is set to DualShock, Analog Controller, Analog Joystick, or neGcon. Maximum registered input values are monitored in real time and used to scale analog coordinates passed to the emulator. This should be used for games such as Mega Man Legends 2 that expect larger values than what modern controllers provide. For best results, analog sticks should be rotated at full extent to tune the calibration algorithm each time content is loaded."
@@ -551,11 +551,11 @@ msgstr ""
 
 msgctxt "#30146"
 msgid "When the input device type is DualShock, this option allows the emulated DualShock to be toggled between DIGITAL and ANALOG mode like original hardware. Mode can also be toggled by using the selected button combination."
-msgstr ""
+msgstr "При выборе устройства ввода типа DualShock данная опция позволяет переключать эмулируемый DualShock между цифровым и аналоговым режимами, как на реальной консоли. Режим также может быть изменён одной из комбинаций кнопок."
 
 msgctxt "#30147"
 msgid "Default-Analog"
-msgstr ""
+msgstr "По умолчанию-аналоговый"
 
 msgctxt "#30148"
 msgid "The button combination that will be used to toggle between DIGITAL and ANALOG mode for the emulated DualShock."
@@ -607,35 +607,35 @@ msgstr ""
 
 msgctxt "#30160"
 msgid "0 Second Delay"
-msgstr ""
+msgstr "0 секунд"
 
 msgctxt "#30161"
 msgid "1 Second Delay"
-msgstr ""
+msgstr "1 секунда"
 
 msgctxt "#30162"
 msgid "2 Second Delay"
-msgstr ""
+msgstr "2 секунды"
 
 msgctxt "#30163"
 msgid "3 Second Delay"
-msgstr ""
+msgstr "3 секунды"
 
 msgctxt "#30164"
 msgid "4 Second Delay"
-msgstr ""
+msgstr "4 секунды"
 
 msgctxt "#30165"
 msgid "5 Second Delay"
-msgstr ""
+msgstr "5 секунд"
 
 msgctxt "#30166"
 msgid "Enable multitap functionality on port 1."
-msgstr ""
+msgstr "Включает расширение multitap в порт 1."
 
 msgctxt "#30167"
 msgid "Enable multitap functionality on port 2."
-msgstr ""
+msgstr "Включает расширение multitap в порт 2."
 
 msgctxt "#30168"
 msgid "Use mouse-controlled 'Light Gun' or 'Touchscreen' input when device type is set to 'Guncon/G-Con 45' or 'Justifier'."
@@ -643,11 +643,11 @@ msgstr ""
 
 msgctxt "#30169"
 msgid "Light Gun"
-msgstr ""
+msgstr "Световой пистолет"
 
 msgctxt "#30170"
 msgid "Touchscreen"
-msgstr ""
+msgstr "Сенсорный экран"
 
 msgctxt "#30171"
 msgid "Draw a cursor on screen while using the 'Guncon/G-Con 45' and 'Justifier' input device types."
@@ -659,63 +659,63 @@ msgstr ""
 
 msgctxt "#30173"
 msgid "Cross"
-msgstr ""
+msgstr "Перекрестье"
 
 msgctxt "#30174"
 msgid "Dot"
-msgstr ""
+msgstr "Точка"
 
 msgctxt "#30175"
 msgid "Light gun crosshair color for port 1."
-msgstr ""
+msgstr "Цвет прицела для светового пистолета в порте 1."
 
 msgctxt "#30176"
 msgid "Red"
-msgstr ""
+msgstr "Красный"
 
 msgctxt "#30177"
 msgid "Blue"
-msgstr ""
+msgstr "Голубой"
 
 msgctxt "#30178"
 msgid "Green"
-msgstr ""
+msgstr "Зелёный"
 
 msgctxt "#30179"
 msgid "Orange"
-msgstr ""
+msgstr "Оранжевый"
 
 msgctxt "#30180"
 msgid "Yellow"
-msgstr ""
+msgstr "Жёлтый"
 
 msgctxt "#30181"
 msgid "Cyan"
-msgstr ""
+msgstr "Сине-зелёный"
 
 msgctxt "#30182"
 msgid "Pink"
-msgstr ""
+msgstr "Розовый"
 
 msgctxt "#30183"
 msgid "Purple"
-msgstr ""
+msgstr "Фиолетовый"
 
 msgctxt "#30184"
 msgid "Black"
-msgstr ""
+msgstr "Чёрный"
 
 msgctxt "#30185"
 msgid "White"
-msgstr ""
+msgstr "Белый"
 
 msgctxt "#30186"
 msgid "Light gun crosshair color for port 2."
-msgstr ""
+msgstr "Цвет прицела для светового пистолета в порте 2."
 
 msgctxt "#30187"
 msgid "Responsiveness of the 'Mouse' input device type."
-msgstr ""
+msgstr "Чувствительность устройства ввода типа 'Мышь'."
 
 msgctxt "#30188"
 msgid "Left analog stick response type when simulating the 'twist' action of emulated 'neGcon' input devices. Analog stick displacement may be mapped to neGcon rotation angle either linearly, quadratically or cubically. 'Quadratic' allows for greater precision than 'Linear' when making small movements. 'Cubic' further increases small movement precision, but 'exaggerates' larger movements. Note: 'Linear' is only recommended when using racing wheel peripherals. Conventional controllers implement analog input in a manner fundamentally different from the neGcon 'twist' mechanism, such that linear mapping over-amplifies small movements, impairing fine control. In most cases, 'Quadratic' provides the closest approximation of real hardware."
@@ -723,15 +723,15 @@ msgstr ""
 
 msgctxt "#30189"
 msgid "Linear"
-msgstr ""
+msgstr "Линейный"
 
 msgctxt "#30190"
 msgid "Quadratic"
-msgstr ""
+msgstr "Квадратичный"
 
 msgctxt "#30191"
 msgid "Cubic"
-msgstr ""
+msgstr "Кубический"
 
 msgctxt "#30192"
 msgid "Left analog stick deadzone when simulating the 'twist' action of emulated 'neGcon' input devices. Used to eliminate controller drift. Note: Most neGcon-compatible titles provide in-game options for setting a 'twist' deadzone value. To avoid loss of precision, the in-game deadzone should *always* be set to zero. Any required adjustments should *only* be applied via this core option. This is particularly important when 'neGcon Twist Response' is set to 'Quadratic' or 'Cubic'."
@@ -739,11 +739,11 @@ msgstr ""
 
 msgctxt "#30193"
 msgid "Memory Card"
-msgstr ""
+msgstr "Карты памяти"
 
 msgctxt "#30194"
 msgid "Change virtual memory card related settings."
-msgstr ""
+msgstr "Настройка параметров виртуальных карт памяти."
 
 msgctxt "#30195"
 msgid "Save data format used for the left memory card slot. 'Mednafen' may be used for compatibility with the stand-alone version of Mednafen. When used with Beetle PSX, Libretro (.srm) and Mednafen (.mcr) saves have internally identical formats and can be converted between one another via renaming. Restart required."
@@ -759,7 +759,7 @@ msgstr ""
 
 msgctxt "#30198"
 msgid "Emulate a second memory card in the right memory card slot. Note: Some games require this option to be disabled for correct operation (e.g. Codename Tenka). Note: Memory Card Slot 2 uses the Mednafen (.mcr) save format. Restart required."
-msgstr ""
+msgstr "Эмулировать вторую карту памяти в слоте карты памяти справа. Для некоторых игр опция должна быть выключена (напр., Codename Tenka). Примечание: карта памяти в слоте 2 использует формат сохранений Mednafen (.mcr). Требуется перезапуск."
 
 msgctxt "#30199"
 msgid "Use shared memory cards instead of separate cards for each content. Note: if 'Memory Card Method' is set to 'Libretro', only memory card slot 2 will be affected. Restart required."
@@ -767,23 +767,23 @@ msgstr ""
 
 msgctxt "#30200"
 msgid "Memory card currently loaded in the left slot. This option will only work if Memory Card Method is set to Mednafen."
-msgstr ""
+msgstr "Выбор текущей карты памяти в слоте слева. Данная опция работает только при выборе Mednafen в качестве метода карты памяти."
 
 msgctxt "#30201"
 msgid "Memory card currently loaded in the right slot. This option will only work if Memory Card Slot 2 is enabled."
-msgstr ""
+msgstr "Выбор текущей карты памяти в слоте справа. Данная опция работает только при включении слота карты памяти 2."
 
 msgctxt "#30202"
 msgid "1 (Default)"
-msgstr ""
+msgstr "1 (по умолчанию)"
 
 msgctxt "#30203"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Хаки эмуляции"
 
 msgctxt "#30204"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Настройка параметров точности эмуляции, влияющих на производительность и совместимость."
 
 msgctxt "#30205"
 msgid "Some games (e.g. Doom, Hexen, Soul Blade, etc.) draw horizontal lines by stretching single-pixel-high triangles across the screen, which are rasterized as a row of pixels on original hardware. This hack detects these small triangles and converts them to quads as required, allowing them to be displayed properly on the hardware renderers and at upscaled internal resolutions. 'Aggressive' is required for some titles (e.g. Dark Forces, Duke Nukem) but may otherwise introduce graphical glitches. Leave at 'Default' if unsure."
@@ -791,15 +791,15 @@ msgstr ""
 
 msgctxt "#30206"
 msgid "Default"
-msgstr ""
+msgstr "По умолчанию"
 
 msgctxt "#30207"
 msgid "Aggressive"
-msgstr ""
+msgstr "Агрессивно"
 
 msgctxt "#30208"
 msgid "Render 3D content anamorphically and output the emulated framebuffer at a widescreen aspect ratio. Produces best results with fully 3D games. 2D elements will be horizontally stretched and may be misaligned."
-msgstr ""
+msgstr "Анаморфный 3D-рендеринг и вывод фреймбуфера в широкоформатном соотношении сторон. Наилучший результат достигается для игр полностью в 3D. Элементы 2D могут смещаться и будут вытянуты по горизонтали."
 
 msgctxt "#30209"
 msgid "Aspect ratio to be used by the Widescreen Mode Hack."
@@ -811,31 +811,31 @@ msgstr ""
 
 msgctxt "#30211"
 msgid "Dynamically recompile CPU instructions to native instructions. Much faster than interpreter, but CPU timing is less accurate, and may have bugs."
-msgstr ""
+msgstr "Динамически преобразовывает инструкции CPU в нативные. Существенно быстрее интерпретатора, но обеспечивает меньшую точность таймингов CPU и может вызывать ошибки."
 
 msgctxt "#30212"
 msgid "Disabled (Beetle Interpreter)"
-msgstr ""
+msgstr "Откл. (интерпретатор Beetle)"
 
 msgctxt "#30213"
 msgid "Max Performance"
-msgstr ""
+msgstr "Макс. производительность"
 
 msgctxt "#30214"
 msgid "Lightrec Interpreter"
-msgstr ""
+msgstr "Интерпретатор Lightrec"
 
 msgctxt "#30215"
 msgid "Some games require 'Full' invalidation, some require 'DMA Only'."
-msgstr ""
+msgstr "Для некоторых игр требуется 'Полная' инвалидация, для других 'Только DMA'."
 
 msgctxt "#30216"
 msgid "Full"
-msgstr ""
+msgstr "Полная"
 
 msgctxt "#30217"
 msgid "DMA Only (Slightly Faster)"
-msgstr ""
+msgstr "Только DMA (немного быстрее)"
 
 msgctxt "#30218"
 msgid "Cycles the dynarec charges per CPU instruction. '2' is faster, but the emulated CPU appears half-speed to games that pace themselves against it - set '1' for games whose CD streaming stalls or hangs under the dynarec (e.g. Parasite Eve 2). The '1' setting charges memory accesses two cycles and everything else one, close to the real CPU."
@@ -851,15 +851,15 @@ msgstr ""
 
 msgctxt "#30221"
 msgid "Max cycles run by CPU before a GPU/DMA/MDEC/Timer Update is checked, higher number will be faster, has much less impact on beetle interpreter than dynarec."
-msgstr ""
+msgstr "Макс. циклов, выполняемых процессором до проверки обновления таймеров/GPU/DMA/MDEC. Более высокие значения повышают скорость. Для интерпретатора beetle эффект менее выражен, чем для dynarec."
 
 msgctxt "#30222"
 msgid "128 (Default)"
-msgstr ""
+msgstr "128 (по умолчанию)"
 
 msgctxt "#30223"
 msgid "Max SPU samples to run before a SPU Update is checked, higher number will be faster, but will cause sound glitches in some games with anything other than 1."
-msgstr ""
+msgstr "Макс. сэмплов, обрабатываемых до проверки обновления SPU. Более высокие значения повышают скорость, но в некоторых играх отклонение от 1 приводит к искажению звука."
 
 msgctxt "#30224"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
@@ -2054,12 +2054,12 @@ msgstr ""
 #~ msgstr "Включить переключатель аналогового режима контроллера DualShock"
 
 #~ msgctxt "#30007"
-#~ msgid "Port 1: Multitap Enable"
-#~ msgstr "Порт 1: мультитап устройство включено"
+#~ msgid "DualShock Analog Mode Combo"
+#~ msgstr "Связка для смены режима DualShock"
 
 #~ msgctxt "#30008"
-#~ msgid "Port 2: Multitap Enable"
-#~ msgstr "Порт 2: мультитап устройство включено"
+#~ msgid "DualShock Analog Mode Combo Hold Delay"
+#~ msgstr "Задержка нажатия для смены режима DualShock"
 
 #~ msgctxt "#30009"
 #~ msgid "Gun Input Mode"
@@ -2070,12 +2070,12 @@ msgstr ""
 #~ msgstr "Прицел ружья"
 
 #~ msgctxt "#30011"
-#~ msgid "Port 1: Gun Crosshair Color"
-#~ msgstr "Порт 1: цвет перекрестия прицела"
+#~ msgid "Gun Input Mode"
+#~ msgstr "Режим ввода светового пистолета"
 
 #~ msgctxt "#30012"
-#~ msgid "Port 2: Gun Crosshair Color"
-#~ msgstr "Порт 2: цвет перекрестия прицела"
+#~ msgid "Gun Cursor"
+#~ msgstr "Курсор пистолета"
 
 #~ msgctxt "#30013"
 #~ msgid "Mouse Sensitivity"
@@ -2086,16 +2086,16 @@ msgstr ""
 #~ msgstr "Отклик на вращение контроллера neGcon"
 
 #~ msgctxt "#30015"
-#~ msgid "neGcon Twist Deadzone"
-#~ msgstr "Мёртвая зона вращений для контроллера neGcon"
+#~ msgid "Mouse Sensitivity"
+#~ msgstr "Чувствительность мыши"
 
 #~ msgctxt "#30016"
-#~ msgid "Memory Card 0 Method (Restart Required)"
-#~ msgstr "Метод использования Memory Card 0 (требуется перезагрузка)"
+#~ msgid "neGcon Twist Response"
+#~ msgstr "Отклик скручивания neGcon"
 
 #~ msgctxt "#30017"
-#~ msgid "Enable Memory Card 1 (Restart Required)"
-#~ msgstr "Включить Memory Card 1 (требуется перезагрузка)"
+#~ msgid "neGcon Twist Deadzone"
+#~ msgstr "Мёртвая зона скручивания neGcon"
 
 #~ msgctxt "#30018"
 #~ msgid "Shared Memory Cards (Restart Required)"
@@ -2118,40 +2118,40 @@ msgstr ""
 #~ msgstr "Геометрические допуски для PGXP 2D"
 
 #~ msgctxt "#30023"
-#~ msgid "PGXP Primitive Culling"
-#~ msgstr "PGXP куллинг примитивов"
+#~ msgid "PGXP Operation Mode"
+#~ msgstr "Режим выполнения"
 
 #~ msgctxt "#30024"
-#~ msgid "Line-to-Quad Hack"
-#~ msgstr "Хак Line-to-Quad"
+#~ msgid "PGXP 2D Geometry Tolerance"
+#~ msgstr "Допуск для 2D-объектов"
 
 #~ msgctxt "#30025"
-#~ msgid "Widescreen Mode Hack"
-#~ msgstr "Хак \"Широкоэкранный режим\""
+#~ msgid "PGXP Primitive Culling"
+#~ msgstr "Отбраковка примитивов"
 
 #~ msgctxt "#30026"
-#~ msgid "Widescreen Mode Hack Aspect Ratio"
-#~ msgstr "Соотношение сторон для хака \"Широкоэкранный режим\""
+#~ msgid "Line-to-Quad Hack"
+#~ msgstr "Хак линия-в-четырёхугольник"
 
 #~ msgctxt "#30027"
-#~ msgid "CPU Frequency Scaling (Overclock)"
-#~ msgstr "CPU тактовая частота (разгон)"
+#~ msgid "Widescreen Mode Hack"
+#~ msgstr "Широкоэкранный хак"
 
 #~ msgctxt "#30028"
-#~ msgid "GTE Overclock"
-#~ msgstr "GTE разгон"
+#~ msgid "Widescreen Mode Hack Aspect Ratio"
+#~ msgstr "Пропорции широкоэкранного хака"
 
 #~ msgctxt "#30029"
-#~ msgid "Skip BIOS"
-#~ msgstr "Пропустить BIOS"
+#~ msgid "CPU Frequency Scaling (Overclock)"
+#~ msgstr "Масштабирование частоты CPU (разгон)"
 
 #~ msgctxt "#30030"
-#~ msgid "Override BIOS (Restart Required)"
-#~ msgstr "Переопределить BIOS (требуется перезагрузка)"
+#~ msgid "GTE Overclock"
+#~ msgstr "Разгон GTE"
 
 #~ msgctxt "#30031"
-#~ msgid "CPU Dynarec"
-#~ msgstr "CPU Dynarec"
+#~ msgid "Skip BIOS"
+#~ msgstr "Пропускать BIOS"
 
 #~ msgctxt "#30032"
 #~ msgid "Dynarec Code Invalidation"
@@ -2162,57 +2162,57 @@ msgstr ""
 #~ msgstr "Обрезка вылетов развёртки"
 
 #~ msgctxt "#30033"
-#~ msgid "Dynarec DMA/GPU Event Cycles"
-#~ msgstr "Dynarec: циклы события DMA/GPU"
+#~ msgid "CPU Dynarec"
+#~ msgstr "Динам. рекомпилятор CPU"
 
 #~ msgctxt "#30034"
-#~ msgid "Core-Reported FPS Timing"
-#~ msgstr "Тайминг FPS на основе данных ядра"
+#~ msgid "Dynarec Code Invalidation"
+#~ msgstr "Инвалидация кода dynarec"
 
 #~ msgctxt "#30035"
-#~ msgid "PAL (European) Video Timing Override"
-#~ msgstr "Изменение тайминга видео на PAL (Европа)"
+#~ msgid "Dynarec DMA/GPU/MDEC/Timer Event Cycles"
+#~ msgstr "Циклы событий DMA/MDEC/GPU в dynarec"
 
 #~ msgctxt "#30036"
-#~ msgid "Crop Overscan"
-#~ msgstr "Обрезка вылетов развёртки"
+#~ msgid "Dynarec SPU Samples"
+#~ msgstr "Сэмплы SPU в dynarec"
 
 #~ msgctxt "#30037"
-#~ msgid "Additional Cropping"
-#~ msgstr "Дополнительная обрезка"
+#~ msgid "Core-Reported FPS Timing"
+#~ msgstr "Тайминг частоты кадров ядра"
 
 #~ msgctxt "#30038"
 #~ msgid "Offset Cropped Image"
 #~ msgstr "Смещение обрезанного изображения"
 
 #~ msgctxt "#30039"
-#~ msgid "GPU Rasterizer Overclock"
-#~ msgstr "Разгон растеризатора ГП"
+#~ msgid "Crop Overscan"
+#~ msgstr "Кадрирование вылетов развёртки"
 
 #~ msgctxt "#30040"
-#~ msgid "Core Aspect Ratio"
-#~ msgstr "Базовое соотношение сторон"
+#~ msgid "Additional Cropping"
+#~ msgstr "Добавочное кадрирование"
 
 #~ msgctxt "#30041"
-#~ msgid "Initial Scan Line - NTSC"
-#~ msgstr "Начальная строка развёртки — NTSC"
+#~ msgid "Offset Cropped Image"
+#~ msgstr "Сдвиг изображения после обрезки"
 
 #~ msgctxt "#30042"
-#~ msgid "Last Scan Line - NTSC"
-#~ msgstr "Последняя строка развёртки — NTSC"
+#~ msgid "GPU Rasterizer Overclock"
+#~ msgstr "Разгон GPU-растеризатора"
 
 #~ msgctxt "#30043"
-#~ msgid "Initial Scan Line - PAL"
-#~ msgstr "Начальная строка развёртки — PAL"
+#~ msgid "Core Aspect Ratio"
+#~ msgstr "Соотношение сторон ядра"
 
 #~ msgctxt "#30044"
-#~ msgid "Last Scan Line - PAL"
-#~ msgstr "Последняя строка развёртки — PAL"
+#~ msgid "Initial Scan Line - NTSC"
+#~ msgstr "Начальная строка развёртки - NTSC"
 
 #~ msgctxt "#30045"
-#~ msgid "CD Access Method (Restart Required)"
-#~ msgstr "Способ доступа к CD (требуется перезагрузка)"
+#~ msgid "Last Scan Line - NTSC"
+#~ msgstr "Последняя строка развёртки - NTSC"
 
 #~ msgctxt "#30046"
-#~ msgid "CD Loading Speed"
-#~ msgstr "Скорость загрузки CD"
+#~ msgid "Initial Scan Line - PAL"
+#~ msgstr "Начальная строка развёртки - PAL"

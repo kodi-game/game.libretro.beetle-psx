@@ -27,215 +27,215 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Internal GPU Resolution"
-msgstr ""
+msgstr "내부 GPU 해상도"
 
 msgctxt "#30002"
 msgid "Dithering Pattern"
-msgstr ""
+msgstr "디더링 패턴"
 
 msgctxt "#30004"
 msgid "Display Internal FPS"
-msgstr ""
+msgstr "내부 FPS 표시"
 
 msgctxt "#30005"
 msgid "Analog Self-Calibration"
-msgstr ""
+msgstr "아날로그 자가 교정"
 
 msgctxt "#30007"
 msgid "DualShock Analog Mode Combo"
-msgstr ""
+msgstr "DualShock 아날로그 모드 버튼 조합"
 
 msgctxt "#30008"
 msgid "DualShock Analog Mode Combo Hold Delay"
-msgstr ""
+msgstr "DualShock 아날로그 모드 버튼 조합 홀드 지연"
 
 msgctxt "#30011"
 msgid "Gun Input Mode"
-msgstr ""
+msgstr "건 입력 모드"
 
 msgctxt "#30012"
 msgid "Gun Cursor"
-msgstr ""
+msgstr "건 커서"
 
 msgctxt "#30015"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "마우스 감도"
 
 msgctxt "#30016"
 msgid "neGcon Twist Response"
-msgstr ""
+msgstr "neGcon 뒤틀기 감도"
 
 msgctxt "#30017"
 msgid "neGcon Twist Deadzone"
-msgstr ""
+msgstr "neGcon 뒤틀기 데드존"
 
 msgctxt "#30023"
 msgid "PGXP Operation Mode"
-msgstr ""
+msgstr "PGXP 작동 모드"
 
 msgctxt "#30024"
 msgid "PGXP 2D Geometry Tolerance"
-msgstr ""
+msgstr "PGXP 2D 기하 허용오차"
 
 msgctxt "#30025"
 msgid "PGXP Primitive Culling"
-msgstr ""
+msgstr "PGXP 프리미티브 컬링"
 
 msgctxt "#30026"
 msgid "Line-to-Quad Hack"
-msgstr ""
+msgstr "Line-to-Quad 핵"
 
 msgctxt "#30027"
 msgid "Widescreen Mode Hack"
-msgstr ""
+msgstr "와이드스크린 모드 핵"
 
 msgctxt "#30028"
 msgid "Widescreen Mode Hack Aspect Ratio"
-msgstr ""
+msgstr "와이드스크린 모드 핵 화면비"
 
 msgctxt "#30029"
 msgid "CPU Frequency Scaling (Overclock)"
-msgstr ""
+msgstr "CPU 속도 스케일링 (오버클럭)"
 
 msgctxt "#30030"
 msgid "GTE Overclock"
-msgstr ""
+msgstr "GTE 오버클럭"
 
 msgctxt "#30031"
 msgid "Skip BIOS"
-msgstr ""
+msgstr "BIOS 건너뛰기"
 
 msgctxt "#30033"
 msgid "CPU Dynarec"
-msgstr ""
+msgstr "CPU 동적 리컴파일러"
 
 msgctxt "#30034"
 msgid "Dynarec Code Invalidation"
-msgstr ""
+msgstr "동적 리컴파일러 코드 무효화"
 
 msgctxt "#30035"
 msgid "Dynarec DMA/GPU/MDEC/Timer Event Cycles"
-msgstr ""
+msgstr "동적 리컴파일러 DMA/GPU/MDEC/타이머 이벤트 주기"
 
 msgctxt "#30036"
 msgid "Dynarec SPU Samples"
-msgstr ""
+msgstr "동적 리컴파일러 SPU 샘플"
 
 msgctxt "#30037"
 msgid "Core-Reported FPS Timing"
-msgstr ""
+msgstr "코어 보고 FPS 타이밍"
 
 msgctxt "#30039"
 msgid "Crop Overscan"
-msgstr ""
+msgstr "오버스캔 잘라내기"
 
 msgctxt "#30040"
 msgid "Additional Cropping"
-msgstr ""
+msgstr "추가 잘라내기"
 
 msgctxt "#30041"
 msgid "Offset Cropped Image"
-msgstr ""
+msgstr "잘라낸 이미지 위치 조정"
 
 msgctxt "#30042"
 msgid "GPU Rasterizer Overclock"
-msgstr ""
+msgstr "GPU 래스터라이저 오버클럭"
 
 msgctxt "#30043"
 msgid "Core Aspect Ratio"
-msgstr ""
+msgstr "코어 화면비"
 
 msgctxt "#30044"
 msgid "Initial Scan Line - NTSC"
-msgstr ""
+msgstr "첫 스캔라인 - NTSC"
 
 msgctxt "#30045"
 msgid "Last Scan Line - NTSC"
-msgstr ""
+msgstr "마지막 스캔라인 - NTSC"
 
 msgctxt "#30046"
 msgid "Initial Scan Line - PAL"
-msgstr ""
+msgstr "첫 스캔라인 - PAL"
 
 msgctxt "#30047"
 msgid "Last Scan Line - PAL"
-msgstr ""
+msgstr "마지막 스캔라인 - PAL"
 
 msgctxt "#30049"
 msgid "CD Loading Speed"
-msgstr ""
+msgstr "CD 로딩 속도"
 
 msgctxt "#30050"
 msgid "DualShock Analog Mode Toggle"
-msgstr ""
+msgstr "DualShock 아날로그 모드 토글"
 
 msgctxt "#30051"
 msgid "Display OSD Messages"
-msgstr ""
+msgstr "온스크린 알림으로 메시지 표시"
 
 msgctxt "#30052"
 msgid "Deinterlace Method"
-msgstr ""
+msgstr "디인터레이스 방식"
 
 msgctxt "#30053"
 msgid "CD Access Method"
-msgstr ""
+msgstr "CD 액세스 방식"
 
 msgctxt "#30054"
 msgid "Override BIOS"
-msgstr ""
+msgstr "BIOS 오버라이드"
 
 msgctxt "#30055"
 msgid "Multitap on Port 1"
-msgstr ""
+msgstr "1번 포트에서 멀티탭 사용"
 
 msgctxt "#30056"
 msgid "Multitap on Port 2"
-msgstr ""
+msgstr "2번 포트에서 멀티탭 사용"
 
 msgctxt "#30057"
 msgid "Gun Crosshair Color: Port 1"
-msgstr ""
+msgstr "건 십자선 색: 포트 1"
 
 msgctxt "#30058"
 msgid "Gun Crosshair Color: Port 2"
-msgstr ""
+msgstr "건 십자선 색: 포트 2"
 
 msgctxt "#30059"
 msgid "Memory Card Method"
-msgstr ""
+msgstr "메모리 카드 방식"
 
 msgctxt "#30060"
 msgid "Memory Card Slot 2"
-msgstr ""
+msgstr "메모리 카드 슬롯 2"
 
 msgctxt "#30061"
 msgid "Shared Memory Cards"
-msgstr ""
+msgstr "메모리 카드 공유"
 
 msgctxt "#30062"
 msgid "Memory Card Slot 1 Index"
-msgstr ""
+msgstr "메모리 카드 슬롯 1 인덱스"
 
 msgctxt "#30063"
 msgid "Memory Card Slot 2 Index"
-msgstr ""
+msgstr "메모리 카드 슬롯 2 인덱스"
 
 msgctxt "#30064"
 msgid "Frame Duping"
-msgstr ""
+msgstr "프레임 반복"
 
 msgctxt "#30065"
 msgid "PAL Video Timing Override"
-msgstr ""
+msgstr "PAL 비디오 타이밍 오버라이드"
 
 msgctxt "#30066"
 msgid "System Region"
-msgstr ""
+msgstr "시스템 지역"
 
 msgctxt "#30067"
 msgid "PGXP Perspective Correct Texturing"
-msgstr ""
+msgstr "PGXP 원근 교정 텍스쳐링"
 
 msgctxt "#30068"
 msgid "SPU Silent Voice Optimization"
@@ -251,63 +251,63 @@ msgstr ""
 
 msgctxt "#30071"
 msgid "System"
-msgstr ""
+msgstr "시스템"
 
 msgctxt "#30072"
 msgid "Change system and overclocking options."
-msgstr ""
+msgstr "시스템 및 오버클럭 옵션을 변경합니다."
 
 msgctxt "#30073"
 msgid "Overclock (or underclock) the emulated PSX CPU. Overclocking can eliminate slowdown and improve frame rates in certain games at the expense of increased performance requirements. Note that some games have an internal frame rate limiter and may not benefit from overclocking. May cause certain effects to animate faster than intended in some titles when overclocked."
-msgstr ""
+msgstr "에뮬레이트되는 PSX CPU를 오버클럭(언더클럭)합니다. 오버클러킹은 높은 사양을 요구하는 대신 일부 게임에서 느려짐 증상을 없애고 프레임레이트를 개선할 수 있습니다. 일부 게임은 프레임레이트 리미터가 내장되어 있으므로 오버클러킹의 이득이 없을 수도 있습니다. 일부 타이틀에서 오버클럭을 할 경우 일부 효과가 의도된 것보다 빠르게 재생될 수 있습니다."
 
 msgctxt "#30074"
 msgid "100% (Native)"
-msgstr ""
+msgstr "100% (네이티브)"
 
 msgctxt "#30075"
 msgid "Enable overclocking of the 2D rasterizer contained within the emulated PSX's GPU. Does not improve 3D rendering, and in general has little effect."
-msgstr ""
+msgstr "에뮬레이트되는 PSX GPU의 2D 래스터라이저를 오버클럭합니다. 3D 렌더링은 개선되지 않으며, 전반적으로 큰 효과는 없습니다."
 
 msgctxt "#30076"
 msgid "1x (Native)"
-msgstr ""
+msgstr "1x (네이티브)"
 
 msgctxt "#30077"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
-msgstr ""
+msgstr "에뮬레이트되는 GTE(3D 그래픽 보조 처리장치) 연산을 모두 1사이클 시간 내에 처리합니다. GTE를 많이 사용하는 게임에서 프레임레이트와 프레임 시간 안정성을 크게 향상시킬 수 있습니다."
 
 msgctxt "#30078"
 msgid "'Synchronous' mimics original hardware. 'Asynchronous' can reduce stuttering on devices with slow storage. 'Pre-Cache' loads the entire disk image into memory when launching content, which may improve in-game loading times at the cost of an initial delay at startup. 'Pre-Cache' may cause issues on systems with low RAM, and will fall back to 'Synchronous' for physical media. Restart required."
-msgstr ""
+msgstr "'동기'는 원본 하드웨어의 동작을 흉내냅니다. '비동기'는 저장소가 느린 장치에서 버벅임을 줄일 수 있습니다. '미리 캐싱'은 컨텐츠를 실행할 때 전체 디스크 이미지를 메모리에 불러옵니다. 첫 시작 시 딜레이가 생기지만 인게임 로딩 시간이 줄어듭니다. '미리 캐싱'은 RAM이 적은 장치에서 문제를 일으킬 수 있으며, 물리적 미디어를 사용할 경우 '동기'가 사용됩니다."
 
 msgctxt "#30079"
 msgid "Synchronous"
-msgstr ""
+msgstr "동기"
 
 msgctxt "#30080"
 msgid "Asynchronous"
-msgstr ""
+msgstr "비동기"
 
 msgctxt "#30081"
 msgid "Pre-Cache"
-msgstr ""
+msgstr "미리 캐싱"
 
 msgctxt "#30082"
 msgid "Values higher than '2x (Native)' can greatly reduce in-game loading times, but may introduce timing errors. Some games may not function properly above a certain value."
-msgstr ""
+msgstr "'2배 (네이티브)'를 초과하는 값은 인게임 로딩 시간을 크게 줄일 수 있지만, 타이밍 오류를 유발하기도 합니다. 일부 게임은 일정 속도 이상에서 올바르게 작동하지 않을 수 있습니다."
 
 msgctxt "#30083"
 msgid "2x (Native)"
-msgstr ""
+msgstr "2배 (Native)"
 
 msgctxt "#30084"
 msgid "Skip the PlayStation BIOS boot animation normally displayed when loading content. Note: Enabling this causes compatibility issues with a number of games (PAL copy protected games, Saga Frontier, etc.)."
-msgstr ""
+msgstr "컨텐츠를 불러올 때 표시되는 PlayStation BIOS 부트 애니메이션을 건너뜁니다. 주의: 이 옵션을 사용하면 일부 게임(PAL 복사 방지 게임, Saga Frontier 등)에서 호환성 문제가 발생합니다."
 
 msgctxt "#30085"
 msgid "Override the standard region specific BIOS with a region-free one if found. Restart required."
-msgstr ""
+msgstr "존재할 경우, 기존의 지역 제한 BIOS를 지역 제한이 없는 BIOS로 대체합니다. 재시작이 필요합니다."
 
 msgctxt "#30086"
 msgid "PSP PS1 BIOS"
@@ -323,63 +323,63 @@ msgstr ""
 
 msgctxt "#30089"
 msgid "Sets the fallback region used when content cannot be auto-detected (e.g. raw PS-X EXE files). Disc-based games still use the region embedded on the disc. Restart required."
-msgstr ""
+msgstr "콘텐츠의 지역을 자동으로 감지할 수 없을 경우(예: raw PS-X EXE 파일) 사용할 기본 지역을 설정합니다. 디스크를 사용하는 게임들은 디스크에 저장된 지역 정보를 사용합니다. 재시작이 필요합니다."
 
 msgctxt "#30090"
 msgid "Auto"
-msgstr ""
+msgstr "자동"
 
 msgctxt "#30091"
 msgid "NTSC-J (Japan)"
-msgstr ""
+msgstr "NTSC-J (일본)"
 
 msgctxt "#30092"
 msgid "NTSC-U (North America)"
-msgstr ""
+msgstr "NTSC-U (북미)"
 
 msgctxt "#30093"
 msgid "PAL (Europe)"
-msgstr ""
+msgstr "PAL (유럽)"
 
 msgctxt "#30094"
 msgid "Video"
-msgstr ""
+msgstr "비디오"
 
 msgctxt "#30095"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr ""
+msgstr "화면비, 잘라내기, 비디오 필터, 프레임 스킵 등의 설정을 변경합니다."
 
 msgctxt "#30096"
 msgid "Resolutions higher than '1x (Native)' improve fidelity of 3D models at the expense of increased performance requirements. 2D elements are generally unaffected by this setting."
-msgstr ""
+msgstr "'1x (네이티브)'보다 높은 값으로 설정할 경우 3D 모델의 품질이 개선되지만 요구되는 성능이 높아집니다. 2D 요소들은 일반적으로 이 설정에 아무런 영향을 받지 않습니다."
 
 msgctxt "#30097"
 msgid "'1x (Native)' emulates native low resolution dithering used by original hardware to smooth out color banding artifacts visible at native color depth. 'Internal Resolution' scales dithering granularity to the configured internal resolution for cleaner results. Recommended to be disabled when running at 32 bpp color depth. Note: On Vulkan, enabling this will force downsampling to native color depth, while disabling will automatically enable output at higher color depth."
-msgstr ""
+msgstr "'1x (네이티브)'는 원본 하드웨어의 저해상도 디더링을 에뮬레이트하여 네이티브 색 깊이에서 나타나는 색 밴딩 현상을 자연스럽게 숨깁니다. '내부 해상도'는 디더링을 내장 해상도에 맞춰 설정하여 깔끔한 결과물을 제공합니다. 32 bpp 색 깊이를 사용할 때는 비활성화할 것을 권장합니다. 주의: Vulcan에서 이 옵션을 사용하면 색 깊이가 네이티브 수치로 강제 다운샘플링되며 사용하지 않으면 자동으로 높은 색 깊이를 사용합니다."
 
 msgctxt "#30098"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "내부 해상도"
 
 msgctxt "#30099"
 msgid "Automatic Toggling allows the core to switch between progressive and interlaced rates."
-msgstr ""
+msgstr "자동 전환을 활성화하면 코어가 주사 방식을 프로그레시브 또는 인터레이스로 전환할 수 있게 됩니다."
 
 msgctxt "#30100"
 msgid "Automatic Toggling"
-msgstr ""
+msgstr "자동 전환"
 
 msgctxt "#30101"
 msgid "Force Progressive Rate"
-msgstr ""
+msgstr "프로그레시브 주사 강제"
 
 msgctxt "#30102"
 msgid "Force Interlaced Rate"
-msgstr ""
+msgstr "인터레이스 주사율 강제"
 
 msgctxt "#30103"
 msgid "'Weave' shows both fields on the same frame for full high resolution still image, 'Bob' sacrificies resolution clarity for motion clarity. 'Bob (Offset)' is Bob with the current field doubled into the full surface height with a one-line offset between fields, preserving the libretro output resolution while keeping Bob-style smooth motion. 'FastMAD (Motion Adaptive)' weaves still pixels and vertically-interpolates moving pixels per-pixel, full output height with neither weave's comb on motion nor bob's halved resolution. 'Off' makes the software renderer match the hardware (Vulkan/OpenGL) renderer behaviour by rasterising to all VRAM lines every frame and deferring scanout to the end of the frame, eliminating comb-on-motion in interlaced games. Note: programs that DMA to VRAM during scanout (some demos using >512-line PAL framebuffer-wrap tricks), or that update moving sprites via CPU-to-VRAM image transfers tied to the displayed field (e.g. Pro Pinball), may show stale rows or sprite ghosting under 'Off'; use 'Weave', 'Bob', 'Bob (Offset)', or 'FastMAD' for those."
-msgstr ""
+msgstr "'Weave'는 두 필드를 한 장의 고해상도 프레임에 모두 표시합니다. 'Bob'은 화면 선명도를 희생하여 부드러운 영상을 만듭니다. 'Bob (오프셋)'은 Bob과 동일하게 필드의 높이를 2배로 늘려 표시하면서 두 필드 사이에 한 줄 높이의 오프셋을 추가하여 libretro 출력 해상도를 유지하면서 Bob 스타일의 부드러운 영상을 유지합니다. 'FastMAD (모션 적응)'는 한 장의 고해상도 프레임에 멈춰있는 픽셀은 그대로 표시하고 움직이는 픽셀은 세로로 보간하여 표시함으로서, Weave의 빗살무늬 효과와 Bob의 낮은 해상도를 모두 해결한 전체 크기의 영상을 표시합니다. 비활성화할 경우 소프트웨어 렌더러는 하드웨어 렌더러(Vulkan/OpenGL)의 행동을 모방하여 매 프레임마다 모든 VRAM 라인을 래스터화하고, 스캔아웃을 프레임 끝까지 연기하여 인터레이스 게임에서 빗살무늬 효과를 제거합니다. 주의: 스캔아웃 도중에 VRAM으로 DMA를 수행하는 프로그램(일부 데모는 PAL 프레임버퍼의 특징을 악용하여 512라인 아래를 사용하기도 합니다), 또는 CPU-to-VRAM 이미지 전송을 통해 필드에 맞는 스프라이트를 표시하는 프로그램(예: Pro Pinball) 등은 이 옵션이 비활성화될 경우 갱신되지 않은 라인이나 스프라이트 고스팅 등의 증상이 나타나기도 합니다. 그러한 경우 'Weave', 'Bob', 'Bob (오프셋)', 'FastMAD' 중 하나를 사용하십시오."
 
 msgctxt "#30104"
 msgid "Weave"
@@ -391,11 +391,11 @@ msgstr ""
 
 msgctxt "#30106"
 msgid "Bob (Offset)"
-msgstr ""
+msgstr "Bob (오프셋)"
 
 msgctxt "#30107"
 msgid "FastMAD (Motion Adaptive)"
-msgstr ""
+msgstr "FastMAD (모션 적응)"
 
 msgctxt "#30108"
 msgid "Off"
@@ -403,31 +403,31 @@ msgstr ""
 
 msgctxt "#30109"
 msgid "Repeat the previous frame if the core has nothing new to display."
-msgstr ""
+msgstr "새로 표시할 내용이 없을 경우 이전 프레임을 한 번 더 표시합니다."
 
 msgctxt "#30110"
 msgid "Due to different standards, PAL games often appear slowed down compared to the American or Japanese NTSC releases. This option can be used to override PAL timings in order to attempt to run these games with the NTSC framerate."
-msgstr ""
+msgstr "서로 다른 표준으로 인해 PAL 게임들은 미국 또는 일본의 NTSC 게임들에 비해 다소 느리게 구동되기도 합니다. 이 옵션은 PAL 타이밍을 오버라이드하여 NTSC 게임과 동일한 프레임레이트로 구동되게 합니다."
 
 msgctxt "#30111"
 msgid "This setting is ignored when the Widescreen Mode Hack or Display Full VRAM options are enabled."
-msgstr ""
+msgstr "이 설정은 와이드스크린 모드 핵 또는 전체 VRAM 표시 옵션이 활성화된 경우 무시됩니다."
 
 msgctxt "#30112"
 msgid "Corrected"
-msgstr ""
+msgstr "교정됨"
 
 msgctxt "#30113"
 msgid "Uncorrected"
-msgstr ""
+msgstr "교정 안 됨"
 
 msgctxt "#30114"
 msgid "Force 4:3"
-msgstr ""
+msgstr "강제 4:3"
 
 msgctxt "#30115"
 msgid "Force NTSC"
-msgstr ""
+msgstr "강제 NTSC"
 
 msgctxt "#30116"
 msgid "Force 16:9"
@@ -435,7 +435,7 @@ msgstr ""
 
 msgctxt "#30117"
 msgid "Full native image or no borders."
-msgstr ""
+msgstr "네이티브 전체를 표시할 지 또는 테두리를 제외하고 표시할 지 선택합니다."
 
 msgctxt "#30118"
 msgid "Disabled"
@@ -443,15 +443,15 @@ msgstr ""
 
 msgctxt "#30119"
 msgid "Horizontal"
-msgstr ""
+msgstr "가로"
 
 msgctxt "#30120"
 msgid "Horizontal + Vertical"
-msgstr ""
+msgstr "가로 + 세로"
 
 msgctxt "#30121"
 msgid "Reduce the width of the cropped image by the specified number of pixels."
-msgstr ""
+msgstr "지정된 수의 픽셀만큼 이미지의 가로 너비를 잘라냅니다."
 
 msgctxt "#30122"
 msgid "0"
@@ -459,35 +459,35 @@ msgstr ""
 
 msgctxt "#30123"
 msgid "Offset horizontally to the right (positive) or left (negative) by the specified number of pixels. May be used to correct alignment issues. Only supported by the software renderer."
-msgstr ""
+msgstr "화면의 가로 위치를 지정된 픽셀 수만큼 오른쪽(양수) 또는 왼쪽(음수)으로 이동합니다. 정렬 문제를 해결할 수 있습니다. 소프트웨어 렌더러에서만 지원됩니다."
 
 msgctxt "#30124"
 msgid "First displayed scan line when running NTSC content. Values greater than zero will reduce the height of output images by cropping pixels from the topmost edge. May be used to counteract letterboxing."
-msgstr ""
+msgstr "NTSC 컨텐츠를 실행할 때 표시할 첫 번째 스캔라인입니다. 0보다 큰 값으로 설정할 경우 출력되는 이미지를 위에서부터 잘라내 높이를 줄입니다. 레터박스를 없애는 데 사용될 수 있습니다."
 
 msgctxt "#30125"
 msgid "0 (Default)"
-msgstr ""
+msgstr "0 (기본값)"
 
 msgctxt "#30126"
 msgid "Last displayed scan line when running NTSC content. Values less than 239 will reduce the height of output images by cropping pixels from the bottommost edge. May be used to counteract letterboxing."
-msgstr ""
+msgstr "NTSC 컨텐츠를 실행할 때 표시할 마지막 스캔라인입니다. 239보다 작은 값으로 설정할 경우 출력되는 이미지를 아래에서부터 잘라내 높이를 줄입니다. 레터박스를 없애는 데 사용될 수 있습니다."
 
 msgctxt "#30127"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239 (기본)"
 
 msgctxt "#30128"
 msgid "First displayed scan line when running PAL content. Values greater than zero will reduce the height of output images by cropping pixels from the topmost edge. May be used to counteract letterboxing."
-msgstr ""
+msgstr "PAL 컨텐츠를 실행할 때 표시할 첫 번째 스캔라인입니다. 0보다 큰 값으로 설정할 경우 출력되는 이미지를 위에서부터 잘라내 높이를 줄입니다. 레터박스를 없애는 데 사용될 수 있습니다."
 
 msgctxt "#30129"
 msgid "Last displayed scan line when running PAL content. Values below 287 will reduce the height of output images by cropping pixels from the bottommost edge. May be used to counteract letterboxing."
-msgstr ""
+msgstr "PAL 컨텐츠를 실행할 때 표시할 마지막 스캔라인입니다. 287보다 작은 값으로 설정할 경우 출력되는 이미지를 아래에서부터 잘라내 높이를 줄입니다. 레터박스를 없애는 데 사용될 수 있습니다."
 
 msgctxt "#30130"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287 (기본)"
 
 msgctxt "#30131"
 msgid "PGXP (Precision Geometry Transform Pipeline)"
@@ -495,83 +495,83 @@ msgstr ""
 
 msgctxt "#30132"
 msgid "These options control enhancements which can improve graphics compared to the original console. PGXP can get rid of warping textures and Z-fighting issues."
-msgstr ""
+msgstr "그래픽을 원본 하드웨어보다 더 좋게 개선하는 설정을 조정합니다. PGXP는 텍스쳐 뒤틀림과 Z-파이팅 문제를 해결할 수 있습니다."
 
 msgctxt "#30133"
 msgid "Render 3D objects with subpixel precision, minimizing distortion and jitter of 3D objects seen on original hardware due to the usage of fixed point vertex coordinates. 'Memory Only' mode has minimal compatibility issues and is recommended for general use. 'Memory + CPU (Buggy)' mode can reduce jitter even further but has high performance requirements and may cause various geometry errors."
-msgstr ""
+msgstr "3D 개체를 서브픽셀 단위 정확도로 렌더링합니다. 이는 원본 하드웨어가 버텍스 좌표에 고정소수점을 사용하여 발생하는 3D 개체의 뒤틀림과 떨림 현상을 최소화합니다. '메모리만'은 호환성 문제가 적으며 일반적인 사용에 적합합니다. '메모리 + CPU (불안정)'은 떨림 현상을 더 많이 줄일 수 있지만 성능 요구사항이 높으며 다양한 그래픽 오류가 발생할 수 있습니다."
 
 msgctxt "#30134"
 msgid "Memory Only"
-msgstr ""
+msgstr "메모리만"
 
 msgctxt "#30135"
 msgid "Memory + CPU (Buggy)"
-msgstr ""
+msgstr "메모리 + CPU (불안정)"
 
 msgctxt "#30136"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
-msgstr ""
+msgstr "PGXP 작업에서 더 눈에 띄는 오류를 숨깁니다. 개체에 적절한 깊이 정보가 없는 경우 지정한 만큼의 PGXP 값이 오차로서 허용됩니다."
 
 msgctxt "#30137"
 msgid "Use PGXP's NCLIP implementation. Improves appearance by reducing holes in geometries with PGXP coordinates. Known to cause some games to lock up in various circumstances."
-msgstr ""
+msgstr "PGXP의 NCLIP 구현을 사용합니다. PGXP 좌표의 폴리곤에 나타나는 구멍을 줄여 외형을 개선합니다. 일부 게임이 다양한 상황에서 멈추는 부작용이 있습니다."
 
 msgctxt "#30138"
 msgid "Replace native PSX affine texture mapping with perspective correct texture mapping. Eliminates position-dependent distortion and warping of textures, resulting in properly aligned textures. This option is applied only when PGXP Operation Mode is enabled. Supported by the hardware renderers and the software renderer."
-msgstr ""
+msgstr "네이티브 PSX 아핀 텍스쳐 매핑을 원근 교정 텍스쳐 매핑으로 대체합니다. 위치 기반 왜곡 및 뒤틀림을 제거하여 텍스쳐가 올바르게 표시되게 합니다. 이 설정은 PGXP 작동 모드가 활성화되어 있어야 적용됩니다. 하드웨어 렌더러와 소프트웨어 렌더러에서 지원됩니다."
 
 msgctxt "#30139"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "온스크린 디스플레이"
 
 msgctxt "#30140"
 msgid "Change notifications being shown on-screen."
-msgstr ""
+msgstr "화면에 표시되는 OSD 알림을 설정합니다."
 
 msgctxt "#30141"
 msgid "Display the internal frame rate at which the emulated PlayStation system is rendering content. Note: Requires onscreen notifications to be enabled in the libretro frontend."
-msgstr ""
+msgstr "에뮬레이트된 PlayStation 시스템이 컨텐츠를 렌더링하는 내부 프레임 레이트를 표시합니다. 주의: libretro 프론트엔드에서 OSD 알림을 활성화해야 합니다."
 
 msgctxt "#30142"
 msgid "Display OSD messages generated by the core."
-msgstr ""
+msgstr "코어가 출력하는 메시지를 온스크린 알림으로 표시합니다."
 
 msgctxt "#30143"
 msgid "Input"
-msgstr ""
+msgstr "입력"
 
 msgctxt "#30144"
 msgid "Change light gun, mouse and neGcon settings."
-msgstr ""
+msgstr "라이트 건, 마우스, neGcon 등을 설정합니다."
 
 msgctxt "#30145"
 msgid "Enable dynamic calibration of analog inputs when the device is set to DualShock, Analog Controller, Analog Joystick, or neGcon. Maximum registered input values are monitored in real time and used to scale analog coordinates passed to the emulator. This should be used for games such as Mega Man Legends 2 that expect larger values than what modern controllers provide. For best results, analog sticks should be rotated at full extent to tune the calibration algorithm each time content is loaded."
-msgstr ""
+msgstr "입력 장치가 DualShock, 아날로그 컨트롤러, 아날로그 조이스틱, neGcon으로 설정된 경우, 아날로그 입력을 동적으로 교정합니다. 입력되는 최대 값을 실시간으로 확인하여 에뮬레이터에 조정된 아날로그 수치를 전달합니다. 이 설정은 Mega Man Legends 2처럼 현대의 컨트롤러들이 제공하는 값보다 더 큰 값을 기대하는 게임을 플레이할 때 사용되어야 합니다. 최선의 효과를 위해서는 컨텐츠를 불러올 때마다 아날로그 스틱들을 최대한 끝까지 밀고 한 바퀴 돌리는 동작을 수행하여 교정 알고리즘을 조율해야 합니다."
 
 msgctxt "#30146"
 msgid "When the input device type is DualShock, this option allows the emulated DualShock to be toggled between DIGITAL and ANALOG mode like original hardware. Mode can also be toggled by using the selected button combination."
-msgstr ""
+msgstr "입력 장치가 DualShock일 때, 에뮬레이트된 DualShock이 실제 하드웨어처럼 DIGITAL과 ANALOG 모드를 전환할 수 있게 합니다. 선택한 버튼 조합을 눌러 DIGITAL과 ANALOG 모드를 전환할 수 있습니다."
 
 msgctxt "#30147"
 msgid "Default-Analog"
-msgstr ""
+msgstr "기본-아날로그"
 
 msgctxt "#30148"
 msgid "The button combination that will be used to toggle between DIGITAL and ANALOG mode for the emulated DualShock."
-msgstr ""
+msgstr "에뮬레이트된 DualShock의 DIGITAL과 ANALOG 모드를 전환할 버튼 조합입니다."
 
 msgctxt "#30149"
 msgid "L1 + L2 + R1 + R2 + Start + Select"
-msgstr ""
+msgstr "L1 + L2 + R1 + R2 + 시작 + 선택"
 
 msgctxt "#30150"
 msgid "L1 + R1 + Select"
-msgstr ""
+msgstr "L1 + R1 + 선택"
 
 msgctxt "#30151"
 msgid "L1 + R1 + Start"
-msgstr ""
+msgstr "L1 + R1 + 시작"
 
 msgctxt "#30152"
 msgid "L1 + R1 + L3"
@@ -583,11 +583,11 @@ msgstr ""
 
 msgctxt "#30154"
 msgid "L2 + R2 + Select"
-msgstr ""
+msgstr "L2 + R2 + 선택"
 
 msgctxt "#30155"
 msgid "L2 + R2 + Start"
-msgstr ""
+msgstr "L2 + R2 + 시작"
 
 msgctxt "#30156"
 msgid "L2 + R2 + L3"
@@ -603,55 +603,55 @@ msgstr ""
 
 msgctxt "#30159"
 msgid "Hold time for the analog mode combo buttons."
-msgstr ""
+msgstr "아날로그 모드 버튼 조합을 누르고 있어야 할 시간입니다."
 
 msgctxt "#30160"
 msgid "0 Second Delay"
-msgstr ""
+msgstr "0 초 지연"
 
 msgctxt "#30161"
 msgid "1 Second Delay"
-msgstr ""
+msgstr "1 초 지연"
 
 msgctxt "#30162"
 msgid "2 Second Delay"
-msgstr ""
+msgstr "2 초 지연"
 
 msgctxt "#30163"
 msgid "3 Second Delay"
-msgstr ""
+msgstr "3 초 지연"
 
 msgctxt "#30164"
 msgid "4 Second Delay"
-msgstr ""
+msgstr "4 초 지연"
 
 msgctxt "#30165"
 msgid "5 Second Delay"
-msgstr ""
+msgstr "5 초 지연"
 
 msgctxt "#30166"
 msgid "Enable multitap functionality on port 1."
-msgstr ""
+msgstr "1번 포트에 멀티탭 기능을 활성화합니다."
 
 msgctxt "#30167"
 msgid "Enable multitap functionality on port 2."
-msgstr ""
+msgstr "2번 포트에 멀티탭 기능을 활성화합니다."
 
 msgctxt "#30168"
 msgid "Use mouse-controlled 'Light Gun' or 'Touchscreen' input when device type is set to 'Guncon/G-Con 45' or 'Justifier'."
-msgstr ""
+msgstr "입력 장치가 'Guncon/G-Con 45' 또는 'Justifier'로 설정되었을 때, 마우스로 조작되는 '라이트 건' 또는 '터치스크린' 입력을 사용합니다."
 
 msgctxt "#30169"
 msgid "Light Gun"
-msgstr ""
+msgstr "라이트 건"
 
 msgctxt "#30170"
 msgid "Touchscreen"
-msgstr ""
+msgstr "터치스크린"
 
 msgctxt "#30171"
 msgid "Draw a cursor on screen while using the 'Guncon/G-Con 45' and 'Justifier' input device types."
-msgstr ""
+msgstr "'Guncon/G-Con 45' 또는 'Justifier' 입력 장치를 사용할 때 화면에 커서를 표시합니다."
 
 msgctxt "#30172"
 msgid "disabled"
@@ -659,95 +659,95 @@ msgstr ""
 
 msgctxt "#30173"
 msgid "Cross"
-msgstr ""
+msgstr "십자"
 
 msgctxt "#30174"
 msgid "Dot"
-msgstr ""
+msgstr "점"
 
 msgctxt "#30175"
 msgid "Light gun crosshair color for port 1."
-msgstr ""
+msgstr "1번 포트 라이트 건의 십자선 색입니다."
 
 msgctxt "#30176"
 msgid "Red"
-msgstr ""
+msgstr "빨강"
 
 msgctxt "#30177"
 msgid "Blue"
-msgstr ""
+msgstr "파랑"
 
 msgctxt "#30178"
 msgid "Green"
-msgstr ""
+msgstr "초록"
 
 msgctxt "#30179"
 msgid "Orange"
-msgstr ""
+msgstr "오렌지"
 
 msgctxt "#30180"
 msgid "Yellow"
-msgstr ""
+msgstr "노랑"
 
 msgctxt "#30181"
 msgid "Cyan"
-msgstr ""
+msgstr "청록"
 
 msgctxt "#30182"
 msgid "Pink"
-msgstr ""
+msgstr "핑크"
 
 msgctxt "#30183"
 msgid "Purple"
-msgstr ""
+msgstr "보라"
 
 msgctxt "#30184"
 msgid "Black"
-msgstr ""
+msgstr "검정"
 
 msgctxt "#30185"
 msgid "White"
-msgstr ""
+msgstr "흰색"
 
 msgctxt "#30186"
 msgid "Light gun crosshair color for port 2."
-msgstr ""
+msgstr "2번 포트 라이트 건의 십자선 색입니다."
 
 msgctxt "#30187"
 msgid "Responsiveness of the 'Mouse' input device type."
-msgstr ""
+msgstr "'마우스' 형식 입력 장치의 반응 정도입니다."
 
 msgctxt "#30188"
 msgid "Left analog stick response type when simulating the 'twist' action of emulated 'neGcon' input devices. Analog stick displacement may be mapped to neGcon rotation angle either linearly, quadratically or cubically. 'Quadratic' allows for greater precision than 'Linear' when making small movements. 'Cubic' further increases small movement precision, but 'exaggerates' larger movements. Note: 'Linear' is only recommended when using racing wheel peripherals. Conventional controllers implement analog input in a manner fundamentally different from the neGcon 'twist' mechanism, such that linear mapping over-amplifies small movements, impairing fine control. In most cases, 'Quadratic' provides the closest approximation of real hardware."
-msgstr ""
+msgstr "RetroPad 왼쪽 아날로그 스틱으로 'neGcon' 입력 장치의 '뒤틀기' 입력을 흉내낼 때의 반응 형식입니다. 아날로그 스틱 입력은 neGcon 회전에 선형, 정방(제곱), 입방(세제곱)으로 매핑될 수 있습니다. '정방'은 작은 움직임을 '선형'보다 더 정확하게 입력할 수 있습니다. '입방'은 작은 움직임을 더욱 정확하게 감지하지만, 큰 움직임이 '과장'됩니다. 주의: '선형'은 레이싱 휠을 사용할 때만 권장합니다. 일반적인 컨트롤러의 아날로그 입력은 neGcon의 '비틀기' 입력과 전혀 다르게 설계되어 있으므로 선형 매핑은 작은 움직임을 과장하여 미세 조작을 힘들게 합니다. 일반적으로 '정방'이 실제 하드웨어와 가장 비슷한 느낌을 제공합니다."
 
 msgctxt "#30189"
 msgid "Linear"
-msgstr ""
+msgstr "선형"
 
 msgctxt "#30190"
 msgid "Quadratic"
-msgstr ""
+msgstr "정방"
 
 msgctxt "#30191"
 msgid "Cubic"
-msgstr ""
+msgstr "입방"
 
 msgctxt "#30192"
 msgid "Left analog stick deadzone when simulating the 'twist' action of emulated 'neGcon' input devices. Used to eliminate controller drift. Note: Most neGcon-compatible titles provide in-game options for setting a 'twist' deadzone value. To avoid loss of precision, the in-game deadzone should *always* be set to zero. Any required adjustments should *only* be applied via this core option. This is particularly important when 'neGcon Twist Response' is set to 'Quadratic' or 'Cubic'."
-msgstr ""
+msgstr "RetroPad 왼쪽 아날로그 스틱으로 'neGcon' 입력 장치의 '뒤틀기' 입력을 흉내낼 때의 데드존입니다. 컨트롤러 쏠림 현장을 방지하기 위해 사용됩니다. 주의: 대부분의 neGcon 호환 타이틀은 게임 내에서 '뒤틀기' 데드존 값을 설정하는 것을 지원합니다. 가장 정확한 입력을 위해서는 게임 내 데드존 설정이 *반드시* 0으로 설정되어야 하며, 관련 조정은 *반드시* 이 코어 설정을 통해서만 이루어져야 합니다. 특히 'neGcon 뒤틀기 감도'가 '정방' 또는 '입방'일 경우에는 이렇게 하는 것이 중요합니다."
 
 msgctxt "#30193"
 msgid "Memory Card"
-msgstr ""
+msgstr "메모리 카드"
 
 msgctxt "#30194"
 msgid "Change virtual memory card related settings."
-msgstr ""
+msgstr "가상 메모리 카드 관련 설정을 변경합니다."
 
 msgctxt "#30195"
 msgid "Save data format used for the left memory card slot. 'Mednafen' may be used for compatibility with the stand-alone version of Mednafen. When used with Beetle PSX, Libretro (.srm) and Mednafen (.mcr) saves have internally identical formats and can be converted between one another via renaming. Restart required."
-msgstr ""
+msgstr "왼쪽 메모리 카드 슬롯의 저장 데이터 포맷입니다. 'Mednafen'은 단독 버전의 Mednafen과의 호환성을 위해 사용될 수 있습니다. Beetle PSX에서 사용할 경우, Libretro(.srm)와 Mednafen(.mcr) 저장 파일은 내부적으로 동일한 형식이며 파일 이름을 바꾸는 것으로 상호 변환할 수 있습니다."
 
 msgctxt "#30196"
 msgid "Libretro"
@@ -759,51 +759,51 @@ msgstr ""
 
 msgctxt "#30198"
 msgid "Emulate a second memory card in the right memory card slot. Note: Some games require this option to be disabled for correct operation (e.g. Codename Tenka). Note: Memory Card Slot 2 uses the Mednafen (.mcr) save format. Restart required."
-msgstr ""
+msgstr "오른쪽 슬롯에 두 번째 메모리 카드를 에뮬레이트합니다. 주의: 일부 게임(예: Codename Tenka)은 이 옵션을 비활성화해야 정상 작동합니다. 주의: 메모리 카드 슬롯 2는 Mednafen(.mcr) 저장 포맷을 사용합니다. 재시작이 필요합니다."
 
 msgctxt "#30199"
 msgid "Use shared memory cards instead of separate cards for each content. Note: if 'Memory Card Method' is set to 'Libretro', only memory card slot 2 will be affected. Restart required."
-msgstr ""
+msgstr "컨텐츠마다 개별 메모리 카드가 아닌, 모든 컨텐츠가 공유하는 메모리 카드를 사용합니다. 주의: 만약 '메모리 카드 방식'이 'Libretro'로 설정된 경우, 오직 메모리 카드 슬롯 2만 이 설정의 영향을 받습니다. 재시작이 필요합니다."
 
 msgctxt "#30200"
 msgid "Memory card currently loaded in the left slot. This option will only work if Memory Card Method is set to Mednafen."
-msgstr ""
+msgstr "왼쪽 슬롯에 삽입될 메모리 카드입니다. 이 옵션은 메모리 카드 방식이 Mednafen으로 설정되어 있어야 작동합니다."
 
 msgctxt "#30201"
 msgid "Memory card currently loaded in the right slot. This option will only work if Memory Card Slot 2 is enabled."
-msgstr ""
+msgstr "오른쪽 슬롯에 삽입될 메모리 카드입니다. 이 옵션은 메모리 카드 슬롯 2가 활성화되어 있어야 작동합니다."
 
 msgctxt "#30202"
 msgid "1 (Default)"
-msgstr ""
+msgstr "1 (기본값)"
 
 msgctxt "#30203"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "에뮬레이션 핵"
 
 msgctxt "#30204"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
-msgstr ""
+msgstr "성능과 호환성에 영향을 끼치는 에뮬레이션 정확도 설정을 변경합니다."
 
 msgctxt "#30205"
 msgid "Some games (e.g. Doom, Hexen, Soul Blade, etc.) draw horizontal lines by stretching single-pixel-high triangles across the screen, which are rasterized as a row of pixels on original hardware. This hack detects these small triangles and converts them to quads as required, allowing them to be displayed properly on the hardware renderers and at upscaled internal resolutions. 'Aggressive' is required for some titles (e.g. Dark Forces, Duke Nukem) but may otherwise introduce graphical glitches. Leave at 'Default' if unsure."
-msgstr ""
+msgstr "일부 게임(예: Doom, Hexen, Soul Blade 등)은 수평선을 원본 하드웨어에서 한 줄의 픽셀로 래스터화되는 1픽셀 높이의 가로로 긴 삼각형을 그리는 방식으로 구현합니다. 이 핵은 그러한 작은 삼각형을 탐지하여 하드웨어 렌더러에서 올바르게 그려지고 업스케일링도 할 수 있는 사각형으로 변환합니다. '과감하게'는 일부 타이틀(예: Dark Forces, Duke Nukem)의 구동에 필요하나 이외의 경우 그래픽 오류를 유발할 수 있습니다. 불확실할 경우 '기본'으로 설정하십시오."
 
 msgctxt "#30206"
 msgid "Default"
-msgstr ""
+msgstr "기본"
 
 msgctxt "#30207"
 msgid "Aggressive"
-msgstr ""
+msgstr "과감하게"
 
 msgctxt "#30208"
 msgid "Render 3D content anamorphically and output the emulated framebuffer at a widescreen aspect ratio. Produces best results with fully 3D games. 2D elements will be horizontally stretched and may be misaligned."
-msgstr ""
+msgstr "3D 컨텐츠를 아나모픽하게 렌더링한 뒤 에뮬레이트되는 프레임버퍼에 와이드스크린 화면비로 출력합니다. 풀 3D 게임에서 최선의 효과를 얻을 수 있습니다. 2D 요소는 가로로 늘어나며 뒤틀릴 수 있습니다."
 
 msgctxt "#30209"
 msgid "Aspect ratio to be used by the Widescreen Mode Hack."
-msgstr ""
+msgstr "와이드스크린 모드 핵에서 사용될 화면비입니다."
 
 msgctxt "#30210"
 msgid "Skip the per-sample processing of voices whose envelope has fully released. Audio output is identical; the optimization automatically disables itself while the SPU IRQ is in use. Saves roughly 5-10% of frame time. Disable for fully accurate SPU register state."
@@ -811,31 +811,31 @@ msgstr ""
 
 msgctxt "#30211"
 msgid "Dynamically recompile CPU instructions to native instructions. Much faster than interpreter, but CPU timing is less accurate, and may have bugs."
-msgstr ""
+msgstr "CPU 명령어를 네이티브 명령어로 동적 리컴파일합니다. 인터프리터보다 훨씬 빠르지만, CPU 타이밍이 부정확해지며, 오류를 일으킬 수 있습니다."
 
 msgctxt "#30212"
 msgid "Disabled (Beetle Interpreter)"
-msgstr ""
+msgstr "비활성화 (Beetle 인터프리터)"
 
 msgctxt "#30213"
 msgid "Max Performance"
-msgstr ""
+msgstr "최대 성능"
 
 msgctxt "#30214"
 msgid "Lightrec Interpreter"
-msgstr ""
+msgstr "Lightrec 인터프리터"
 
 msgctxt "#30215"
 msgid "Some games require 'Full' invalidation, some require 'DMA Only'."
-msgstr ""
+msgstr "일부 게임은 '모두' 무효화를 필요로 하며, 일부는 'DMA만'을 필요로 합니다."
 
 msgctxt "#30216"
 msgid "Full"
-msgstr ""
+msgstr "모두"
 
 msgctxt "#30217"
 msgid "DMA Only (Slightly Faster)"
-msgstr ""
+msgstr "DMA만 (조금 더 빠름)"
 
 msgctxt "#30218"
 msgid "Cycles the dynarec charges per CPU instruction. '2' is faster, but the emulated CPU appears half-speed to games that pace themselves against it - set '1' for games whose CD streaming stalls or hangs under the dynarec (e.g. Parasite Eve 2). The '1' setting charges memory accesses two cycles and everything else one, close to the real CPU."
@@ -851,15 +851,15 @@ msgstr ""
 
 msgctxt "#30221"
 msgid "Max cycles run by CPU before a GPU/DMA/MDEC/Timer Update is checked, higher number will be faster, has much less impact on beetle interpreter than dynarec."
-msgstr ""
+msgstr "GPU/DMA/MDEC/타이머 업데이트 확인 전에 구동할 최대 CPU 사이클 수입니다. 숫자가 높을수록 더 빨라지며, 동적 리컴파일러(Dynarec)에 비해 Beetle 인터프리터에는 큰 효과가 없습니다."
 
 msgctxt "#30222"
 msgid "128 (Default)"
-msgstr ""
+msgstr "128 (기본값)"
 
 msgctxt "#30223"
 msgid "Max SPU samples to run before a SPU Update is checked, higher number will be faster, but will cause sound glitches in some games with anything other than 1."
-msgstr ""
+msgstr "SPU 업데이트 확인 전 실행할 최대 SPU 샘플 수. 숫자가 높을수록 더 빨라지지만 값이 1이 아닌 경우 일부 게임에서 사운드 결함이 발생합니다."
 
 msgctxt "#30224"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
