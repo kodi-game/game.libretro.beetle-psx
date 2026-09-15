@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.beetle-psx\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-24 22:21i\n"
-"PO-Revision-Date: 2026-08-22 10:00+0000\n"
+"PO-Revision-Date: 2026-09-15 19:30+0000\n"
 "Last-Translator: Andrei Stepanov <adem4ik@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-beetle-psx/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.8.1\n"
+"X-Generator: Weblate 2026.9.1\n"
 
 msgctxt "Addon Summary"
 msgid "Sony - PlayStation (Beetle PSX)"
@@ -259,7 +259,7 @@ msgstr "Настройка параметров системы и разгона
 
 msgctxt "#30073"
 msgid "Overclock (or underclock) the emulated PSX CPU. Overclocking can eliminate slowdown and improve frame rates in certain games at the expense of increased performance requirements. Note that some games have an internal frame rate limiter and may not benefit from overclocking. May cause certain effects to animate faster than intended in some titles when overclocked."
-msgstr "Разгон (или занижение) частоты CPU эмулируемой PSX. В некоторых играх может устранить замедления и выровнять частоту кадров, но повышает нагрузку. Часть игр не получит преимуществ из-за наличия внутр. ограничителей частоты. Также может привести к завышению скорости анимаций."
+msgstr "Разгон (или занижение) частоты ЦП эмулируемой PSX. В некоторых играх может устранить замедления и выровнять частоту кадров, но повышает нагрузку. Часть игр не получит преимуществ из-за наличия внутренних ограничителей частоты. Также может привести к завышению скорости анимаций."
 
 msgctxt "#30074"
 msgid "100% (Native)"
@@ -275,11 +275,11 @@ msgstr "1x (нативно)"
 
 msgctxt "#30077"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
-msgstr "Понижает задержку выполнения операций эмулируемого GTE (сопроцессора для 3D-графики) до одного цикла. Поднимает частоту кадров и стабилизирует время кадра в играх, интенсивно использующих GTE."
+msgstr "Понижает задержку выполнения операций эмулируемого GTE (сопроцессора ЦП для 3D-графики) до одного цикла. Поднимает частоту кадров и стабилизирует время кадра в играх, интенсивно использующих GTE."
 
 msgctxt "#30078"
 msgid "'Synchronous' mimics original hardware. 'Asynchronous' can reduce stuttering on devices with slow storage. 'Pre-Cache' loads the entire disk image into memory when launching content, which may improve in-game loading times at the cost of an initial delay at startup. 'Pre-Cache' may cause issues on systems with low RAM, and will fall back to 'Synchronous' for physical media. Restart required."
-msgstr ""
+msgstr "«Синхронный» имитирует оригинальное оборудование. «Асинхронный» может уменьшить подтормаживания на устройствах с медленным накопителем. «Предварительное кэширование» загружает весь образ диска в память при запуске содержимого, что может улучшить внутриигровое время загрузки за счёт начальной задержки при запуске. «Предварительное кэширование» может вызвать проблемы на системах с малым объёмом ОЗУ и вернётся к «Синхронному» для физических носителей. Требуется перезапуск."
 
 msgctxt "#30079"
 msgid "Synchronous"
@@ -295,7 +295,7 @@ msgstr "Предзагрузка"
 
 msgctxt "#30082"
 msgid "Values higher than '2x (Native)' can greatly reduce in-game loading times, but may introduce timing errors. Some games may not function properly above a certain value."
-msgstr ""
+msgstr "Значения выше «2x (нативный)» могут значительно сократить внутриигровое время загрузки, но могут внести ошибки синхронизации. Некоторые игры могут работать неправильно выше определённого значения."
 
 msgctxt "#30083"
 msgid "2x (Native)"
@@ -311,19 +311,19 @@ msgstr "Заменять стандартный региональный BIOS н
 
 msgctxt "#30086"
 msgid "PSP PS1 BIOS"
-msgstr ""
+msgstr "BIOS PS1 от PSP"
 
 msgctxt "#30087"
 msgid "PS3 PS1 BIOS"
-msgstr ""
+msgstr "BIOS PS1 от PS3"
 
 msgctxt "#30088"
 msgid "OpenBIOS"
-msgstr ""
+msgstr "OpenBIOS"
 
 msgctxt "#30089"
 msgid "Sets the fallback region used when content cannot be auto-detected (e.g. raw PS-X EXE files). Disc-based games still use the region embedded on the disc. Restart required."
-msgstr ""
+msgstr "Задать резервный регион, используемый, когда содержимое не может быть автоматически определено (например, необработанные файлы PS-X EXE). Игры на дисках по-прежнему используют регион, записанный на диске. Требуется перезапуск."
 
 msgctxt "#30090"
 msgid "Auto"
@@ -355,7 +355,7 @@ msgstr "Установка разрешения выше '1x (исходное)'
 
 msgctxt "#30097"
 msgid "'1x (Native)' emulates native low resolution dithering used by original hardware to smooth out color banding artifacts visible at native color depth. 'Internal Resolution' scales dithering granularity to the configured internal resolution for cleaner results. Recommended to be disabled when running at 32 bpp color depth. Note: On Vulkan, enabling this will force downsampling to native color depth, while disabling will automatically enable output at higher color depth."
-msgstr ""
+msgstr "«1x (нативный)» имитирует нативный дизеринг низкого разрешения, используемый оригинальным оборудованием для сглаживания артефактов цветовой полосности, видимых при нативной глубине цвета. «Внутреннее разрешение» масштабирует гранулярность дизеринга до настроенного внутреннего разрешения для более чистых результатов. Рекомендуется отключать при работе с глубиной цвета 32 бит/пиксель. Примечание: в Vulkan включение этого принудительно понизит дискретизацию до нативной глубины цвета, а отключение автоматически включит вывод при более высокой глубине цвета."
 
 msgctxt "#30098"
 msgid "Internal Resolution"
@@ -379,27 +379,27 @@ msgstr "Форсировать чересстрочную развёртку"
 
 msgctxt "#30103"
 msgid "'Weave' shows both fields on the same frame for full high resolution still image, 'Bob' sacrificies resolution clarity for motion clarity. 'Bob (Offset)' is Bob with the current field doubled into the full surface height with a one-line offset between fields, preserving the libretro output resolution while keeping Bob-style smooth motion. 'FastMAD (Motion Adaptive)' weaves still pixels and vertically-interpolates moving pixels per-pixel, full output height with neither weave's comb on motion nor bob's halved resolution. 'Off' makes the software renderer match the hardware (Vulkan/OpenGL) renderer behaviour by rasterising to all VRAM lines every frame and deferring scanout to the end of the frame, eliminating comb-on-motion in interlaced games. Note: programs that DMA to VRAM during scanout (some demos using >512-line PAL framebuffer-wrap tricks), or that update moving sprites via CPU-to-VRAM image transfers tied to the displayed field (e.g. Pro Pinball), may show stale rows or sprite ghosting under 'Off'; use 'Weave', 'Bob', 'Bob (Offset)', or 'FastMAD' for those."
-msgstr ""
+msgstr "«Чересстрочное объединение» показывает оба поля на одном кадре для полного неподвижного изображения высокого разрешения, «Bob» жертвует чёткостью разрешения ради чёткости движения. «Bob (со смещением)» — это Bob с удвоением текущего поля на полную высоту поверхности со смещением в одну строку между полями, сохраняя разрешение вывода libretro при сохранении плавного движения в стиле Bob. «FastMAD (адаптивное к движению)» объединяет неподвижные пиксели и вертикально интерполирует движущиеся пиксели по-pixelно, полная высота вывода без гребёнки от объединения при движении и без половинного разрешения Bob. «Откл.» заставляет программный рендерер соответствовать поведению аппаратного рендерера (Vulkan/OpenGL), растеризуя все строки VRAM каждый кадр и откладывая вывод развёртки до конца кадра, устраняя гребёнку при движении в чересстрочных играх. Примечание: программы, которые выполняют DMA в VRAM во время вывода развёртки (некоторые демо, использующие трюки >512-строчного переноса кадрового буфера PAL), или которые обновляют движущиеся спрайты через передачу изображений из ЦП в VRAM, привязанную к отображаемому полю (например, Pro Pinball), могут показывать устаревшие строки или призрачные спрайты при «Откл.»; используйте «Чересстрочное объединение», «Bob», «Bob (со смещением)» или «FastMAD» для них."
 
 msgctxt "#30104"
 msgid "Weave"
-msgstr ""
+msgstr "Чересстрочное объединение"
 
 msgctxt "#30105"
 msgid "Bob"
-msgstr ""
+msgstr "Bob"
 
 msgctxt "#30106"
 msgid "Bob (Offset)"
-msgstr ""
+msgstr "Bob (со смещением)"
 
 msgctxt "#30107"
 msgid "FastMAD (Motion Adaptive)"
-msgstr ""
+msgstr "FastMAD (адаптивное к движению)"
 
 msgctxt "#30108"
 msgid "Off"
-msgstr ""
+msgstr "Отключено"
 
 msgctxt "#30109"
 msgid "Repeat the previous frame if the core has nothing new to display."
@@ -431,7 +431,7 @@ msgstr "Форсировать NTSC"
 
 msgctxt "#30116"
 msgid "Force 16:9"
-msgstr ""
+msgstr "Принудительно 16:9"
 
 msgctxt "#30117"
 msgid "Full native image or no borders."
@@ -439,7 +439,7 @@ msgstr "Полное исходное изображение или без от�
 
 msgctxt "#30118"
 msgid "Disabled"
-msgstr ""
+msgstr "Отключено"
 
 msgctxt "#30119"
 msgid "Horizontal"
@@ -451,19 +451,19 @@ msgstr "По горизонтали и вертикали"
 
 msgctxt "#30121"
 msgid "Reduce the width of the cropped image by the specified number of pixels."
-msgstr ""
+msgstr "Уменьшить ширину обрезанного изображения на указанное число пикселей."
 
 msgctxt "#30122"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgctxt "#30123"
 msgid "Offset horizontally to the right (positive) or left (negative) by the specified number of pixels. May be used to correct alignment issues. Only supported by the software renderer."
-msgstr ""
+msgstr "Сместить по горизонтали вправо (положительное) или влево (отрицательное) на указанное число пикселей. Может использоваться для исправления проблем выравнивания. Поддерживается только программным рендерером."
 
 msgctxt "#30124"
 msgid "First displayed scan line when running NTSC content. Values greater than zero will reduce the height of output images by cropping pixels from the topmost edge. May be used to counteract letterboxing."
-msgstr ""
+msgstr "Первая отображаемая строка развёртки при работе содержимого NTSC. Значения больше нуля уменьшат высоту выходных изображений, обрезая пиксели с верхнего края. Может использоваться для противодействия почтовому ящику."
 
 msgctxt "#30125"
 msgid "0 (Default)"
@@ -471,7 +471,7 @@ msgstr "0 (по умолчанию)"
 
 msgctxt "#30126"
 msgid "Last displayed scan line when running NTSC content. Values less than 239 will reduce the height of output images by cropping pixels from the bottommost edge. May be used to counteract letterboxing."
-msgstr ""
+msgstr "Последняя отображаемая строка развёртки при работе содержимого NTSC. Значения меньше 239 уменьшат высоту выходных изображений, обрезая пиксели с нижнего края. Может использоваться для противодействия почтовому ящику."
 
 msgctxt "#30127"
 msgid "239 (Default)"
@@ -479,11 +479,11 @@ msgstr "239 (по умолчанию)"
 
 msgctxt "#30128"
 msgid "First displayed scan line when running PAL content. Values greater than zero will reduce the height of output images by cropping pixels from the topmost edge. May be used to counteract letterboxing."
-msgstr ""
+msgstr "Первая отображаемая строка развёртки при работе содержимого PAL. Значения больше нуля уменьшат высоту выходных изображений, обрезая пиксели с верхнего края. Может использоваться для противодействия почтовому ящику."
 
 msgctxt "#30129"
 msgid "Last displayed scan line when running PAL content. Values below 287 will reduce the height of output images by cropping pixels from the bottommost edge. May be used to counteract letterboxing."
-msgstr ""
+msgstr "Последняя отображаемая строка развёртки при работе содержимого PAL. Значения ниже 287 уменьшат высоту выходных изображений, обрезая пиксели с нижнего края. Может использоваться для противодействия почтовому ящику."
 
 msgctxt "#30130"
 msgid "287 (Default)"
@@ -499,7 +499,7 @@ msgstr "Настройки для повышения качества графи
 
 msgctxt "#30133"
 msgid "Render 3D objects with subpixel precision, minimizing distortion and jitter of 3D objects seen on original hardware due to the usage of fixed point vertex coordinates. 'Memory Only' mode has minimal compatibility issues and is recommended for general use. 'Memory + CPU (Buggy)' mode can reduce jitter even further but has high performance requirements and may cause various geometry errors."
-msgstr ""
+msgstr "Отрисовывать 3D-объекты с субпиксельной точностью, минимизируя искажение и дрожание 3D-объектов, наблюдаемые на оригинальном оборудовании из-за использования вершинных координат с фиксированной точкой. Режим «Только память» имеет минимальные проблемы совместимости и рекомендуется для общего использования. Режим «Память + ЦП (с ошибками)» может ещё больше уменьшить дрожание, но имеет высокие требования к производительности и может вызвать различные геометрические ошибки."
 
 msgctxt "#30134"
 msgid "Memory Only"
@@ -507,7 +507,7 @@ msgstr "Только память"
 
 msgctxt "#30135"
 msgid "Memory + CPU (Buggy)"
-msgstr "Память + CPU (нестабильно)"
+msgstr "Память + ЦП (нестабильно)"
 
 msgctxt "#30136"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
@@ -519,7 +519,7 @@ msgstr "Использовать PGXP-реализацию NCLIP. Улучшае
 
 msgctxt "#30138"
 msgid "Replace native PSX affine texture mapping with perspective correct texture mapping. Eliminates position-dependent distortion and warping of textures, resulting in properly aligned textures. This option is applied only when PGXP Operation Mode is enabled. Supported by the hardware renderers and the software renderer."
-msgstr ""
+msgstr "Заменить нативное аффинное текстурирование PSX на перспективно-корректное текстурирование. Устраняет зависящее от положения искажение и коробление текстур, в результате чего текстуры правильно выравниваются. Этот параметр применяется только когда включён «Режим работы PGXP». Поддерживается аппаратными рендерерами и программным рендерером."
 
 msgctxt "#30139"
 msgid "On-Screen Display"
@@ -539,7 +539,7 @@ msgstr "Выводить на экран сообщения, генерируе�
 
 msgctxt "#30143"
 msgid "Input"
-msgstr "Устройства ввода"
+msgstr "Ввод"
 
 msgctxt "#30144"
 msgid "Change light gun, mouse and neGcon settings."
@@ -547,7 +547,7 @@ msgstr "Настройки светового пистолета, мыши и ne
 
 msgctxt "#30145"
 msgid "Enable dynamic calibration of analog inputs when the device is set to DualShock, Analog Controller, Analog Joystick, or neGcon. Maximum registered input values are monitored in real time and used to scale analog coordinates passed to the emulator. This should be used for games such as Mega Man Legends 2 that expect larger values than what modern controllers provide. For best results, analog sticks should be rotated at full extent to tune the calibration algorithm each time content is loaded."
-msgstr ""
+msgstr "Включить динамическую калибровку аналоговых входов, когда устройство установлено как DualShock, аналоговый контроллер, аналоговый джойстик или neGcon. Максимальные зарегистрированные значения ввода отслеживаются в реальном времени и используются для масштабирования аналоговых координат, передаваемых эмулятору. Это следует использовать для таких игр, как Mega Man Legends 2, которые ожидают больших значений, чем предоставляют современные контроллеры. Для лучших результатов аналоговые стики следует вращать на полный размах для настройки алгоритма калибровки при каждой загрузке содержимого."
 
 msgctxt "#30146"
 msgid "When the input device type is DualShock, this option allows the emulated DualShock to be toggled between DIGITAL and ANALOG mode like original hardware. Mode can also be toggled by using the selected button combination."
@@ -559,51 +559,51 @@ msgstr "По умолчанию-аналоговый"
 
 msgctxt "#30148"
 msgid "The button combination that will be used to toggle between DIGITAL and ANALOG mode for the emulated DualShock."
-msgstr ""
+msgstr "Комбинация кнопок, которая будет использоваться для переключения между режимами DIGITAL и ANALOG для эмулируемого DualShock."
 
 msgctxt "#30149"
 msgid "L1 + L2 + R1 + R2 + Start + Select"
-msgstr ""
+msgstr "L1 + L2 + R1 + R2 + Start + Select"
 
 msgctxt "#30150"
 msgid "L1 + R1 + Select"
-msgstr ""
+msgstr "L1 + R1 + Select"
 
 msgctxt "#30151"
 msgid "L1 + R1 + Start"
-msgstr ""
+msgstr "L1 + R1 + Start"
 
 msgctxt "#30152"
 msgid "L1 + R1 + L3"
-msgstr ""
+msgstr "L1 + R1 + L3"
 
 msgctxt "#30153"
 msgid "L1 + R1 + R3"
-msgstr ""
+msgstr "L1 + R1 + R3"
 
 msgctxt "#30154"
 msgid "L2 + R2 + Select"
-msgstr ""
+msgstr "L2 + R2 + Select"
 
 msgctxt "#30155"
 msgid "L2 + R2 + Start"
-msgstr ""
+msgstr "L2 + R2 + Start"
 
 msgctxt "#30156"
 msgid "L2 + R2 + L3"
-msgstr ""
+msgstr "L2 + R2 + L3"
 
 msgctxt "#30157"
 msgid "L2 + R2 + R3"
-msgstr ""
+msgstr "L2 + R2 + R3"
 
 msgctxt "#30158"
 msgid "L3 + R3"
-msgstr ""
+msgstr "L3 + R3"
 
 msgctxt "#30159"
 msgid "Hold time for the analog mode combo buttons."
-msgstr ""
+msgstr "Время удержания для кнопок комбинации аналогового режима."
 
 msgctxt "#30160"
 msgid "0 Second Delay"
@@ -639,7 +639,7 @@ msgstr "Включает расширение multitap в порт 2."
 
 msgctxt "#30168"
 msgid "Use mouse-controlled 'Light Gun' or 'Touchscreen' input when device type is set to 'Guncon/G-Con 45' or 'Justifier'."
-msgstr ""
+msgstr "Использовать управляемый мышью ввод «Световой пистолет» или «Сенсорный экран», когда тип устройства установлен как «Guncon/G-Con 45» или «Justifier»."
 
 msgctxt "#30169"
 msgid "Light Gun"
@@ -651,11 +651,11 @@ msgstr "Сенсорный экран"
 
 msgctxt "#30171"
 msgid "Draw a cursor on screen while using the 'Guncon/G-Con 45' and 'Justifier' input device types."
-msgstr ""
+msgstr "Рисовать курсор на экране при использовании типов устройств ввода «Guncon/G-Con 45» и «Justifier»."
 
 msgctxt "#30172"
 msgid "disabled"
-msgstr ""
+msgstr "отключено"
 
 msgctxt "#30173"
 msgid "Cross"
@@ -719,7 +719,7 @@ msgstr "Чувствительность устройства ввода тип�
 
 msgctxt "#30188"
 msgid "Left analog stick response type when simulating the 'twist' action of emulated 'neGcon' input devices. Analog stick displacement may be mapped to neGcon rotation angle either linearly, quadratically or cubically. 'Quadratic' allows for greater precision than 'Linear' when making small movements. 'Cubic' further increases small movement precision, but 'exaggerates' larger movements. Note: 'Linear' is only recommended when using racing wheel peripherals. Conventional controllers implement analog input in a manner fundamentally different from the neGcon 'twist' mechanism, such that linear mapping over-amplifies small movements, impairing fine control. In most cases, 'Quadratic' provides the closest approximation of real hardware."
-msgstr ""
+msgstr "Тип отклика левого аналогового стика при имитации действия «поворота» эмулируемых устройств ввода «neGcon». Смещение аналогового стика может быть отображено на угол поворота neGcon линейно, квадратично или кубически. «Квадратичный» обеспечивает большую точность, чем «Линейный», при малых движениях. «Кубический» дополнительно повышает точность малых движений, но «преувеличивает» большие движения. Примечание: «Линейный» рекомендуется только при использовании рулевых колёс. Обычные контроллеры реализуют аналоговый ввод принципиально иначе, чем механизм «поворота» neGcon, так что линейное отображение чрезмерно усиливает малые движения, ухудшая тонкое управление. В большинстве случаев «Квадратичный» обеспечивает наиболее близкое приближение к реальному оборудованию."
 
 msgctxt "#30189"
 msgid "Linear"
@@ -735,7 +735,7 @@ msgstr "Кубический"
 
 msgctxt "#30192"
 msgid "Left analog stick deadzone when simulating the 'twist' action of emulated 'neGcon' input devices. Used to eliminate controller drift. Note: Most neGcon-compatible titles provide in-game options for setting a 'twist' deadzone value. To avoid loss of precision, the in-game deadzone should *always* be set to zero. Any required adjustments should *only* be applied via this core option. This is particularly important when 'neGcon Twist Response' is set to 'Quadratic' or 'Cubic'."
-msgstr ""
+msgstr "Мёртвая зона левого аналогового стика при имитации действия «поворота» эмулируемых устройств ввода «neGcon». Используется для устранения дрейфа контроллера. Примечание: большинство игр, совместимых с neGcon, предоставляют внутриигровые параметры для задания значения мёртвой зоны «поворота». Чтобы избежать потери точности, внутриигровая мёртвая зона должна *всегда* устанавливаться в ноль. Любые необходимые корректировки должны применяться *только* через этот параметр ядра. Это особенно важно, когда «Отклик поворота neGcon» установлен как «Квадратичный» или «Кубический»."
 
 msgctxt "#30193"
 msgid "Memory Card"
@@ -747,15 +747,15 @@ msgstr "Настройка параметров виртуальных карт 
 
 msgctxt "#30195"
 msgid "Save data format used for the left memory card slot. 'Mednafen' may be used for compatibility with the stand-alone version of Mednafen. When used with Beetle PSX, Libretro (.srm) and Mednafen (.mcr) saves have internally identical formats and can be converted between one another via renaming. Restart required."
-msgstr ""
+msgstr "Формат данных сохранения, используемый для левого слота карты памяти. «Mednafen» может использоваться для совместимости с отдельной версией Mednafen. При использовании с Beetle PSX сохранения Libretro (.srm) и Mednafen (.mcr) имеют внутренне идентичные форматы и могут быть преобразованы друг в друга путём переименования. Требуется перезапуск."
 
 msgctxt "#30196"
 msgid "Libretro"
-msgstr ""
+msgstr "Libretro"
 
 msgctxt "#30197"
 msgid "Mednafen"
-msgstr ""
+msgstr "Mednafen"
 
 msgctxt "#30198"
 msgid "Emulate a second memory card in the right memory card slot. Note: Some games require this option to be disabled for correct operation (e.g. Codename Tenka). Note: Memory Card Slot 2 uses the Mednafen (.mcr) save format. Restart required."
@@ -763,7 +763,7 @@ msgstr "Эмулировать вторую карту памяти в слот�
 
 msgctxt "#30199"
 msgid "Use shared memory cards instead of separate cards for each content. Note: if 'Memory Card Method' is set to 'Libretro', only memory card slot 2 will be affected. Restart required."
-msgstr ""
+msgstr "Использовать общие карты памяти вместо отдельных карт для каждого содержимого. Примечание: если «Метод карты памяти» установлен как «Libretro», будет затронут только слот карты памяти 2. Требуется перезапуск."
 
 msgctxt "#30200"
 msgid "Memory card currently loaded in the left slot. This option will only work if Memory Card Method is set to Mednafen."
@@ -787,7 +787,7 @@ msgstr "Настройка параметров точности эмуляци�
 
 msgctxt "#30205"
 msgid "Some games (e.g. Doom, Hexen, Soul Blade, etc.) draw horizontal lines by stretching single-pixel-high triangles across the screen, which are rasterized as a row of pixels on original hardware. This hack detects these small triangles and converts them to quads as required, allowing them to be displayed properly on the hardware renderers and at upscaled internal resolutions. 'Aggressive' is required for some titles (e.g. Dark Forces, Duke Nukem) but may otherwise introduce graphical glitches. Leave at 'Default' if unsure."
-msgstr ""
+msgstr "Некоторые игры (например, Doom, Hexen, Soul Blade и т. д.) рисуют горизонтальные линии, растягивая треугольники высотой в один пиксель по экрану, которые растеризуются как ряд пикселей на оригинальном оборудовании. Этот хак обнаруживает такие маленькие треугольники и при необходимости преобразует их в четырёхугольники, позволяя им правильно отображаться на аппаратных рендерерах и при масштабированных внутренних разрешениях. «Агрессивный» требуется для некоторых игр (например, Dark Forces, Duke Nukem), но в остальном может внести графические сбои. Оставьте «По умолчанию», если не уверены."
 
 msgctxt "#30206"
 msgid "Default"
@@ -803,15 +803,15 @@ msgstr "Анаморфный 3D-рендеринг и вывод фреймбу�
 
 msgctxt "#30209"
 msgid "Aspect ratio to be used by the Widescreen Mode Hack."
-msgstr ""
+msgstr "Соотношение сторон, используемое хаком широкоэкранного режима."
 
 msgctxt "#30210"
 msgid "Skip the per-sample processing of voices whose envelope has fully released. Audio output is identical; the optimization automatically disables itself while the SPU IRQ is in use. Saves roughly 5-10% of frame time. Disable for fully accurate SPU register state."
-msgstr ""
+msgstr "Пропускать посэмпловую обработку голосов, огибающая которых полностью затухла. Звуковой вывод идентичен; оптимизация автоматически отключается, пока используется SPU IRQ. Экономит примерно 5–10 % времени кадра. Отключите для полностью точного состояния регистров SPU."
 
 msgctxt "#30211"
 msgid "Dynamically recompile CPU instructions to native instructions. Much faster than interpreter, but CPU timing is less accurate, and may have bugs."
-msgstr "Динамически преобразовывает инструкции CPU в нативные. Существенно быстрее интерпретатора, но обеспечивает меньшую точность таймингов CPU и может вызывать ошибки."
+msgstr "Динамически преобразовывает инструкции ЦП в нативные. Существенно быстрее интерпретатора, но обеспечивает меньшую точность таймингов ЦП и может вызывать ошибки."
 
 msgctxt "#30212"
 msgid "Disabled (Beetle Interpreter)"
@@ -839,19 +839,19 @@ msgstr "Только DMA (немного быстрее)"
 
 msgctxt "#30218"
 msgid "Cycles the dynarec charges per CPU instruction. '2' is faster, but the emulated CPU appears half-speed to games that pace themselves against it - set '1' for games whose CD streaming stalls or hangs under the dynarec (e.g. Parasite Eve 2). The '1' setting charges memory accesses two cycles and everything else one, close to the real CPU."
-msgstr ""
+msgstr "Сколько циклов dynarec начисляет за инструкцию ЦП. «2» быстрее, но эмулируемый ЦП кажется вдвое медленнее для игр, которые синхронизируются по нему — установите «1» для игр, у которых потоковая передача с CD зависает или останавливается под dynarec (например, Parasite Eve 2). Настройка «1» начисляет два цикла за обращения к памяти и один за всё остальное, близко к реальному ЦП."
 
 msgctxt "#30219"
 msgid "2 (Default)"
-msgstr ""
+msgstr "2 (по умолчанию)"
 
 msgctxt "#30220"
 msgid "1 (Accurate, Fixes Parasite Eve 2 etc.)"
-msgstr ""
+msgstr "1 (точно, исправляет Parasite Eve 2 и др.)"
 
 msgctxt "#30221"
 msgid "Max cycles run by CPU before a GPU/DMA/MDEC/Timer Update is checked, higher number will be faster, has much less impact on beetle interpreter than dynarec."
-msgstr "Макс. циклов, выполняемых процессором до проверки обновления таймеров/GPU/DMA/MDEC. Более высокие значения повышают скорость. Для интерпретатора beetle эффект менее выражен, чем для dynarec."
+msgstr "Максимум циклов, выполняемых процессором до проверки обновления ГП/DMA/MDEC/таймеров. Более высокие значения повышают скорость. Для интерпретатора beetle эффект менее выражен, чем для dynarec."
 
 msgctxt "#30222"
 msgid "128 (Default)"
@@ -863,1135 +863,1135 @@ msgstr "Макс. сэмплов, обрабатываемых до провер
 
 msgctxt "#30224"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
-msgstr ""
+msgstr "Включено будет генерировать более быстрый код, но потенциально может привести к аварийному завершению, предполагая, что регистры sp и gp всегда указывают на ОЗУ; отключено — более широкая совместимость"
 
 msgctxt "#30225"
 msgid "50%"
-msgstr ""
+msgstr "50 %"
 
 msgctxt "#30226"
 msgid "60%"
-msgstr ""
+msgstr "60 %"
 
 msgctxt "#30227"
 msgid "70%"
-msgstr ""
+msgstr "70 %"
 
 msgctxt "#30228"
 msgid "80%"
-msgstr ""
+msgstr "80 %"
 
 msgctxt "#30229"
 msgid "90%"
-msgstr ""
+msgstr "90 %"
 
 msgctxt "#30230"
 msgid "110%"
-msgstr ""
+msgstr "110 %"
 
 msgctxt "#30231"
 msgid "120%"
-msgstr ""
+msgstr "120 %"
 
 msgctxt "#30232"
 msgid "130%"
-msgstr ""
+msgstr "130 %"
 
 msgctxt "#30233"
 msgid "140%"
-msgstr ""
+msgstr "140 %"
 
 msgctxt "#30234"
 msgid "150%"
-msgstr ""
+msgstr "150 %"
 
 msgctxt "#30235"
 msgid "160%"
-msgstr ""
+msgstr "160 %"
 
 msgctxt "#30236"
 msgid "170%"
-msgstr ""
+msgstr "170 %"
 
 msgctxt "#30237"
 msgid "180%"
-msgstr ""
+msgstr "180 %"
 
 msgctxt "#30238"
 msgid "190%"
-msgstr ""
+msgstr "190 %"
 
 msgctxt "#30239"
 msgid "200%"
-msgstr ""
+msgstr "200 %"
 
 msgctxt "#30240"
 msgid "210%"
-msgstr ""
+msgstr "210 %"
 
 msgctxt "#30241"
 msgid "220%"
-msgstr ""
+msgstr "220 %"
 
 msgctxt "#30242"
 msgid "230%"
-msgstr ""
+msgstr "230 %"
 
 msgctxt "#30243"
 msgid "240%"
-msgstr ""
+msgstr "240 %"
 
 msgctxt "#30244"
 msgid "250%"
-msgstr ""
+msgstr "250 %"
 
 msgctxt "#30245"
 msgid "260%"
-msgstr ""
+msgstr "260 %"
 
 msgctxt "#30246"
 msgid "270%"
-msgstr ""
+msgstr "270 %"
 
 msgctxt "#30247"
 msgid "280%"
-msgstr ""
+msgstr "280 %"
 
 msgctxt "#30248"
 msgid "290%"
-msgstr ""
+msgstr "290 %"
 
 msgctxt "#30249"
 msgid "300%"
-msgstr ""
+msgstr "300 %"
 
 msgctxt "#30250"
 msgid "310%"
-msgstr ""
+msgstr "310 %"
 
 msgctxt "#30251"
 msgid "320%"
-msgstr ""
+msgstr "320 %"
 
 msgctxt "#30252"
 msgid "330%"
-msgstr ""
+msgstr "330 %"
 
 msgctxt "#30253"
 msgid "340%"
-msgstr ""
+msgstr "340 %"
 
 msgctxt "#30254"
 msgid "350%"
-msgstr ""
+msgstr "350 %"
 
 msgctxt "#30255"
 msgid "360%"
-msgstr ""
+msgstr "360 %"
 
 msgctxt "#30256"
 msgid "370%"
-msgstr ""
+msgstr "370 %"
 
 msgctxt "#30257"
 msgid "380%"
-msgstr ""
+msgstr "380 %"
 
 msgctxt "#30258"
 msgid "390%"
-msgstr ""
+msgstr "390 %"
 
 msgctxt "#30259"
 msgid "400%"
-msgstr ""
+msgstr "400 %"
 
 msgctxt "#30260"
 msgid "410%"
-msgstr ""
+msgstr "410 %"
 
 msgctxt "#30261"
 msgid "420%"
-msgstr ""
+msgstr "420 %"
 
 msgctxt "#30262"
 msgid "430%"
-msgstr ""
+msgstr "430 %"
 
 msgctxt "#30263"
 msgid "440%"
-msgstr ""
+msgstr "440 %"
 
 msgctxt "#30264"
 msgid "450%"
-msgstr ""
+msgstr "450 %"
 
 msgctxt "#30265"
 msgid "460%"
-msgstr ""
+msgstr "460 %"
 
 msgctxt "#30266"
 msgid "470%"
-msgstr ""
+msgstr "470 %"
 
 msgctxt "#30267"
 msgid "480%"
-msgstr ""
+msgstr "480 %"
 
 msgctxt "#30268"
 msgid "490%"
-msgstr ""
+msgstr "490 %"
 
 msgctxt "#30269"
 msgid "500%"
-msgstr ""
+msgstr "500 %"
 
 msgctxt "#30270"
 msgid "510%"
-msgstr ""
+msgstr "510 %"
 
 msgctxt "#30271"
 msgid "520%"
-msgstr ""
+msgstr "520 %"
 
 msgctxt "#30272"
 msgid "530%"
-msgstr ""
+msgstr "530 %"
 
 msgctxt "#30273"
 msgid "540%"
-msgstr ""
+msgstr "540 %"
 
 msgctxt "#30274"
 msgid "550%"
-msgstr ""
+msgstr "550 %"
 
 msgctxt "#30275"
 msgid "560%"
-msgstr ""
+msgstr "560 %"
 
 msgctxt "#30276"
 msgid "570%"
-msgstr ""
+msgstr "570 %"
 
 msgctxt "#30277"
 msgid "580%"
-msgstr ""
+msgstr "580 %"
 
 msgctxt "#30278"
 msgid "590%"
-msgstr ""
+msgstr "590 %"
 
 msgctxt "#30279"
 msgid "600%"
-msgstr ""
+msgstr "600 %"
 
 msgctxt "#30280"
 msgid "610%"
-msgstr ""
+msgstr "610 %"
 
 msgctxt "#30281"
 msgid "620%"
-msgstr ""
+msgstr "620 %"
 
 msgctxt "#30282"
 msgid "630%"
-msgstr ""
+msgstr "630 %"
 
 msgctxt "#30283"
 msgid "640%"
-msgstr ""
+msgstr "640 %"
 
 msgctxt "#30284"
 msgid "650%"
-msgstr ""
+msgstr "650 %"
 
 msgctxt "#30285"
 msgid "660%"
-msgstr ""
+msgstr "660 %"
 
 msgctxt "#30286"
 msgid "670%"
-msgstr ""
+msgstr "670 %"
 
 msgctxt "#30287"
 msgid "680%"
-msgstr ""
+msgstr "680 %"
 
 msgctxt "#30288"
 msgid "690%"
-msgstr ""
+msgstr "690 %"
 
 msgctxt "#30289"
 msgid "700%"
-msgstr ""
+msgstr "700 %"
 
 msgctxt "#30290"
 msgid "710%"
-msgstr ""
+msgstr "710 %"
 
 msgctxt "#30291"
 msgid "720%"
-msgstr ""
+msgstr "720 %"
 
 msgctxt "#30292"
 msgid "730%"
-msgstr ""
+msgstr "730 %"
 
 msgctxt "#30293"
 msgid "740%"
-msgstr ""
+msgstr "740 %"
 
 msgctxt "#30294"
 msgid "750%"
-msgstr ""
+msgstr "750 %"
 
 msgctxt "#30295"
 msgid "2x"
-msgstr ""
+msgstr "2x"
 
 msgctxt "#30296"
 msgid "4x"
-msgstr ""
+msgstr "4x"
 
 msgctxt "#30297"
 msgid "8x"
-msgstr ""
+msgstr "8x"
 
 msgctxt "#30298"
 msgid "16x"
-msgstr ""
+msgstr "16x"
 
 msgctxt "#30299"
 msgid "32x"
-msgstr ""
+msgstr "32x"
 
 msgctxt "#30300"
 msgid "6x"
-msgstr ""
+msgstr "6x"
 
 msgctxt "#30301"
 msgid "10x"
-msgstr ""
+msgstr "10x"
 
 msgctxt "#30302"
 msgid "12x"
-msgstr ""
+msgstr "12x"
 
 msgctxt "#30303"
 msgid "14x"
-msgstr ""
+msgstr "14x"
 
 msgctxt "#30304"
 msgid "1px"
-msgstr ""
+msgstr "1 пкс"
 
 msgctxt "#30305"
 msgid "2px"
-msgstr ""
+msgstr "2 пкс"
 
 msgctxt "#30306"
 msgid "3px"
-msgstr ""
+msgstr "3 пкс"
 
 msgctxt "#30307"
 msgid "4px"
-msgstr ""
+msgstr "4 пкс"
 
 msgctxt "#30308"
 msgid "5px"
-msgstr ""
+msgstr "5 пкс"
 
 msgctxt "#30309"
 msgid "6px"
-msgstr ""
+msgstr "6 пкс"
 
 msgctxt "#30310"
 msgid "7px"
-msgstr ""
+msgstr "7 пкс"
 
 msgctxt "#30311"
 msgid "8px"
-msgstr ""
+msgstr "8 пкс"
 
 msgctxt "#30312"
 msgid "9px"
-msgstr ""
+msgstr "9 пкс"
 
 msgctxt "#30313"
 msgid "10px"
-msgstr ""
+msgstr "10 пкс"
 
 msgctxt "#30314"
 msgid "11px"
-msgstr ""
+msgstr "11 пкс"
 
 msgctxt "#30315"
 msgid "12px"
-msgstr ""
+msgstr "12 пкс"
 
 msgctxt "#30316"
 msgid "13px"
-msgstr ""
+msgstr "13 пкс"
 
 msgctxt "#30317"
 msgid "14px"
-msgstr ""
+msgstr "14 пкс"
 
 msgctxt "#30318"
 msgid "15px"
-msgstr ""
+msgstr "15 пкс"
 
 msgctxt "#30319"
 msgid "16px"
-msgstr ""
+msgstr "16 пкс"
 
 msgctxt "#30320"
 msgid "17px"
-msgstr ""
+msgstr "17 пкс"
 
 msgctxt "#30321"
 msgid "18px"
-msgstr ""
+msgstr "18 пкс"
 
 msgctxt "#30322"
 msgid "19px"
-msgstr ""
+msgstr "19 пкс"
 
 msgctxt "#30323"
 msgid "20px"
-msgstr ""
+msgstr "20 пкс"
 
 msgctxt "#30324"
 msgid "-12px"
-msgstr ""
+msgstr "-12 пкс"
 
 msgctxt "#30325"
 msgid "-11px"
-msgstr ""
+msgstr "-11 пкс"
 
 msgctxt "#30326"
 msgid "-10px"
-msgstr ""
+msgstr "-10 пкс"
 
 msgctxt "#30327"
 msgid "-9px"
-msgstr ""
+msgstr "-9 пкс"
 
 msgctxt "#30328"
 msgid "-8px"
-msgstr ""
+msgstr "-8 пкс"
 
 msgctxt "#30329"
 msgid "-7px"
-msgstr ""
+msgstr "-7 пкс"
 
 msgctxt "#30330"
 msgid "-6px"
-msgstr ""
+msgstr "-6 пкс"
 
 msgctxt "#30331"
 msgid "-5px"
-msgstr ""
+msgstr "-5 пкс"
 
 msgctxt "#30332"
 msgid "-4px"
-msgstr ""
+msgstr "-4 пкс"
 
 msgctxt "#30333"
 msgid "-3px"
-msgstr ""
+msgstr "-3 пкс"
 
 msgctxt "#30334"
 msgid "-2px"
-msgstr ""
+msgstr "-2 пкс"
 
 msgctxt "#30335"
 msgid "-1px"
-msgstr ""
+msgstr "-1 пкс"
 
 msgctxt "#30336"
 msgid "+1px"
-msgstr ""
+msgstr "+1 пкс"
 
 msgctxt "#30337"
 msgid "+2px"
-msgstr ""
+msgstr "+2 пкс"
 
 msgctxt "#30338"
 msgid "+3px"
-msgstr ""
+msgstr "+3 пкс"
 
 msgctxt "#30339"
 msgid "+4px"
-msgstr ""
+msgstr "+4 пкс"
 
 msgctxt "#30340"
 msgid "+5px"
-msgstr ""
+msgstr "+5 пкс"
 
 msgctxt "#30341"
 msgid "+6px"
-msgstr ""
+msgstr "+6 пкс"
 
 msgctxt "#30342"
 msgid "+7px"
-msgstr ""
+msgstr "+7 пкс"
 
 msgctxt "#30343"
 msgid "+8px"
-msgstr ""
+msgstr "+8 пкс"
 
 msgctxt "#30344"
 msgid "+9px"
-msgstr ""
+msgstr "+9 пкс"
 
 msgctxt "#30345"
 msgid "+10px"
-msgstr ""
+msgstr "+10 пкс"
 
 msgctxt "#30346"
 msgid "+11px"
-msgstr ""
+msgstr "+11 пкс"
 
 msgctxt "#30347"
 msgid "+12px"
-msgstr ""
+msgstr "+12 пкс"
 
 msgctxt "#30348"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "#30349"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "#30350"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "#30351"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "#30352"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "#30353"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "#30354"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "#30355"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "#30356"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "#30357"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgctxt "#30358"
 msgid "11"
-msgstr ""
+msgstr "11"
 
 msgctxt "#30359"
 msgid "12"
-msgstr ""
+msgstr "12"
 
 msgctxt "#30360"
 msgid "13"
-msgstr ""
+msgstr "13"
 
 msgctxt "#30361"
 msgid "14"
-msgstr ""
+msgstr "14"
 
 msgctxt "#30362"
 msgid "15"
-msgstr ""
+msgstr "15"
 
 msgctxt "#30363"
 msgid "16"
-msgstr ""
+msgstr "16"
 
 msgctxt "#30364"
 msgid "17"
-msgstr ""
+msgstr "17"
 
 msgctxt "#30365"
 msgid "18"
-msgstr ""
+msgstr "18"
 
 msgctxt "#30366"
 msgid "19"
-msgstr ""
+msgstr "19"
 
 msgctxt "#30367"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 msgctxt "#30368"
 msgid "21"
-msgstr ""
+msgstr "21"
 
 msgctxt "#30369"
 msgid "22"
-msgstr ""
+msgstr "22"
 
 msgctxt "#30370"
 msgid "23"
-msgstr ""
+msgstr "23"
 
 msgctxt "#30371"
 msgid "24"
-msgstr ""
+msgstr "24"
 
 msgctxt "#30372"
 msgid "25"
-msgstr ""
+msgstr "25"
 
 msgctxt "#30373"
 msgid "26"
-msgstr ""
+msgstr "26"
 
 msgctxt "#30374"
 msgid "27"
-msgstr ""
+msgstr "27"
 
 msgctxt "#30375"
 msgid "28"
-msgstr ""
+msgstr "28"
 
 msgctxt "#30376"
 msgid "29"
-msgstr ""
+msgstr "29"
 
 msgctxt "#30377"
 msgid "30"
-msgstr ""
+msgstr "30"
 
 msgctxt "#30378"
 msgid "31"
-msgstr ""
+msgstr "31"
 
 msgctxt "#30379"
 msgid "32"
-msgstr ""
+msgstr "32"
 
 msgctxt "#30380"
 msgid "33"
-msgstr ""
+msgstr "33"
 
 msgctxt "#30381"
 msgid "34"
-msgstr ""
+msgstr "34"
 
 msgctxt "#30382"
 msgid "35"
-msgstr ""
+msgstr "35"
 
 msgctxt "#30383"
 msgid "36"
-msgstr ""
+msgstr "36"
 
 msgctxt "#30384"
 msgid "37"
-msgstr ""
+msgstr "37"
 
 msgctxt "#30385"
 msgid "38"
-msgstr ""
+msgstr "38"
 
 msgctxt "#30386"
 msgid "39"
-msgstr ""
+msgstr "39"
 
 msgctxt "#30387"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 msgctxt "#30388"
 msgid "210"
-msgstr ""
+msgstr "210"
 
 msgctxt "#30389"
 msgid "211"
-msgstr ""
+msgstr "211"
 
 msgctxt "#30390"
 msgid "212"
-msgstr ""
+msgstr "212"
 
 msgctxt "#30391"
 msgid "213"
-msgstr ""
+msgstr "213"
 
 msgctxt "#30392"
 msgid "214"
-msgstr ""
+msgstr "214"
 
 msgctxt "#30393"
 msgid "215"
-msgstr ""
+msgstr "215"
 
 msgctxt "#30394"
 msgid "216"
-msgstr ""
+msgstr "216"
 
 msgctxt "#30395"
 msgid "217"
-msgstr ""
+msgstr "217"
 
 msgctxt "#30396"
 msgid "218"
-msgstr ""
+msgstr "218"
 
 msgctxt "#30397"
 msgid "219"
-msgstr ""
+msgstr "219"
 
 msgctxt "#30398"
 msgid "220"
-msgstr ""
+msgstr "220"
 
 msgctxt "#30399"
 msgid "221"
-msgstr ""
+msgstr "221"
 
 msgctxt "#30400"
 msgid "222"
-msgstr ""
+msgstr "222"
 
 msgctxt "#30401"
 msgid "223"
-msgstr ""
+msgstr "223"
 
 msgctxt "#30402"
 msgid "224"
-msgstr ""
+msgstr "224"
 
 msgctxt "#30403"
 msgid "225"
-msgstr ""
+msgstr "225"
 
 msgctxt "#30404"
 msgid "226"
-msgstr ""
+msgstr "226"
 
 msgctxt "#30405"
 msgid "227"
-msgstr ""
+msgstr "227"
 
 msgctxt "#30406"
 msgid "228"
-msgstr ""
+msgstr "228"
 
 msgctxt "#30407"
 msgid "229"
-msgstr ""
+msgstr "229"
 
 msgctxt "#30408"
 msgid "230"
-msgstr ""
+msgstr "230"
 
 msgctxt "#30409"
 msgid "231"
-msgstr ""
+msgstr "231"
 
 msgctxt "#30410"
 msgid "232"
-msgstr ""
+msgstr "232"
 
 msgctxt "#30411"
 msgid "233"
-msgstr ""
+msgstr "233"
 
 msgctxt "#30412"
 msgid "234"
-msgstr ""
+msgstr "234"
 
 msgctxt "#30413"
 msgid "235"
-msgstr ""
+msgstr "235"
 
 msgctxt "#30414"
 msgid "236"
-msgstr ""
+msgstr "236"
 
 msgctxt "#30415"
 msgid "237"
-msgstr ""
+msgstr "237"
 
 msgctxt "#30416"
 msgid "238"
-msgstr ""
+msgstr "238"
 
 msgctxt "#30417"
 msgid "239"
-msgstr ""
+msgstr "239"
 
 msgctxt "#30418"
 msgid "240"
-msgstr ""
+msgstr "240"
 
 msgctxt "#30419"
 msgid "241"
-msgstr ""
+msgstr "241"
 
 msgctxt "#30420"
 msgid "242"
-msgstr ""
+msgstr "242"
 
 msgctxt "#30421"
 msgid "243"
-msgstr ""
+msgstr "243"
 
 msgctxt "#30422"
 msgid "244"
-msgstr ""
+msgstr "244"
 
 msgctxt "#30423"
 msgid "245"
-msgstr ""
+msgstr "245"
 
 msgctxt "#30424"
 msgid "246"
-msgstr ""
+msgstr "246"
 
 msgctxt "#30425"
 msgid "247"
-msgstr ""
+msgstr "247"
 
 msgctxt "#30426"
 msgid "248"
-msgstr ""
+msgstr "248"
 
 msgctxt "#30427"
 msgid "249"
-msgstr ""
+msgstr "249"
 
 msgctxt "#30428"
 msgid "250"
-msgstr ""
+msgstr "250"
 
 msgctxt "#30429"
 msgid "251"
-msgstr ""
+msgstr "251"
 
 msgctxt "#30430"
 msgid "252"
-msgstr ""
+msgstr "252"
 
 msgctxt "#30431"
 msgid "253"
-msgstr ""
+msgstr "253"
 
 msgctxt "#30432"
 msgid "254"
-msgstr ""
+msgstr "254"
 
 msgctxt "#30433"
 msgid "255"
-msgstr ""
+msgstr "255"
 
 msgctxt "#30434"
 msgid "256"
-msgstr ""
+msgstr "256"
 
 msgctxt "#30435"
 msgid "257"
-msgstr ""
+msgstr "257"
 
 msgctxt "#30436"
 msgid "258"
-msgstr ""
+msgstr "258"
 
 msgctxt "#30437"
 msgid "259"
-msgstr ""
+msgstr "259"
 
 msgctxt "#30438"
 msgid "260"
-msgstr ""
+msgstr "260"
 
 msgctxt "#30439"
 msgid "261"
-msgstr ""
+msgstr "261"
 
 msgctxt "#30440"
 msgid "262"
-msgstr ""
+msgstr "262"
 
 msgctxt "#30441"
 msgid "263"
-msgstr ""
+msgstr "263"
 
 msgctxt "#30442"
 msgid "264"
-msgstr ""
+msgstr "264"
 
 msgctxt "#30443"
 msgid "265"
-msgstr ""
+msgstr "265"
 
 msgctxt "#30444"
 msgid "266"
-msgstr ""
+msgstr "266"
 
 msgctxt "#30445"
 msgid "267"
-msgstr ""
+msgstr "267"
 
 msgctxt "#30446"
 msgid "268"
-msgstr ""
+msgstr "268"
 
 msgctxt "#30447"
 msgid "269"
-msgstr ""
+msgstr "269"
 
 msgctxt "#30448"
 msgid "270"
-msgstr ""
+msgstr "270"
 
 msgctxt "#30449"
 msgid "271"
-msgstr ""
+msgstr "271"
 
 msgctxt "#30450"
 msgid "272"
-msgstr ""
+msgstr "272"
 
 msgctxt "#30451"
 msgid "273"
-msgstr ""
+msgstr "273"
 
 msgctxt "#30452"
 msgid "274"
-msgstr ""
+msgstr "274"
 
 msgctxt "#30453"
 msgid "275"
-msgstr ""
+msgstr "275"
 
 msgctxt "#30454"
 msgid "276"
-msgstr ""
+msgstr "276"
 
 msgctxt "#30455"
 msgid "277"
-msgstr ""
+msgstr "277"
 
 msgctxt "#30456"
 msgid "278"
-msgstr ""
+msgstr "278"
 
 msgctxt "#30457"
 msgid "279"
-msgstr ""
+msgstr "279"
 
 msgctxt "#30458"
 msgid "280"
-msgstr ""
+msgstr "280"
 
 msgctxt "#30459"
 msgid "281"
-msgstr ""
+msgstr "281"
 
 msgctxt "#30460"
 msgid "282"
-msgstr ""
+msgstr "282"
 
 msgctxt "#30461"
 msgid "283"
-msgstr ""
+msgstr "283"
 
 msgctxt "#30462"
 msgid "284"
-msgstr ""
+msgstr "284"
 
 msgctxt "#30463"
 msgid "285"
-msgstr ""
+msgstr "285"
 
 msgctxt "#30464"
 msgid "286"
-msgstr ""
+msgstr "286"
 
 msgctxt "#30465"
 msgid "0px"
-msgstr ""
+msgstr "0 пкс"
 
 msgctxt "#30466"
 msgid "41"
-msgstr ""
+msgstr "41"
 
 msgctxt "#30467"
 msgid "42"
-msgstr ""
+msgstr "42"
 
 msgctxt "#30468"
 msgid "43"
-msgstr ""
+msgstr "43"
 
 msgctxt "#30469"
 msgid "44"
-msgstr ""
+msgstr "44"
 
 msgctxt "#30470"
 msgid "45"
-msgstr ""
+msgstr "45"
 
 msgctxt "#30471"
 msgid "46"
-msgstr ""
+msgstr "46"
 
 msgctxt "#30472"
 msgid "47"
-msgstr ""
+msgstr "47"
 
 msgctxt "#30473"
 msgid "48"
-msgstr ""
+msgstr "48"
 
 msgctxt "#30474"
 msgid "49"
-msgstr ""
+msgstr "49"
 
 msgctxt "#30475"
 msgid "50"
-msgstr ""
+msgstr "50"
 
 msgctxt "#30476"
 msgid "51"
-msgstr ""
+msgstr "51"
 
 msgctxt "#30477"
 msgid "52"
-msgstr ""
+msgstr "52"
 
 msgctxt "#30478"
 msgid "53"
-msgstr ""
+msgstr "53"
 
 msgctxt "#30479"
 msgid "54"
-msgstr ""
+msgstr "54"
 
 msgctxt "#30480"
 msgid "55"
-msgstr ""
+msgstr "55"
 
 msgctxt "#30481"
 msgid "56"
-msgstr ""
+msgstr "56"
 
 msgctxt "#30482"
 msgid "57"
-msgstr ""
+msgstr "57"
 
 msgctxt "#30483"
 msgid "58"
-msgstr ""
+msgstr "58"
 
 msgctxt "#30484"
 msgid "59"
-msgstr ""
+msgstr "59"
 
 msgctxt "#30485"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 msgctxt "#30486"
 msgid "61"
-msgstr ""
+msgstr "61"
 
 msgctxt "#30487"
 msgid "62"
-msgstr ""
+msgstr "62"
 
 msgctxt "#30488"
 msgid "63"
-msgstr ""
+msgstr "63"
 
 msgctxt "#30489"
 msgid "384"
-msgstr ""
+msgstr "384"
 
 msgctxt "#30490"
 msgid "512"
-msgstr ""
+msgstr "512"
 
 msgctxt "#30491"
 msgid "640"
-msgstr ""
+msgstr "640"
 
 msgctxt "#30492"
 msgid "768"
-msgstr ""
+msgstr "768"
 
 msgctxt "#30493"
 msgid "896"
-msgstr ""
+msgstr "896"
 
 msgctxt "#30494"
 msgid "1024"
-msgstr ""
+msgstr "1024"
 
 msgctxt "#30495"
 msgid "1152"
-msgstr ""
+msgstr "1152"
 
 msgctxt "#30496"
 msgid "1280"
-msgstr ""
+msgstr "1280"
 
 msgctxt "#30497"
 msgid "1408"
-msgstr ""
+msgstr "1408"
 
 msgctxt "#30498"
 msgid "1536"
-msgstr ""
+msgstr "1536"
 
 msgctxt "#30499"
 msgid "1664"
-msgstr ""
+msgstr "1664"
 
 msgctxt "#30500"
 msgid "1792"
-msgstr ""
+msgstr "1792"
 
 msgctxt "#30501"
 msgid "1920"
-msgstr ""
+msgstr "1920"
 
 msgctxt "#30502"
 msgid "2048"
-msgstr ""
+msgstr "2048"
 
 msgctxt "#30503"
 msgid "Compatibility Settings"
-msgstr ""
+msgstr "Настройки совместимости"
 
 msgctxt "#30504"
 msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
-msgstr ""
+msgstr "Применять настройки совместимости для каждой игры и для каждого параметра. Отключите, чтобы позволить выбранным пользователем настройкам переопределять их."
 
 msgctxt "#30505"
 msgid "Enabled (Recommended)"
-msgstr ""
+msgstr "Включено (рекомендуется)"
 
 msgctxt "#30506"
 msgid "Disabled (Allow Overrides)"
-msgstr ""
+msgstr "Отключено (разрешить переопределения)"
 
 #~ msgctxt "#30003"
 #~ msgid "Frame Duping (Speedup)"
