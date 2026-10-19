@@ -259,7 +259,7 @@ msgstr "Настройка параметров системы и разгона
 
 msgctxt "#30073"
 msgid "Overclock (or underclock) the emulated PSX CPU. Overclocking can eliminate slowdown and improve frame rates in certain games at the expense of increased performance requirements. Note that some games have an internal frame rate limiter and may not benefit from overclocking. May cause certain effects to animate faster than intended in some titles when overclocked."
-msgstr "Разгон (или занижение) частоты ЦП эмулируемой PSX. В некоторых играх может устранить замедления и выровнять частоту кадров, но повышает нагрузку. Часть игр не получит преимуществ из-за наличия внутренних ограничителей частоты. Также может привести к завышению скорости анимаций."
+msgstr "Разгон (или занижение) частоты CPU эмулируемой PSX. В некоторых играх может устранить замедления и выровнять частоту кадров, но повышает нагрузку. Часть игр не получит преимуществ из-за наличия внутр. ограничителей частоты. Также может привести к завышению скорости анимаций."
 
 msgctxt "#30074"
 msgid "100% (Native)"
@@ -275,7 +275,7 @@ msgstr "1x (нативно)"
 
 msgctxt "#30077"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
-msgstr "Понижает задержку выполнения операций эмулируемого GTE (сопроцессора ЦП для 3D-графики) до одного цикла. Поднимает частоту кадров и стабилизирует время кадра в играх, интенсивно использующих GTE."
+msgstr "Понижает задержку выполнения операций эмулируемого GTE (сопроцессора для 3D-графики) до одного цикла. Поднимает частоту кадров и стабилизирует время кадра в играх, интенсивно использующих GTE."
 
 msgctxt "#30078"
 msgid "'Synchronous' mimics original hardware. 'Asynchronous' can reduce stuttering on devices with slow storage. 'Pre-Cache' loads the entire disk image into memory when launching content, which may improve in-game loading times at the cost of an initial delay at startup. 'Pre-Cache' may cause issues on systems with low RAM, and will fall back to 'Synchronous' for physical media. Restart required."
@@ -507,7 +507,7 @@ msgstr "Только память"
 
 msgctxt "#30135"
 msgid "Memory + CPU (Buggy)"
-msgstr "Память + ЦП (нестабильно)"
+msgstr "Память + CPU (нестабильно)"
 
 msgctxt "#30136"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
@@ -539,7 +539,7 @@ msgstr "Выводить на экран сообщения, генерируе�
 
 msgctxt "#30143"
 msgid "Input"
-msgstr "Ввод"
+msgstr "Устройства ввода"
 
 msgctxt "#30144"
 msgid "Change light gun, mouse and neGcon settings."
@@ -811,7 +811,7 @@ msgstr "Пропускать посэмпловую обработку голо�
 
 msgctxt "#30211"
 msgid "Dynamically recompile CPU instructions to native instructions. Much faster than interpreter, but CPU timing is less accurate, and may have bugs."
-msgstr "Динамически преобразовывает инструкции ЦП в нативные. Существенно быстрее интерпретатора, но обеспечивает меньшую точность таймингов ЦП и может вызывать ошибки."
+msgstr "Динамически преобразовывает инструкции CPU в нативные. Существенно быстрее интерпретатора, но обеспечивает меньшую точность таймингов CPU и может вызывать ошибки."
 
 msgctxt "#30212"
 msgid "Disabled (Beetle Interpreter)"
@@ -851,7 +851,7 @@ msgstr "1 (точно, исправляет Parasite Eve 2 и др.)"
 
 msgctxt "#30221"
 msgid "Max cycles run by CPU before a GPU/DMA/MDEC/Timer Update is checked, higher number will be faster, has much less impact on beetle interpreter than dynarec."
-msgstr "Максимум циклов, выполняемых процессором до проверки обновления ГП/DMA/MDEC/таймеров. Более высокие значения повышают скорость. Для интерпретатора beetle эффект менее выражен, чем для dynarec."
+msgstr "Макс. циклов, выполняемых процессором до проверки обновления таймеров/GPU/DMA/MDEC. Более высокие значения повышают скорость. Для интерпретатора beetle эффект менее выражен, чем для dynarec."
 
 msgctxt "#30222"
 msgid "128 (Default)"

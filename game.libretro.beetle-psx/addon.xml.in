@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-psx"
 		name="Sony - PlayStation (Beetle PSX)"
-		version="0.9.44.94"
+		version="0.9.44.95"
 		provider-name="Mednafen Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -21,7 +21,7 @@
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>true</supports_disc_control>
-		<requires_opengl>false</requires_opengl>
+		<libretro_core>mednafen_psx_libretro</libretro_core>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>
