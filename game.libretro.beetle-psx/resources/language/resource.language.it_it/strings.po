@@ -359,7 +359,7 @@ msgstr ""
 
 msgctxt "#30098"
 msgid "Internal Resolution"
-msgstr "Risoluzione interna"
+msgstr "Risoluzione Interna"
 
 msgctxt "#30099"
 msgid "Automatic Toggling allows the core to switch between progressive and interlaced rates."
@@ -419,7 +419,7 @@ msgstr "Corretto"
 
 msgctxt "#30113"
 msgid "Uncorrected"
-msgstr "Non corretto"
+msgstr "Non Corretto"
 
 msgctxt "#30114"
 msgid "Force 4:3"
@@ -511,7 +511,7 @@ msgstr "Memoria + CPU (Buggy)"
 
 msgctxt "#30136"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
-msgstr "Nascondi gli errori più evidenti nelle operazioni PGXP: il valore specifica la tolleranza entro cui i valori PGXP verranno mantenuti nel caso di geometrie prive di informazioni di profondità adeguate."
+msgstr "Ocultar errores más evidentes en las operaciones de PGXP: el valor especifica la tolerancia en la que se mantendrán los valores de PGXP en caso de geometrías sin la información de profundidad adecuada"
 
 msgctxt "#30137"
 msgid "Use PGXP's NCLIP implementation. Improves appearance by reducing holes in geometries with PGXP coordinates. Known to cause some games to lock up in various circumstances."
