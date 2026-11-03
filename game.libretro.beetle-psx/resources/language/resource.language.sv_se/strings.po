@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.beetle-psx\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-24 22:21i\n"
-"PO-Revision-Date: 2025-04-20 20:03+0000\n"
+"PO-Revision-Date: 2026-11-03 10:21+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-beetle-psx/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 2026.11\n"
 
 msgctxt "Addon Summary"
 msgid "Sony - PlayStation (Beetle PSX)"
@@ -239,19 +239,19 @@ msgstr "Korrekt texturering för PGXP-perspektiv"
 
 msgctxt "#30068"
 msgid "SPU Silent Voice Optimization"
-msgstr ""
+msgstr "SPU-optimering av tysta röster"
 
 msgctxt "#30069"
 msgid "Dynarec Cycles Per Instruction"
-msgstr ""
+msgstr "Dynarec-cykler per instruktion"
 
 msgctxt "#30070"
 msgid "Dynarec SP GP Hit RAM Optimization"
-msgstr ""
+msgstr "Dynarec-optimering för SP/GP-träffar i RAM"
 
 msgctxt "#30071"
 msgid "System"
-msgstr ""
+msgstr "System"
 
 msgctxt "#30072"
 msgid "Change system and overclocking options."
@@ -311,39 +311,39 @@ msgstr "Åsidosätt det vanliga regionsspecifika BIOS med ett regionsfritt BIOS 
 
 msgctxt "#30086"
 msgid "PSP PS1 BIOS"
-msgstr ""
+msgstr "PSP PS1 BIOS"
 
 msgctxt "#30087"
 msgid "PS3 PS1 BIOS"
-msgstr ""
+msgstr "PS3 PS1 BIOS"
 
 msgctxt "#30088"
 msgid "OpenBIOS"
-msgstr ""
+msgstr "OpenBIOS"
 
 msgctxt "#30089"
 msgid "Sets the fallback region used when content cannot be auto-detected (e.g. raw PS-X EXE files). Disc-based games still use the region embedded on the disc. Restart required."
-msgstr ""
+msgstr "Ställer in reservregionen som används när innehåll inte kan identifieras automatiskt (till exempel råa PS-X EXE-filer). Skivbaserade spel använder fortfarande regionen som är inbäddad på skivan. Omstart krävs."
 
 msgctxt "#30090"
 msgid "Auto"
-msgstr ""
+msgstr "Automatiskt"
 
 msgctxt "#30091"
 msgid "NTSC-J (Japan)"
-msgstr ""
+msgstr "NTSC-J (Japan)"
 
 msgctxt "#30092"
 msgid "NTSC-U (North America)"
-msgstr ""
+msgstr "NTSC-U (Nordamerika)"
 
 msgctxt "#30093"
 msgid "PAL (Europe)"
-msgstr ""
+msgstr "PAL (Europa)"
 
 msgctxt "#30094"
 msgid "Video"
-msgstr ""
+msgstr "Bild"
 
 msgctxt "#30095"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
@@ -379,27 +379,27 @@ msgstr "Tvinga frekvens med interlace"
 
 msgctxt "#30103"
 msgid "'Weave' shows both fields on the same frame for full high resolution still image, 'Bob' sacrificies resolution clarity for motion clarity. 'Bob (Offset)' is Bob with the current field doubled into the full surface height with a one-line offset between fields, preserving the libretro output resolution while keeping Bob-style smooth motion. 'FastMAD (Motion Adaptive)' weaves still pixels and vertically-interpolates moving pixels per-pixel, full output height with neither weave's comb on motion nor bob's halved resolution. 'Off' makes the software renderer match the hardware (Vulkan/OpenGL) renderer behaviour by rasterising to all VRAM lines every frame and deferring scanout to the end of the frame, eliminating comb-on-motion in interlaced games. Note: programs that DMA to VRAM during scanout (some demos using >512-line PAL framebuffer-wrap tricks), or that update moving sprites via CPU-to-VRAM image transfers tied to the displayed field (e.g. Pro Pinball), may show stale rows or sprite ghosting under 'Off'; use 'Weave', 'Bob', 'Bob (Offset)', or 'FastMAD' for those."
-msgstr ""
+msgstr "”Vävning” visar båda fälten i samma bildruta för en stillbild med full hög upplösning, medan ”Bob” offrar upplösningsskärpa för rörelseskärpa. ”Bob (förskjutning)” är Bob där det aktuella fältet fördubblas till hela ytans höjd med en rads förskjutning mellan fälten. Det bevarar libretro-utdataupplösningen samtidigt som Bobs jämna rörelse behålls. ”FastMAD (rörelseadaptiv)” väver stillastående bildpunkter och vertikalinterpolerar rörliga bildpunkter per bildpunkt, med full utdatahöjd utan vare sig vävningens kamartefakter i rörelse eller Bobs halverade upplösning. ”Av” gör att programvarurenderaren matchar hårdvarurenderarnas (Vulkan/OpenGL) beteende genom att rastrera alla VRAM-rader i varje bildruta och skjuta upp skärmavsökningen till bildrutans slut, vilket eliminerar kamartefakter i rörelse i sammanflätade spel. Obs! Program som DMA:ar till VRAM under skärmavsökningen (vissa demon som använder PAL-bildbuffertomslag med fler än 512 rader), eller som uppdaterar rörliga spritefigurer via CPU-till-VRAM-bildöverföringar bundna till det visade fältet (till exempel Pro Pinball), kan visa inaktuella rader eller spökbilder av spritefigurer med ”Av”. Använd då ”Vävning”, ”Bob”, ”Bob (förskjutning)” eller ”FastMAD”."
 
 msgctxt "#30104"
 msgid "Weave"
-msgstr ""
+msgstr "Vävning"
 
 msgctxt "#30105"
 msgid "Bob"
-msgstr ""
+msgstr "Bob"
 
 msgctxt "#30106"
 msgid "Bob (Offset)"
-msgstr ""
+msgstr "Bob (förskjutning)"
 
 msgctxt "#30107"
 msgid "FastMAD (Motion Adaptive)"
-msgstr ""
+msgstr "FastMAD (rörelseadaptiv)"
 
 msgctxt "#30108"
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 msgctxt "#30109"
 msgid "Repeat the previous frame if the core has nothing new to display."
@@ -431,7 +431,7 @@ msgstr "Tvinga NTSC"
 
 msgctxt "#30116"
 msgid "Force 16:9"
-msgstr ""
+msgstr "Framtvinga 16:9"
 
 msgctxt "#30117"
 msgid "Full native image or no borders."
@@ -439,7 +439,7 @@ msgstr "Fullständig inbyggd bild eller inga ramar."
 
 msgctxt "#30118"
 msgid "Disabled"
-msgstr ""
+msgstr "Inaktiverad"
 
 msgctxt "#30119"
 msgid "Horizontal"
@@ -455,7 +455,7 @@ msgstr "Minska bredden på den beskärda bilden med det angivna antalet bildpunk
 
 msgctxt "#30122"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgctxt "#30123"
 msgid "Offset horizontally to the right (positive) or left (negative) by the specified number of pixels. May be used to correct alignment issues. Only supported by the software renderer."
@@ -467,7 +467,7 @@ msgstr "Första visade skanningslinjen vid uppspelning av NTSC-innehåll. Värde
 
 msgctxt "#30125"
 msgid "0 (Default)"
-msgstr ""
+msgstr "0 (standard)"
 
 msgctxt "#30126"
 msgid "Last displayed scan line when running NTSC content. Values less than 239 will reduce the height of output images by cropping pixels from the bottommost edge. May be used to counteract letterboxing."
@@ -519,7 +519,7 @@ msgstr "Använd PGXP: s NCLIP-implementering. Förbättrar utseendet genom att m
 
 msgctxt "#30138"
 msgid "Replace native PSX affine texture mapping with perspective correct texture mapping. Eliminates position-dependent distortion and warping of textures, resulting in properly aligned textures. This option is applied only when PGXP Operation Mode is enabled. Supported by the hardware renderers and the software renderer."
-msgstr ""
+msgstr "Ersätter PSX inbyggda affina texturmappning med perspektivkorrekt texturmappning. Eliminerar positionsberoende förvrängning och skevhet i texturer, vilket ger korrekt justerade texturer. Alternativet tillämpas endast när PGXP-driftläge är aktiverat. Stöds av hårdvarurenderarna och programvarurenderaren."
 
 msgctxt "#30139"
 msgid "On-Screen Display"
@@ -563,43 +563,43 @@ msgstr "Knappkombinationen som används för att växla mellan DIGITAL- och ANAL
 
 msgctxt "#30149"
 msgid "L1 + L2 + R1 + R2 + Start + Select"
-msgstr ""
+msgstr "L1 + L2 + R1 + R2 + Start + Select"
 
 msgctxt "#30150"
 msgid "L1 + R1 + Select"
-msgstr ""
+msgstr "L1 + R1 + Select"
 
 msgctxt "#30151"
 msgid "L1 + R1 + Start"
-msgstr ""
+msgstr "L1 + R1 + Start"
 
 msgctxt "#30152"
 msgid "L1 + R1 + L3"
-msgstr ""
+msgstr "L1 + R1 + L3"
 
 msgctxt "#30153"
 msgid "L1 + R1 + R3"
-msgstr ""
+msgstr "L1 + R1 + R3"
 
 msgctxt "#30154"
 msgid "L2 + R2 + Select"
-msgstr ""
+msgstr "L2 + R2 + Select"
 
 msgctxt "#30155"
 msgid "L2 + R2 + Start"
-msgstr ""
+msgstr "L2 + R2 + Start"
 
 msgctxt "#30156"
 msgid "L2 + R2 + L3"
-msgstr ""
+msgstr "L2 + R2 + L3"
 
 msgctxt "#30157"
 msgid "L2 + R2 + R3"
-msgstr ""
+msgstr "L2 + R2 + R3"
 
 msgctxt "#30158"
 msgid "L3 + R3"
-msgstr ""
+msgstr "L3 + R3"
 
 msgctxt "#30159"
 msgid "Hold time for the analog mode combo buttons."
@@ -655,7 +655,7 @@ msgstr "Rita en markör på skärmen när du använder enhetstyper för inmatnin
 
 msgctxt "#30172"
 msgid "disabled"
-msgstr ""
+msgstr "inaktiverad"
 
 msgctxt "#30173"
 msgid "Cross"
@@ -683,7 +683,7 @@ msgstr "Grön"
 
 msgctxt "#30179"
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 msgctxt "#30180"
 msgid "Yellow"
@@ -691,7 +691,7 @@ msgstr "Gul"
 
 msgctxt "#30181"
 msgid "Cyan"
-msgstr ""
+msgstr "Cyanblå"
 
 msgctxt "#30182"
 msgid "Pink"
@@ -751,11 +751,11 @@ msgstr "Format för sparat data som används för det vänstra minneskortfacket.
 
 msgctxt "#30196"
 msgid "Libretro"
-msgstr ""
+msgstr "Libretro"
 
 msgctxt "#30197"
 msgid "Mednafen"
-msgstr ""
+msgstr "Mednafen"
 
 msgctxt "#30198"
 msgid "Emulate a second memory card in the right memory card slot. Note: Some games require this option to be disabled for correct operation (e.g. Codename Tenka). Note: Memory Card Slot 2 uses the Mednafen (.mcr) save format. Restart required."
@@ -775,7 +775,7 @@ msgstr "Minneskortet är för närvarande isatt i den högra kortplatsen. Det h�
 
 msgctxt "#30202"
 msgid "1 (Default)"
-msgstr ""
+msgstr "1 (standard)"
 
 msgctxt "#30203"
 msgid "Emulation Hacks"
@@ -807,7 +807,7 @@ msgstr "Bildförhållande som ska användas av Hack för bredbildsläge."
 
 msgctxt "#30210"
 msgid "Skip the per-sample processing of voices whose envelope has fully released. Audio output is identical; the optimization automatically disables itself while the SPU IRQ is in use. Saves roughly 5-10% of frame time. Disable for fully accurate SPU register state."
-msgstr ""
+msgstr "Hoppa över bearbetning per samplingsvärde av röster vars amplitudkurva helt har klingat ut. Ljudutdata är identiska; optimeringen inaktiveras automatiskt medan SPU-IRQ används. Sparar ungefär 5–10 % av bildrutetiden. Inaktivera för helt korrekt SPU-registertillstånd"
 
 msgctxt "#30211"
 msgid "Dynamically recompile CPU instructions to native instructions. Much faster than interpreter, but CPU timing is less accurate, and may have bugs."
@@ -831,7 +831,7 @@ msgstr "Vissa spel kräver \"Fullständig\" invalidering, vissa kräver \"Endast
 
 msgctxt "#30216"
 msgid "Full"
-msgstr ""
+msgstr "Fullständig"
 
 msgctxt "#30217"
 msgid "DMA Only (Slightly Faster)"
@@ -839,15 +839,15 @@ msgstr "Endast DMA (lite snabbare)"
 
 msgctxt "#30218"
 msgid "Cycles the dynarec charges per CPU instruction. '2' is faster, but the emulated CPU appears half-speed to games that pace themselves against it - set '1' for games whose CD streaming stalls or hangs under the dynarec (e.g. Parasite Eve 2). The '1' setting charges memory accesses two cycles and everything else one, close to the real CPU."
-msgstr ""
+msgstr "Cykler som dynarec debiterar per CPU-instruktion. ”2” är snabbare, men den emulerade CPU:n upplevs som halverad för spel som styr takten efter den – välj ”1” för spel vars CD-strömning stannar eller låser sig med dynarec (till exempel Parasite Eve 2). Inställningen ”1” debiterar minnesåtkomster två cykler och allt annat en, nära den verkliga CPU:n."
 
 msgctxt "#30219"
 msgid "2 (Default)"
-msgstr ""
+msgstr "2 (standard)"
 
 msgctxt "#30220"
 msgid "1 (Accurate, Fixes Parasite Eve 2 etc.)"
-msgstr ""
+msgstr "1 (korrekt, åtgärdar Parasite Eve 2 med flera)"
 
 msgctxt "#30221"
 msgid "Max cycles run by CPU before a GPU/DMA/MDEC/Timer Update is checked, higher number will be faster, has much less impact on beetle interpreter than dynarec."
@@ -863,1135 +863,1135 @@ msgstr "Max SPU-samplingar som ska köras innan en SPU-uppdatering kontrolleras,
 
 msgctxt "#30224"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
-msgstr ""
+msgstr "Aktiverad genererar snabbare kod, men kan orsaka en krasch eftersom sp- och gp-register antas peka på RAM. Inaktiverad är mer kompatibel"
 
 msgctxt "#30225"
 msgid "50%"
-msgstr ""
+msgstr "50%"
 
 msgctxt "#30226"
 msgid "60%"
-msgstr ""
+msgstr "60%"
 
 msgctxt "#30227"
 msgid "70%"
-msgstr ""
+msgstr "70%"
 
 msgctxt "#30228"
 msgid "80%"
-msgstr ""
+msgstr "80%"
 
 msgctxt "#30229"
 msgid "90%"
-msgstr ""
+msgstr "90%"
 
 msgctxt "#30230"
 msgid "110%"
-msgstr ""
+msgstr "110%"
 
 msgctxt "#30231"
 msgid "120%"
-msgstr ""
+msgstr "120%"
 
 msgctxt "#30232"
 msgid "130%"
-msgstr ""
+msgstr "130%"
 
 msgctxt "#30233"
 msgid "140%"
-msgstr ""
+msgstr "140%"
 
 msgctxt "#30234"
 msgid "150%"
-msgstr ""
+msgstr "150%"
 
 msgctxt "#30235"
 msgid "160%"
-msgstr ""
+msgstr "160%"
 
 msgctxt "#30236"
 msgid "170%"
-msgstr ""
+msgstr "170%"
 
 msgctxt "#30237"
 msgid "180%"
-msgstr ""
+msgstr "180%"
 
 msgctxt "#30238"
 msgid "190%"
-msgstr ""
+msgstr "190%"
 
 msgctxt "#30239"
 msgid "200%"
-msgstr ""
+msgstr "200%"
 
 msgctxt "#30240"
 msgid "210%"
-msgstr ""
+msgstr "210%"
 
 msgctxt "#30241"
 msgid "220%"
-msgstr ""
+msgstr "220%"
 
 msgctxt "#30242"
 msgid "230%"
-msgstr ""
+msgstr "230%"
 
 msgctxt "#30243"
 msgid "240%"
-msgstr ""
+msgstr "240%"
 
 msgctxt "#30244"
 msgid "250%"
-msgstr ""
+msgstr "250%"
 
 msgctxt "#30245"
 msgid "260%"
-msgstr ""
+msgstr "260%"
 
 msgctxt "#30246"
 msgid "270%"
-msgstr ""
+msgstr "270%"
 
 msgctxt "#30247"
 msgid "280%"
-msgstr ""
+msgstr "280%"
 
 msgctxt "#30248"
 msgid "290%"
-msgstr ""
+msgstr "290%"
 
 msgctxt "#30249"
 msgid "300%"
-msgstr ""
+msgstr "300%"
 
 msgctxt "#30250"
 msgid "310%"
-msgstr ""
+msgstr "310%"
 
 msgctxt "#30251"
 msgid "320%"
-msgstr ""
+msgstr "320%"
 
 msgctxt "#30252"
 msgid "330%"
-msgstr ""
+msgstr "330%"
 
 msgctxt "#30253"
 msgid "340%"
-msgstr ""
+msgstr "340%"
 
 msgctxt "#30254"
 msgid "350%"
-msgstr ""
+msgstr "350%"
 
 msgctxt "#30255"
 msgid "360%"
-msgstr ""
+msgstr "360%"
 
 msgctxt "#30256"
 msgid "370%"
-msgstr ""
+msgstr "370%"
 
 msgctxt "#30257"
 msgid "380%"
-msgstr ""
+msgstr "380%"
 
 msgctxt "#30258"
 msgid "390%"
-msgstr ""
+msgstr "390%"
 
 msgctxt "#30259"
 msgid "400%"
-msgstr ""
+msgstr "400%"
 
 msgctxt "#30260"
 msgid "410%"
-msgstr ""
+msgstr "410%"
 
 msgctxt "#30261"
 msgid "420%"
-msgstr ""
+msgstr "420%"
 
 msgctxt "#30262"
 msgid "430%"
-msgstr ""
+msgstr "430%"
 
 msgctxt "#30263"
 msgid "440%"
-msgstr ""
+msgstr "440%"
 
 msgctxt "#30264"
 msgid "450%"
-msgstr ""
+msgstr "450%"
 
 msgctxt "#30265"
 msgid "460%"
-msgstr ""
+msgstr "460%"
 
 msgctxt "#30266"
 msgid "470%"
-msgstr ""
+msgstr "470%"
 
 msgctxt "#30267"
 msgid "480%"
-msgstr ""
+msgstr "480%"
 
 msgctxt "#30268"
 msgid "490%"
-msgstr ""
+msgstr "490%"
 
 msgctxt "#30269"
 msgid "500%"
-msgstr ""
+msgstr "500%"
 
 msgctxt "#30270"
 msgid "510%"
-msgstr ""
+msgstr "510%"
 
 msgctxt "#30271"
 msgid "520%"
-msgstr ""
+msgstr "520%"
 
 msgctxt "#30272"
 msgid "530%"
-msgstr ""
+msgstr "530%"
 
 msgctxt "#30273"
 msgid "540%"
-msgstr ""
+msgstr "540%"
 
 msgctxt "#30274"
 msgid "550%"
-msgstr ""
+msgstr "550%"
 
 msgctxt "#30275"
 msgid "560%"
-msgstr ""
+msgstr "560%"
 
 msgctxt "#30276"
 msgid "570%"
-msgstr ""
+msgstr "570%"
 
 msgctxt "#30277"
 msgid "580%"
-msgstr ""
+msgstr "580%"
 
 msgctxt "#30278"
 msgid "590%"
-msgstr ""
+msgstr "590%"
 
 msgctxt "#30279"
 msgid "600%"
-msgstr ""
+msgstr "600%"
 
 msgctxt "#30280"
 msgid "610%"
-msgstr ""
+msgstr "610%"
 
 msgctxt "#30281"
 msgid "620%"
-msgstr ""
+msgstr "620%"
 
 msgctxt "#30282"
 msgid "630%"
-msgstr ""
+msgstr "630%"
 
 msgctxt "#30283"
 msgid "640%"
-msgstr ""
+msgstr "640%"
 
 msgctxt "#30284"
 msgid "650%"
-msgstr ""
+msgstr "650%"
 
 msgctxt "#30285"
 msgid "660%"
-msgstr ""
+msgstr "660%"
 
 msgctxt "#30286"
 msgid "670%"
-msgstr ""
+msgstr "670%"
 
 msgctxt "#30287"
 msgid "680%"
-msgstr ""
+msgstr "680%"
 
 msgctxt "#30288"
 msgid "690%"
-msgstr ""
+msgstr "690%"
 
 msgctxt "#30289"
 msgid "700%"
-msgstr ""
+msgstr "700%"
 
 msgctxt "#30290"
 msgid "710%"
-msgstr ""
+msgstr "710%"
 
 msgctxt "#30291"
 msgid "720%"
-msgstr ""
+msgstr "720%"
 
 msgctxt "#30292"
 msgid "730%"
-msgstr ""
+msgstr "730%"
 
 msgctxt "#30293"
 msgid "740%"
-msgstr ""
+msgstr "740%"
 
 msgctxt "#30294"
 msgid "750%"
-msgstr ""
+msgstr "750%"
 
 msgctxt "#30295"
 msgid "2x"
-msgstr ""
+msgstr "2x"
 
 msgctxt "#30296"
 msgid "4x"
-msgstr ""
+msgstr "4x"
 
 msgctxt "#30297"
 msgid "8x"
-msgstr ""
+msgstr "8x"
 
 msgctxt "#30298"
 msgid "16x"
-msgstr ""
+msgstr "16x"
 
 msgctxt "#30299"
 msgid "32x"
-msgstr ""
+msgstr "32x"
 
 msgctxt "#30300"
 msgid "6x"
-msgstr ""
+msgstr "6x"
 
 msgctxt "#30301"
 msgid "10x"
-msgstr ""
+msgstr "10x"
 
 msgctxt "#30302"
 msgid "12x"
-msgstr ""
+msgstr "12x"
 
 msgctxt "#30303"
 msgid "14x"
-msgstr ""
+msgstr "14x"
 
 msgctxt "#30304"
 msgid "1px"
-msgstr ""
+msgstr "1px"
 
 msgctxt "#30305"
 msgid "2px"
-msgstr ""
+msgstr "2px"
 
 msgctxt "#30306"
 msgid "3px"
-msgstr ""
+msgstr "3px"
 
 msgctxt "#30307"
 msgid "4px"
-msgstr ""
+msgstr "4px"
 
 msgctxt "#30308"
 msgid "5px"
-msgstr ""
+msgstr "5px"
 
 msgctxt "#30309"
 msgid "6px"
-msgstr ""
+msgstr "6px"
 
 msgctxt "#30310"
 msgid "7px"
-msgstr ""
+msgstr "7px"
 
 msgctxt "#30311"
 msgid "8px"
-msgstr ""
+msgstr "8px"
 
 msgctxt "#30312"
 msgid "9px"
-msgstr ""
+msgstr "9px"
 
 msgctxt "#30313"
 msgid "10px"
-msgstr ""
+msgstr "10px"
 
 msgctxt "#30314"
 msgid "11px"
-msgstr ""
+msgstr "11px"
 
 msgctxt "#30315"
 msgid "12px"
-msgstr ""
+msgstr "12px"
 
 msgctxt "#30316"
 msgid "13px"
-msgstr ""
+msgstr "13px"
 
 msgctxt "#30317"
 msgid "14px"
-msgstr ""
+msgstr "14px"
 
 msgctxt "#30318"
 msgid "15px"
-msgstr ""
+msgstr "15px"
 
 msgctxt "#30319"
 msgid "16px"
-msgstr ""
+msgstr "16px"
 
 msgctxt "#30320"
 msgid "17px"
-msgstr ""
+msgstr "17px"
 
 msgctxt "#30321"
 msgid "18px"
-msgstr ""
+msgstr "18px"
 
 msgctxt "#30322"
 msgid "19px"
-msgstr ""
+msgstr "19px"
 
 msgctxt "#30323"
 msgid "20px"
-msgstr ""
+msgstr "20px"
 
 msgctxt "#30324"
 msgid "-12px"
-msgstr ""
+msgstr "-12px"
 
 msgctxt "#30325"
 msgid "-11px"
-msgstr ""
+msgstr "-11px"
 
 msgctxt "#30326"
 msgid "-10px"
-msgstr ""
+msgstr "-10px"
 
 msgctxt "#30327"
 msgid "-9px"
-msgstr ""
+msgstr "-9px"
 
 msgctxt "#30328"
 msgid "-8px"
-msgstr ""
+msgstr "-8px"
 
 msgctxt "#30329"
 msgid "-7px"
-msgstr ""
+msgstr "-7px"
 
 msgctxt "#30330"
 msgid "-6px"
-msgstr ""
+msgstr "-6px"
 
 msgctxt "#30331"
 msgid "-5px"
-msgstr ""
+msgstr "-5px"
 
 msgctxt "#30332"
 msgid "-4px"
-msgstr ""
+msgstr "-4px"
 
 msgctxt "#30333"
 msgid "-3px"
-msgstr ""
+msgstr "-3px"
 
 msgctxt "#30334"
 msgid "-2px"
-msgstr ""
+msgstr "-2px"
 
 msgctxt "#30335"
 msgid "-1px"
-msgstr ""
+msgstr "-1px"
 
 msgctxt "#30336"
 msgid "+1px"
-msgstr ""
+msgstr "+1px"
 
 msgctxt "#30337"
 msgid "+2px"
-msgstr ""
+msgstr "+2px"
 
 msgctxt "#30338"
 msgid "+3px"
-msgstr ""
+msgstr "+3px"
 
 msgctxt "#30339"
 msgid "+4px"
-msgstr ""
+msgstr "+4px"
 
 msgctxt "#30340"
 msgid "+5px"
-msgstr ""
+msgstr "+5px"
 
 msgctxt "#30341"
 msgid "+6px"
-msgstr ""
+msgstr "+6px"
 
 msgctxt "#30342"
 msgid "+7px"
-msgstr ""
+msgstr "+7px"
 
 msgctxt "#30343"
 msgid "+8px"
-msgstr ""
+msgstr "+8px"
 
 msgctxt "#30344"
 msgid "+9px"
-msgstr ""
+msgstr "+9px"
 
 msgctxt "#30345"
 msgid "+10px"
-msgstr ""
+msgstr "+10px"
 
 msgctxt "#30346"
 msgid "+11px"
-msgstr ""
+msgstr "+11px"
 
 msgctxt "#30347"
 msgid "+12px"
-msgstr ""
+msgstr "+12px"
 
 msgctxt "#30348"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "#30349"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "#30350"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "#30351"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "#30352"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "#30353"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "#30354"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "#30355"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "#30356"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "#30357"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgctxt "#30358"
 msgid "11"
-msgstr ""
+msgstr "11"
 
 msgctxt "#30359"
 msgid "12"
-msgstr ""
+msgstr "12"
 
 msgctxt "#30360"
 msgid "13"
-msgstr ""
+msgstr "13"
 
 msgctxt "#30361"
 msgid "14"
-msgstr ""
+msgstr "14"
 
 msgctxt "#30362"
 msgid "15"
-msgstr ""
+msgstr "15"
 
 msgctxt "#30363"
 msgid "16"
-msgstr ""
+msgstr "16"
 
 msgctxt "#30364"
 msgid "17"
-msgstr ""
+msgstr "17"
 
 msgctxt "#30365"
 msgid "18"
-msgstr ""
+msgstr "18"
 
 msgctxt "#30366"
 msgid "19"
-msgstr ""
+msgstr "19"
 
 msgctxt "#30367"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 msgctxt "#30368"
 msgid "21"
-msgstr ""
+msgstr "21"
 
 msgctxt "#30369"
 msgid "22"
-msgstr ""
+msgstr "22"
 
 msgctxt "#30370"
 msgid "23"
-msgstr ""
+msgstr "23"
 
 msgctxt "#30371"
 msgid "24"
-msgstr ""
+msgstr "24"
 
 msgctxt "#30372"
 msgid "25"
-msgstr ""
+msgstr "25"
 
 msgctxt "#30373"
 msgid "26"
-msgstr ""
+msgstr "26"
 
 msgctxt "#30374"
 msgid "27"
-msgstr ""
+msgstr "27"
 
 msgctxt "#30375"
 msgid "28"
-msgstr ""
+msgstr "28"
 
 msgctxt "#30376"
 msgid "29"
-msgstr ""
+msgstr "29"
 
 msgctxt "#30377"
 msgid "30"
-msgstr ""
+msgstr "30"
 
 msgctxt "#30378"
 msgid "31"
-msgstr ""
+msgstr "31"
 
 msgctxt "#30379"
 msgid "32"
-msgstr ""
+msgstr "32"
 
 msgctxt "#30380"
 msgid "33"
-msgstr ""
+msgstr "33"
 
 msgctxt "#30381"
 msgid "34"
-msgstr ""
+msgstr "34"
 
 msgctxt "#30382"
 msgid "35"
-msgstr ""
+msgstr "35"
 
 msgctxt "#30383"
 msgid "36"
-msgstr ""
+msgstr "36"
 
 msgctxt "#30384"
 msgid "37"
-msgstr ""
+msgstr "37"
 
 msgctxt "#30385"
 msgid "38"
-msgstr ""
+msgstr "38"
 
 msgctxt "#30386"
 msgid "39"
-msgstr ""
+msgstr "39"
 
 msgctxt "#30387"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 msgctxt "#30388"
 msgid "210"
-msgstr ""
+msgstr "210"
 
 msgctxt "#30389"
 msgid "211"
-msgstr ""
+msgstr "211"
 
 msgctxt "#30390"
 msgid "212"
-msgstr ""
+msgstr "212"
 
 msgctxt "#30391"
 msgid "213"
-msgstr ""
+msgstr "213"
 
 msgctxt "#30392"
 msgid "214"
-msgstr ""
+msgstr "214"
 
 msgctxt "#30393"
 msgid "215"
-msgstr ""
+msgstr "215"
 
 msgctxt "#30394"
 msgid "216"
-msgstr ""
+msgstr "216"
 
 msgctxt "#30395"
 msgid "217"
-msgstr ""
+msgstr "217"
 
 msgctxt "#30396"
 msgid "218"
-msgstr ""
+msgstr "218"
 
 msgctxt "#30397"
 msgid "219"
-msgstr ""
+msgstr "219"
 
 msgctxt "#30398"
 msgid "220"
-msgstr ""
+msgstr "220"
 
 msgctxt "#30399"
 msgid "221"
-msgstr ""
+msgstr "221"
 
 msgctxt "#30400"
 msgid "222"
-msgstr ""
+msgstr "222"
 
 msgctxt "#30401"
 msgid "223"
-msgstr ""
+msgstr "223"
 
 msgctxt "#30402"
 msgid "224"
-msgstr ""
+msgstr "224"
 
 msgctxt "#30403"
 msgid "225"
-msgstr ""
+msgstr "225"
 
 msgctxt "#30404"
 msgid "226"
-msgstr ""
+msgstr "226"
 
 msgctxt "#30405"
 msgid "227"
-msgstr ""
+msgstr "227"
 
 msgctxt "#30406"
 msgid "228"
-msgstr ""
+msgstr "228"
 
 msgctxt "#30407"
 msgid "229"
-msgstr ""
+msgstr "229"
 
 msgctxt "#30408"
 msgid "230"
-msgstr ""
+msgstr "230"
 
 msgctxt "#30409"
 msgid "231"
-msgstr ""
+msgstr "231"
 
 msgctxt "#30410"
 msgid "232"
-msgstr ""
+msgstr "232"
 
 msgctxt "#30411"
 msgid "233"
-msgstr ""
+msgstr "233"
 
 msgctxt "#30412"
 msgid "234"
-msgstr ""
+msgstr "234"
 
 msgctxt "#30413"
 msgid "235"
-msgstr ""
+msgstr "235"
 
 msgctxt "#30414"
 msgid "236"
-msgstr ""
+msgstr "236"
 
 msgctxt "#30415"
 msgid "237"
-msgstr ""
+msgstr "237"
 
 msgctxt "#30416"
 msgid "238"
-msgstr ""
+msgstr "238"
 
 msgctxt "#30417"
 msgid "239"
-msgstr ""
+msgstr "239"
 
 msgctxt "#30418"
 msgid "240"
-msgstr ""
+msgstr "240"
 
 msgctxt "#30419"
 msgid "241"
-msgstr ""
+msgstr "241"
 
 msgctxt "#30420"
 msgid "242"
-msgstr ""
+msgstr "242"
 
 msgctxt "#30421"
 msgid "243"
-msgstr ""
+msgstr "243"
 
 msgctxt "#30422"
 msgid "244"
-msgstr ""
+msgstr "244"
 
 msgctxt "#30423"
 msgid "245"
-msgstr ""
+msgstr "245"
 
 msgctxt "#30424"
 msgid "246"
-msgstr ""
+msgstr "246"
 
 msgctxt "#30425"
 msgid "247"
-msgstr ""
+msgstr "247"
 
 msgctxt "#30426"
 msgid "248"
-msgstr ""
+msgstr "248"
 
 msgctxt "#30427"
 msgid "249"
-msgstr ""
+msgstr "249"
 
 msgctxt "#30428"
 msgid "250"
-msgstr ""
+msgstr "250"
 
 msgctxt "#30429"
 msgid "251"
-msgstr ""
+msgstr "251"
 
 msgctxt "#30430"
 msgid "252"
-msgstr ""
+msgstr "252"
 
 msgctxt "#30431"
 msgid "253"
-msgstr ""
+msgstr "253"
 
 msgctxt "#30432"
 msgid "254"
-msgstr ""
+msgstr "254"
 
 msgctxt "#30433"
 msgid "255"
-msgstr ""
+msgstr "255"
 
 msgctxt "#30434"
 msgid "256"
-msgstr ""
+msgstr "256"
 
 msgctxt "#30435"
 msgid "257"
-msgstr ""
+msgstr "257"
 
 msgctxt "#30436"
 msgid "258"
-msgstr ""
+msgstr "258"
 
 msgctxt "#30437"
 msgid "259"
-msgstr ""
+msgstr "259"
 
 msgctxt "#30438"
 msgid "260"
-msgstr ""
+msgstr "260"
 
 msgctxt "#30439"
 msgid "261"
-msgstr ""
+msgstr "261"
 
 msgctxt "#30440"
 msgid "262"
-msgstr ""
+msgstr "262"
 
 msgctxt "#30441"
 msgid "263"
-msgstr ""
+msgstr "263"
 
 msgctxt "#30442"
 msgid "264"
-msgstr ""
+msgstr "264"
 
 msgctxt "#30443"
 msgid "265"
-msgstr ""
+msgstr "265"
 
 msgctxt "#30444"
 msgid "266"
-msgstr ""
+msgstr "266"
 
 msgctxt "#30445"
 msgid "267"
-msgstr ""
+msgstr "267"
 
 msgctxt "#30446"
 msgid "268"
-msgstr ""
+msgstr "268"
 
 msgctxt "#30447"
 msgid "269"
-msgstr ""
+msgstr "269"
 
 msgctxt "#30448"
 msgid "270"
-msgstr ""
+msgstr "270"
 
 msgctxt "#30449"
 msgid "271"
-msgstr ""
+msgstr "271"
 
 msgctxt "#30450"
 msgid "272"
-msgstr ""
+msgstr "272"
 
 msgctxt "#30451"
 msgid "273"
-msgstr ""
+msgstr "273"
 
 msgctxt "#30452"
 msgid "274"
-msgstr ""
+msgstr "274"
 
 msgctxt "#30453"
 msgid "275"
-msgstr ""
+msgstr "275"
 
 msgctxt "#30454"
 msgid "276"
-msgstr ""
+msgstr "276"
 
 msgctxt "#30455"
 msgid "277"
-msgstr ""
+msgstr "277"
 
 msgctxt "#30456"
 msgid "278"
-msgstr ""
+msgstr "278"
 
 msgctxt "#30457"
 msgid "279"
-msgstr ""
+msgstr "279"
 
 msgctxt "#30458"
 msgid "280"
-msgstr ""
+msgstr "280"
 
 msgctxt "#30459"
 msgid "281"
-msgstr ""
+msgstr "281"
 
 msgctxt "#30460"
 msgid "282"
-msgstr ""
+msgstr "282"
 
 msgctxt "#30461"
 msgid "283"
-msgstr ""
+msgstr "283"
 
 msgctxt "#30462"
 msgid "284"
-msgstr ""
+msgstr "284"
 
 msgctxt "#30463"
 msgid "285"
-msgstr ""
+msgstr "285"
 
 msgctxt "#30464"
 msgid "286"
-msgstr ""
+msgstr "286"
 
 msgctxt "#30465"
 msgid "0px"
-msgstr ""
+msgstr "0px"
 
 msgctxt "#30466"
 msgid "41"
-msgstr ""
+msgstr "41"
 
 msgctxt "#30467"
 msgid "42"
-msgstr ""
+msgstr "42"
 
 msgctxt "#30468"
 msgid "43"
-msgstr ""
+msgstr "43"
 
 msgctxt "#30469"
 msgid "44"
-msgstr ""
+msgstr "44"
 
 msgctxt "#30470"
 msgid "45"
-msgstr ""
+msgstr "45"
 
 msgctxt "#30471"
 msgid "46"
-msgstr ""
+msgstr "46"
 
 msgctxt "#30472"
 msgid "47"
-msgstr ""
+msgstr "47"
 
 msgctxt "#30473"
 msgid "48"
-msgstr ""
+msgstr "48"
 
 msgctxt "#30474"
 msgid "49"
-msgstr ""
+msgstr "49"
 
 msgctxt "#30475"
 msgid "50"
-msgstr ""
+msgstr "50"
 
 msgctxt "#30476"
 msgid "51"
-msgstr ""
+msgstr "51"
 
 msgctxt "#30477"
 msgid "52"
-msgstr ""
+msgstr "52"
 
 msgctxt "#30478"
 msgid "53"
-msgstr ""
+msgstr "53"
 
 msgctxt "#30479"
 msgid "54"
-msgstr ""
+msgstr "54"
 
 msgctxt "#30480"
 msgid "55"
-msgstr ""
+msgstr "55"
 
 msgctxt "#30481"
 msgid "56"
-msgstr ""
+msgstr "56"
 
 msgctxt "#30482"
 msgid "57"
-msgstr ""
+msgstr "57"
 
 msgctxt "#30483"
 msgid "58"
-msgstr ""
+msgstr "58"
 
 msgctxt "#30484"
 msgid "59"
-msgstr ""
+msgstr "59"
 
 msgctxt "#30485"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 msgctxt "#30486"
 msgid "61"
-msgstr ""
+msgstr "61"
 
 msgctxt "#30487"
 msgid "62"
-msgstr ""
+msgstr "62"
 
 msgctxt "#30488"
 msgid "63"
-msgstr ""
+msgstr "63"
 
 msgctxt "#30489"
 msgid "384"
-msgstr ""
+msgstr "384"
 
 msgctxt "#30490"
 msgid "512"
-msgstr ""
+msgstr "512"
 
 msgctxt "#30491"
 msgid "640"
-msgstr ""
+msgstr "640"
 
 msgctxt "#30492"
 msgid "768"
-msgstr ""
+msgstr "768"
 
 msgctxt "#30493"
 msgid "896"
-msgstr ""
+msgstr "896"
 
 msgctxt "#30494"
 msgid "1024"
-msgstr ""
+msgstr "1024"
 
 msgctxt "#30495"
 msgid "1152"
-msgstr ""
+msgstr "1152"
 
 msgctxt "#30496"
 msgid "1280"
-msgstr ""
+msgstr "1280"
 
 msgctxt "#30497"
 msgid "1408"
-msgstr ""
+msgstr "1408"
 
 msgctxt "#30498"
 msgid "1536"
-msgstr ""
+msgstr "1536"
 
 msgctxt "#30499"
 msgid "1664"
-msgstr ""
+msgstr "1664"
 
 msgctxt "#30500"
 msgid "1792"
-msgstr ""
+msgstr "1792"
 
 msgctxt "#30501"
 msgid "1920"
-msgstr ""
+msgstr "1920"
 
 msgctxt "#30502"
 msgid "2048"
-msgstr ""
+msgstr "2048"
 
 msgctxt "#30503"
 msgid "Compatibility Settings"
-msgstr ""
+msgstr "Kompatibilitetsinställningar"
 
 msgctxt "#30504"
 msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
-msgstr ""
+msgstr "Tillämpa kompatibilitetsinställningar per spel och inställning. Inaktivera för att låta användarvalda inställningar åsidosätta dem."
 
 msgctxt "#30505"
 msgid "Enabled (Recommended)"
-msgstr ""
+msgstr "Aktiverad (rekommenderas)"
 
 msgctxt "#30506"
 msgid "Disabled (Allow Overrides)"
-msgstr ""
+msgstr "Inaktiverad (tillåt åsidosättningar)"
 
 #~ msgctxt "#30003"
 #~ msgid "Frame Duping (Speedup)"
